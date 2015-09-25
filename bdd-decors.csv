@@ -1,0 +1,102 @@
+num,house,name,subject,type,date,room,wall,painter,location,credits
+dp1,"I, 2, 6",Maison des Mimes,"Ulysse tient le Palladion, Cassandre",Peinture,3e style,triclinium m,sud,Peintre du cithariste,MN109751,R. Deyts
+dp2,"I, 2, 28",Maison de la Grille Métallique,La prophétie de Cassandre,Peinture,3e style,triclinium i,est,Peintre de Cassandre,MN111476,Wikimedia Commons
+dp3,"I, 4, 5-25",Maison du Cithariste,Apollon et Poséidon devant Laomédon,Peinture,Début 3e,Pièce 20,est,Peintre d'Adonis blessé,MN111472,Pompei Pitture e Mosaici
+dp4,"I, 4, 5-25",Maison du Cithariste,Énée et Didon,Peinture,début 3e,Pièce 20,nord,,MN112282,Wikimedia Commons
+dp5,"I, 4, 5-25",Maison du Cithariste,Léda et le cygne,Peinture,début 3e,Pièce 20,sud,,MN120034,Pompei Pitture e Mosaici
+dp6,"I, 4, 5-25",Maison du Cithariste,Jugement de Pâris,Peinture,début 3e,Pièce 21,nord,Peintre du cithariste,MN120033,Pompei Pitture e Mosaici
+dp7,"I, 4, 5-25",Maison du Cithariste,Priam? Latinus? Nestor?,Peinture,début 3e,Pièce 23,nord,,presque entièrement disparue,Pompei Pitture e Mosaici
+dp8,"I, 4, 5-25",Maison du Cithariste,Iphigénie en Tauride,Peinture,4e style,Exèdre 35,est,Peintre d'Achille,MN9111,Pompei Pitture e Mosaici
+dp9,"I, 6, 2",Maison du Cryptoportique,Scènes de l'Iliade et du cycle homérique,Peinture,2e style II a,Cryptoportique,toutes,,"en place, en bonne partie détruite",Pompei Pitture e Mosaici
+dp10,"I, 6, 4",Maison du Laraire d'Achille,Scènes de l'Iliade,Stuc ,4e style,Laraire,Est-sud-ouest,,en place,Pompei Pitture e Mosaici
+dp11,"I, 7, 7",Maison du prêtre Amandus,Pâris et Hélène (+ Aphrodite),Peinture,3e style,cubiculum c,sud,,en place,Pompei Pitture e Mosaici
+dp12,"I, 7, 7",Maison du prêtre Amandus,"Galatée et Polyphème, navire d'Ulysse",Peinture,4e style,triclinium b,sud,peintre de Boscotrecase,en place,Pompei Pitture e Mosaici
+dp13,"I, 7, 11",Maison de l'Éphèbe ou de P. Cornelius Tages ,Retrouvailles de Ménélas et Hélène,Peinture,4e style,Triclinium 17,ouest,,en place,Pompei Pitture e Mosaici
+dp14,"I, 8, 17",Maison des Quatre Styles,Jugement de Pâris,Peinture,3e style final,Tablinum 9 qui serait peut-être un triclinium,sud,,en place,Pompei Pitture e Mosaici
+dp15,"I, 10, 4",Maison du Ménandre,Le Cheval de Troie,Peinture,4e style,Ala 4,est,Peintre d'Iphigénie,en place,R. Deyts
+dp16,"I, 10, 4",Maison du Ménandre,"Le viol de Cassandre, Hélène et Ménélas, Priam",Peinture,4e style,Ala 4,nord,Peintre d'Iphigénie,en place,R. Deyts
+dp17,"I, 10, 4",Maison du Ménandre,Mort de Laocoon,Peinture,4e style,Ala 4,sud,Peintre d'Iphigénie,en place,R. Deyts
+dp18,"I, 11, 6-7",Maison de la Vénus en bikini,Jugement de Pâris,Peinture,4e style,Triclinium 10,nord,,en place,Pompei Pitture e Mosaici
+dp19,"II, 2, 2",Maison de D. Octavius Quarto,Jeux funéraires de Patrocle (frise),Peinture,4e style,Oecus h,Est-sud-nord,,en place,Pompei Pitture e Mosaici
+dp20,"III, 4, 4",Maison de Pinarius Cerialis,Iphigénie en Tauride,Peinture,4e style,cubiculum a,nord,Peintre d'Io,en place,Pompei Pitture e Mosaici
+dp21,"V, 1, 18",Maison des Epigrammes,Homère sur un trône,Peinture,2e style final,exèdre y,nord,,en place,
+dp22,"V, 1, 23-26",Maison de Caecilius Jucundus,Iphigénie en Tauride,Peinture,3e style,tablinum i,nord,Peintre de Caecilius Jucundus,MN111439,R. Deyts
+dp23,"V, 1, 23-26",Maison de Caecilius Jucundus,Jugement de Pâris,Peinture,3e style,triclinium o,nord,Peintre d'Adonis blessé,en place,Pompei Pitture e Mosaici
+dp24,"V, 2, 14",boutique,Embarquement de Chryséis,Peinture,4e style,Arrière-boutique,,peintre d'Iphigénie,MN119690,Pompei Pitture e Mosaici
+dp25,"V, 2, 14",boutique,"Ulysse tire l'épée, Circé",Peinture,4e style,Arrière-boutique,,peintre d'Iphigénie,MN119689,Pompei Pitture e Mosaici
+dp26,"V, 2, 15",Maison de Jupiter,Jugement de Pâris,Peinture,4e style,triclinium l,ouest,,MN119691,Pompei Pitture e Mosaici
+dp27,"VI, 2, 4",Maison de Salluste,Pâris et Hélène,Peinture,4e style,Cubiculum 34,sud,,"en place, très effacée",Pompei Pitture e Mosaici
+dp28,"VI, 5, 13",Maison de Modestus,"Ulysse et Circé, Ulysse et?, Achille à Skyros",Peinture,4e style,Atrium 2,,,disparue,Pompei Pitture e Mosaici
+dp29,"VI, 7,18",Maison d'Adonis blessé,Achille et Chiron (mégalographie de la mort d'Adonis),Peinture,4e style,Viridarium,nord,,"en place, en partie détruite",Pompei Pitture e Mosaici
+dp30,"VI, 7, 23",Maison d'Apollon,Achille à Skyros,Mosaïque,1er s. d.C.,Cubiculum 25,mur extérieur,,en place,Pompei Pitture e Mosaici
+dp31,"VI, 7, 23",Maison d'Apollon,Colère d'Achille contre Agamemnon,Mosaïque,1er s. d.C.,portique jardin,sud,,MN10006,R. Deyts
+dp32,"VI, 8, 3-5",Maison du Poète Tragique,L'embarquement de Chryséis,Peinture,4e style,Atrium 3,sud,peintre de Télèphe,MN9108,R. Deyts
+dp33,"VI, 8, 3-5",Maison du Poète Tragique,Achille renvoyant Briséis,Peinture,4e style,Atrium 3,est,peintre de Télèphe,MN9105,R. Deyts
+dp34,"VI, 8, 3-5",Maison du Poète Tragique,Zeus et Héra sur le mont Ida,Peinture,4e style,Atrium 3,sud,peintre de Télèphe,MN9559,R. Deyts
+dp35,"VI, 8, 3-5",Maison du Poète Tragique,Sacrifice d'Iphigénie,Peinture,4e style,Péristyle 10,portique est,peintre d'Iphigénie,MN9112,R. Deyts
+dp36,"VI, 9, 2-13",Maison de Méléagre,Didon abandonnée,Peinture,4e style,Atrium 2,nord,peintre de Méléagre,MN8898,R. Deyts
+dp37,"VI, 9, 2-13",Maison de Méléagre,Thétis dans la forge d'Héphaïstos,Peinture,4e style,Atrium 2,nord,peintre de Méléagre,MN9528,R. Deyts
+dp38,"VI, 9, 2-13",Maison de Méléagre,"Thétis sur un cheval marin, avec l'armure d'Achille",Peinture,4e style,Péristyle 16,inconnue,Peintre de la maison des guerriers,MN8873,Pompei Pitture e Mosaici
+dp39,"VI, 9, 2-13",Maison de Méléagre,Ganymède,Peinture,4e style,Cubiculum 12,est,,MN9547,Pompei Pitture e Mosaici
+dp40,"VI, 9, 2-13",Maison de Méléagre,Jugement de Pâris,Peinture,4e style,Triclinium 27,nord,,en place,Pompei Pitture e Mosaici
+dp41,"VI, 9, 2-13",Maison de Méléagre,"Pâris s'arme, Hélène lui tend son casque, Hector",Peinture,4e style,Triclinium 27,ouest,,"en place, très dégradée",Pompei Pitture e Mosaici
+dp42,"VI, 9, 6-7",Maison des Dioscures,Achille à Skyros,Peinture,4e style,Tablinum 42,sud,peintre d'Achille,MN9110,R. Deyts
+dp43,"VI, 9, 6-7",Maison des Dioscures,Colère d'Achille contre Agamemnon,Peinture,4e style,Tablinum 42,nord,peintre d'Achille,MN1904,R. Deyts
+dp44,"VI, 9, 6-7",Maison des Dioscures,"Thétis sur un cheval marin, avec l'armure d'Achille",Peinture,4e style,Oecus 43,nord,,en place,Pompei Pitture e Mosaici
+dp45,"VI, 10, 2",Maison des Cinq Squelettes,"Prophétie de Cassandre (Priam, Hector, Pâris)",Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN8999,Pompei Pitture e Mosaici
+dp46,"VI, 10, 2",Maison des Cinq Squelettes,"Reconnaissance d'Ulysse (Pénélope, Euryclée)",Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN9107,Pompei Pitture e Mosaici
+dp47,"VI, 10, 2",Maison des Cinq Squelettes,Pâris et Hélène,Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN9002,
+dp48,"VI, 11, 8-10",Maison du Labyrinthe,Pâris et Hélène,Peinture,4e style,Cubiculum 29,nord,Peintre de Méléagre,"en place, en bonne partie détruite",Pompei Pitture e Mosaici
+dp49,"VI, 14, 28-33",Maison de Laocoon,Mort de Laocoon,Peinture,3e style phase finale,atrium a,sud,,MN111210,R. Deyts
+dp50,"VI, 14, 28-33",Maison de Laocoon,"Polyphème, Énée et ses marins",Peinture,3e style ,tablinum k,nord,,MN111211,Pompei Pitture e Mosaici
+dp51,"VI, 15, 1",Maison des Vettii,Sacrifice in absentia d'Iphigénie,Peinture,4e style,salle q,"est, prédelle",,en place,
+dp52,"VI, 15, 1",Maison des Vettii,Iphigénie en Tauride,Peinture,4e style,salle q,"ouest, prédelle",,en place,
+dp53,"VI, 15, 1",Maison des Vettii,Achille à Skyros,Peinture,3e style tardif,tricliniumt,est,Peintre des Noces d'Hercule,en place,
+dp54,"VI, 16, 7-38",Maison des Amours dorés,"Phénix, Achille, Pâris et Polyxène",Peinture,3e style tardif,atrium B,nord,,MN20559,Pompei Pitture e Mosaici
+dp55,"VI, 16, 7-38",Maison des Amours dorés,Pâris sur l'Ida,Peinture,3e style tardif,atrium B,sud,,disparue,Pompei Pitture e Mosaici
+dp56,"VI, 16, 7-38",Maison des Amours dorés,Pâris et Hélène,Peinture,3e style tardif,tablinum E,ouest,Peintre de Jason,en place,R. Deyts
+dp57,"VI, 16, 7-38",Maison des Amours dorés,"Achille, Briséis et Patrocle",Peinture,3e style tardif,exèdre G,sud,,en place,R. Deyts
+dp58,"VI, 16, 7-38",Maison des Amours dorés,Thétis dans la forge d'Héphaïstos,Peinture,3e style tardif,exèdre G,nord,peintre d'Io,en place,
+dp59,"VII, 1, 25-47",Maison de Siricus,Énée blessé,Peinture,3e style final / 4e style,Triclinium 8,nord,,MN9009,R. Deyts
+dp60,"VII, 1, 25-47",Maison de Siricus,Thétis dans la forge d'Héphaïstos,Peinture,4e style,Exèdre 10,est,,disparue,Pompei Pitture e Mosaici
+dp61,"VII, 1, 25-47",Maison de Siricus,Apollon et Poséidon assistent à la construction des murailles de Troie,Peinture,4e style,Exèdre 10,ouest,,en place,Pompei Pitture e Mosaici
+dp62,"VII, 2, 25",Maison des Quadriges,Forge de Vulcain,Peinture,4e style,triclinium n,inconnue,Peintre des Cinq Squelettes,MN9531,Pompei Pitture e Mosaici
+dp63,"VII, 2, 25",Maison des Quadriges,"Thétis sur un cheval marin, avec l'armure d'Achille",Peinture,4e style,triclinium n,ouest,,MN8863,Pompei Pitture e Mosaici
+dp64,"VII, 6, 38",Maison de Cipius Pamphilus,"Cheval de Troie, Cassandre",Peinture,4e style,Exèdre 23,inconnue,,MN9010,R. Deyts
+dp65,"VII, 9, 7",Macellum,Reconnaissance d'Ulysse (Pénélope),Peinture,4e style,Cour d intérieur,nord,Peintre d'Io,en place,R. Deyts
+dp66,"VII, 12, 26",Maison du Diadumène,Pâris,Peinture,4e style,Triclinium h,ouest,peintre d'Iphigénie,presque entièrement disparue,Pompei Pitture e Mosaici
+dp67,"VIII, 4, 4",Maison d'Holconius Rufus ou des Postumii,Jugement de Pâris,Peinture,4e style,Triclinium 33,sud,,disparue,Pompei Pitture e Mosaici
+dp68,"VIII, 4, 4",Maison d'Holconius Rufus ou des Postumii,Achille à Skyros,Peinture,4e style,Triclinium 33,est,,disparue,Pompei Pitture e Mosaici
+dp69,"IX, 1, 7",Maison de Paccius Alexander,Thétis dans la forge d'Héphaïstos,Peinture,4e style,triclinium e,nord,,MN9529,R. Deyts
+dp70,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,Achille à Skyros,Peinture,4e style,pièce U,nord,Peintre des quatre divinités,MN116085,Pompei Pitture e Mosaici
+dp71,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,"Thétis sur un cheval marin, apportant son armure à Achille",Peinture,4e style,pièce U,ouest,Peintre des quatre divinités,en place,
+dp72,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,Thétis dans la forge d'Héphaïstos,Peinture,4e style,pièce U,est,Peintre des quatre divinités,en place,
+dp73,"IX, 5, 18",Maison de Jason,Pâris et Hélène,Peinture,3e style,cubiculum e,nord,Peintre de Jason,MN114320,R. Deyts
+dp74,"IX, 5, 18",Maison de Jason,"Phénix, Achille, Pâris et Polyxène",Peinture,3e style,triclinium f,sud,,MN111471,R. Deyts
+dp75,"IX, 7, 16",Maison du Cheval de Troie,Cheval de Troie,Peinture,3e style,chambre a,ouest,,MN120176,R. Deyts
+dp76,"IX, 8, 3-7",Maison du Centenaire,Iphigénie en Tauride,Peinture,4e style,Triclinium 41,sud,Peintre d'Adonis blessé,en place,
+dp77,"IX, 13, 1-3",Maison de Julius Polybius,Pâris et Aphrodite,Peinture,4e style,Pièce A',sud,,"en place, en bonne partie détruite",Pompei Pitture e Mosaici
+dp78,"IX, 13, 5",Fullonica di Ullulitremulus,"Énée fuyant Troie, Romulus",Peinture,période impériale,mur extérieur,/,Peintre des quatre divinités,disparue,Pompei Pitture e Mosaici
+dp79,inconnue,inconnu,Pâris sur l'Ida,Peinture,inconnue,inconnue,inconnue,,MANN9508,R. Deyts
+dp80,inconnue,inconnu,Ulysse et les Sirènes (paysage),Peinture,4e style,inconnue,inconnue,,"British Museum, GR 1867.5-8.1354",R. Deyts
+ds81,,"Villa San Marco, Stabies",Iphigénie et le Palladium,Peinture,,Pièce 30,Sud-est,,en place,R. Deyts
+ds82,,"Villa Arianna, Stabies",Scylla,Peinture,4e style,antichambre salle 3,inconnue,,MANN8860,Bragantini 2009
+ds83,,"Villa Arianna, Stabies",Pâris et Hélène,Peinture,10-37,Pièce 24,inconnue,,MANN8982,Bragantini 2009
+ds84,,"Villa Arianna, Stabies",Cheval de Troie,Peinture,10-37,atrium,inconnue,,MANN9893,Bragantini 2009
+dh85,"Ins. or. I, 2","Maison du relief de Télèphe, Herculanum",Télèphe et Achille,Relief sculpté,Époque augustéenne,Diaeta 17,nord,,MANN286787,R. Deyts
+dh86,Ins. VII,"«Basilique» / Augusteum, Herculanum",Achille et Chiron,Peinture,4e style,exèdre,inconnue,,MANN9109,Wikimedia Commons
+dh87,"Ins. or. II, 4",Palestre d'Herculanum,Achille et Antiloque?,Peinture,4e style,inconnue,inconnue,,MANN9020,R. Deyts
+dr88,,"Domus de la via Graziosa, Esquilin, Rome",Fresque odysséenne,Peinture,,,,,"Musée National Romain, Palazzo Massimo, inv. 261833",
+dr89,,"Colombarium des Statilii, Rome","Frise troyenne, origines de Rome",Peinture,Dernier tiers -Ier s.,,,,,
+dr90,,"Ara Pacis Augustae, Rome",Énée sacrifiant,Relief sculpté,-13,,,,,
+dr91,,Hypogée de la Porte Majeure,Iphigénie et Calchas,Stuc ,,,,,,
+dr92,,Hypogée de la Porte Majeure,Achille et Chiron,Stuc,,,,,,
+dr93,,Hypogée de la Porte Majeure,Pâris et Hélène,Stuc,,,,,,
+dr94,,Hypogée de la Porte Majeure,Achille et prisonnier troyen,Stuc,,,,,,
+dr95,,Hypogée de la Porte Majeure,Ulysse ou initié (stuc du Saut de Sappho),Stuc,,,,,,
+dr96,,"Domus Transitoria, Rome",Scènes iliadiques ,Peinture,,,,,,
+dr97,,"Domus Aurea, Rome",Achille à Skyros,Mosaïque,64-68,Salle 119,voûte,,en place,
+dr98,,"Domus Aurea, Rome",Hector et Andromaque,Peinture,64-68,Salle 129,voûte,Fabullus?,en place,
+dr99,,"Domus Aurea, Rome",Pâris et Hélène,Peinture,64-68,Salle 129,voûte,Fabullus?,en place,
+dr100,,"Domus Aurea, Rome",Ulysse et Polyphème,Mosaïque,64-68,Nymphée 45,voûte,,en place,
+dr101,,"Domus Aurea, Rome",Ganymède,Peinture,64-68,Salle de la voûte dorée 81,voûte,Fabullus?,disparue,
