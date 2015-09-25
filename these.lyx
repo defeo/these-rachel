@@ -16695,7 +16695,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/sculptures-objets/bdd-objets/sarcophage.jpg
+	filename base-de-donnees/sculptures-objets/bdd-objets/sarcophage.jpg
 	width 100text%
 
 \end_inset
@@ -16754,7 +16754,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/sculptures-objets/bdd-objets/coupeulysse.jpg
+	filename base-de-donnees/sculptures-objets/bdd-objets/coupeulysse.jpg
 	width 50text%
 
 \end_inset
@@ -17224,7 +17224,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/decors-rome/porte-majeure/sappho.jpg
+	filename base-de-donnees/decors-rome/porte-majeure/sappho.jpg
 	width 100text%
 
 \end_inset
@@ -18172,7 +18172,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/decors-pompei/RegioVI/VI-8-3-5-poete-tragique/atrium-poete-tragique.jpg
+	filename base-de-donnees/decors-pompei/RegioVI/VI-8-3-5-poete-tragique/atrium-poete-tragique.jpg
 	width 100text%
 
 \end_inset
@@ -18322,7 +18322,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/decors-pompei/RegioVI/VI-16-7-38-amours-dores/tablinum.jpg
+	filename base-de-donnees/decors-pompei/RegioVI/VI-16-7-38-amours-dores/tablinum.jpg
 	width 100text%
 
 \end_inset
@@ -18537,7 +18537,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/decors-pompei/RegioI/I-10-4-menandre/ala4menandre.jpg
+	filename base-de-donnees/decors-pompei/RegioI/I-10-4-menandre/ala4menandre.jpg
 	width 100text%
 
 \end_inset
@@ -20132,7 +20132,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/sculptures-objets/fait/relief-apotheose-detail.JPG
+	filename base-de-donnees/sculptures-objets/fait/relief-apotheose-detail.JPG
 	width 50text%
 
 \end_inset
@@ -20251,7 +20251,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/sculptures-objets/bdd-objets/kalathos-napoli-apotheose.jpg
+	filename base-de-donnees/sculptures-objets/bdd-objets/kalathos-napoli-apotheose.jpg
 	width 50text%
 
 \end_inset
@@ -20376,7 +20376,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/sculptures-objets/fait/hoby.jpg
+	filename base-de-donnees/sculptures-objets/fait/hoby.jpg
 	width 50text%
 
 \end_inset
@@ -20538,7 +20538,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/sculptures-objets/bdd-objets/750px-Silver_jug_Achilles_Hektor_Berthouville_CdM_Paris_Inv56.4.jpg
+	filename base-de-donnees/sculptures-objets/bdd-objets/750px-Silver_jug_Achilles_Hektor_Berthouville_CdM_Paris_Inv56.4.jpg
 	width 50text%
 
 \end_inset
@@ -20630,7 +20630,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Bureau/base-de-donnees/sculptures-objets/fait/tabulacapitolina-detail.jpg
+	filename base-de-donnees/sculptures-objets/fait/tabulacapitolina-detail.jpg
 	width 80text%
 
 \end_inset
@@ -35630,7 +35630,11 @@ er
 Sette Salle
 \emph default
  où a été retrouvée la sculpture correspond sans doute à la zone des jardins
- de Mécène, par la suite incluse dans la Domus Aurea
+ de Mécène, par la suite incluse dans la 
+\emph on
+Domus Aurea
+\emph default
+
 \begin_inset Foot
 status collapsed
 
@@ -35643,8 +35647,7 @@ Segala 1999, p.
 
 .
  Pline indique que la statue se trouvait dans la maison de Titus.
- La maison de Titus ne correspond cependant pas à un bâtiment qui nous soit
- connu.
+ L'emplacement de cette dernière ne nous est cependant pas connu.
  E.
  La Rocca
 \begin_inset Foot
@@ -35671,21 +35674,313 @@ Slavazzi 2007, p.
 
  ont fait l'hypothèse qu'il s'agissait en réalité des jardins de Mécène,
  légués par ce dernier à Auguste et où était venu habiter Tibère à son retour
- de Rhodes en 2.
+ de Rhodes en 2 ap.
+ J.-C.
  Il n'est pas invraisemblable de supposer qu'il aurait alors rapporté les
  œuvres d'artistes rhodiens pour décorer à la fois sa résidence à Rome et
- sa demeure de sperlonga ; F.
+ sa demeure de Sperlonga; F.
  Slavazzi indique qu'il y avait des œuvres du même Athanadoros à Antium
- (Slavazzi 2007 p.
- 171).
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Slavazzi 2007, p.
+ 171.
+\end_layout
+
+\end_inset
+
+.
  Les jardins de Mécène et la demeure de Tibère ont probablement été ensuite
- intégrés dans la domus transitoria puis dans la Domus Aurea, éléments de
- décoration compris.
+ intégrés dans la 
+\emph on
+Domus Transitoria
+\emph default
+ puis dans la 
+\emph on
+Domus Aurea
+\emph default
+, éléments de décoration compris.
  La statue de Laocoon passa sans doute ensuite des appartements de Titus,
- soit quelques pièces de la domus Aurea habitées par le prince avant la
- condamnation de la demeure et la création des thermes de Titus, dans ces
- derniers, puis dans les thermes de Trajan, construits par-dessus le palais
- de Néron une fois celui-ci remblayé.
+ soit quelques pièces de la 
+\emph on
+Domus Aurea
+\emph default
+ habitées par le prince avant la condamnation de la demeure et la création
+ des thermes de Titus, dans ces derniers, puis dans les thermes de Trajan,
+ construits par-dessus le palais de Néron une fois celui-ci remblayé.
+\end_layout
+
+\begin_layout Standard
+Le Laocoon, œuvre inestimable selon le propre aveu de Pline, devait donc
+ être passé de mains en mains de princes, passant de la collection d'un
+ empereur amoureux d'Homère à un autre.
+ Si Pline a pu contempler cette sculpture dans la résidence du jeune Titus,
+ il n'est pas interdit de supposer que les prédécesseurs de celui-ci avaient
+ également placé une œuvre aussi monumentale dans une partie non privée
+ de leurs appartements, mais destinée à la réception.
+ Insigne de culture et de richesse, le Laocoon participait ainsi de la muséograp
+hie personnelle des julio-claudiens.
+\end_layout
+
+\begin_layout Paragraph
+Les demeures de Néron
+\end_layout
+
+\begin_layout Standard
+La 
+\emph on
+Domus Aurea
+\emph default
+ est la première véritable tentative d'établir un palais impérial à Rome.
+ Les demeures d'Auguste, de Tibère, avaient été de riches maisons dans ce
+ quartier aristocratique qu'était le Palatin, mais restaient des demeures
+ de simples particuliers, pas davantages ouvertes aux affaires de l'empire
+ que n'avait pu l'être celle d'un Cicéron, leur voisin.
+ Caligula lui-même, qui, pris d'une sorte de folie des grandeurs, avait
+ fait jeter un pont par-dessus le vide qui séparait le Palatin du Capitole
+ pour relier sa demeure à celle de Jupiter
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Suétone, Caligula, XXII.
+\end_layout
+
+\end_inset
+
+, n'eut pas le désir ou pas le temps, lors de son court règne, d'édifier
+ un véritable palais à l'orientale, une 
+\emph on
+aula
+\emph default
+ dans la tradition hellénistique --
+\begin_inset space ~
+\end_inset
+
+Suétone indique cependant qu'il avait fait poser les fondations d'un palais
+ sur le Capitole.
+ Néron fut le premier à penser véritablement sa demeure comme un étalage
+ de puissance et de richesse.
+ La 
+\emph on
+Domus Aurea
+\emph default
+ devint un symbole du pouvoir du prince, une preuve de l'âge d'or advenu
+ dont le palais portait le nom: le parc de la domus, qui s'étend jusqu'à
+ l'Esquilin, porte l'image d'un foisonnement dionysiaque
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Perrin 1987, p.
+ 369.
+\end_layout
+
+\end_inset
+
+, et abrite dans une chapelle la vénérable statue de Fortuna du Forum Boarium,
+ confisquée par Séjan
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Ibid.
+\emph default
+, p.
+ 375.
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Après avoir fait de la 
+\emph on
+Domus Transitoria
+\emph default
+, sans doute réorganisée à partir de l'habitation de Tibère, sa résidence,
+ Néron construit la 
+\emph on
+Domus Aurea
+\emph default
+ à partir de l'incendie de 64
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Suétone, Néron, 31; Segala 1999, p.
+ 5-6.
+\end_layout
+
+\end_inset
+
+.
+ La 
+\emph on
+Domus Transitoria
+\emph default
+ a livré peu de restes, si ce n'est une salle retrouvée sous la domus Flavia,
+ ensemble monumental décoré de marbres polychromes et dont les voûtes arboraient
+ des décors dionysiaques ainsi que des scènes homériques
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Segala 1999, p.
+ 5-6; De Vos 1990, p.
+ 182-183.
+\end_layout
+
+\end_inset
+
+ insérées dans des caissons et décorées de pierres et pâtes de verre serties.
+ M.
+ De Vos a donné pour interprétation de l'une de ces images l'épisode du
+ jeune Priam recevant la royauté des mains d'Hercule, entouré d'Hésione
+ et du Scamandre; image qui aurait pu rappeler ici Néron, qui revendiquait
+ ainsi son ascendance julienne
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Par sa mère Agrippine, petite-fille de Julia.
+\end_layout
+
+\end_inset
+
+ et antonienne
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Par son père Domitius Ahenobarbus, fils d'Antonia Major.
+\end_layout
+
+\end_inset
+
+, et non claudienne
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+De Vos 1990, p.
+ 167-170.
+\end_layout
+
+\end_inset
+
+.
+ Les scènes, souvent suggérées par de fines silhouettes qui se meuvent dans
+ un décor presque absent, ne sont pas toutes d'une interprétation certaine:
+ l'une semble représenter Achille qui, assis sur son trône, assiste au départ
+ d'un autre guerrier, peut-être Patrocle ou un messager d'Agamemnon; une
+ autre pourrait concerner la dispute pour les armes d'Achille.
+ 
+\end_layout
+
+\begin_layout Standard
+La 
+\emph on
+Domus Aurea
+\emph default
+, quant à elle, comportait la statue colossale de Néron, de cent vingt pieds
+ de haut, dans le vestibule; Suétone évoque des champs, des prés, des vignes,
+ des forêts, un palais entièrement décoré d'or, de pierres précieuses, de
+ coquillages, et de perles, et la fameuse pièce qui tournait pour imiter
+ le mouvement du monde
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Suétone, Néron, 31.
+\end_layout
+
+\end_inset
+
+: luxueuse exagération qui suscita de nombreuses critiques, au point que
+ les Flaviens firent en partie murer et en partie remblayer la maison, pour
+ éviter d'être associés à pareille impression de débauche: l'amphithéâtre
+ Flavien, la 
+\emph on
+Domus Flavia
+\emph default
+, et plus tard les thermes de Trajan occupèrent son emplacement.
+\end_layout
+
+\begin_layout Standard
+Les artistes qui travaillèrent sur le palais nous sont connus par les textes:
+ les architectes Severus et Celer
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Tacite, 
+\emph on
+Annales
+\emph default
+, XV, 42.
+\end_layout
+
+\end_inset
+
+, le peintre Famulus
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Pline, XXXV, 120; les manuscrits donnent également les graphies Fabullus
+ ou Amulius.
+\end_layout
+
+\end_inset
+
+, à qui l'on attribue la commande officielle des peintures de la maison
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Luciani - Sperduti 1993, p.
+ 43-46.
+\end_layout
+
+\end_inset
+
+, ainsi que le sculpteur Zenodoros, auteur du colosse
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Pline, XXXIV, 45.
+\end_layout
+
+\end_inset
+
+.
+ L'ensemble des décors reprennent les thèmes de prédilection de l'empereur
+ philhellène: la culture homérique --
+\begin_inset space ~
+\end_inset
+
+sans scènes de bataille cependant
+\begin_inset space ~
+\end_inset
+
+--, des thèmes dionysiaques, qui soulignaient la richesse des possibilités
+ offertes à l'initié dans un monde luxuriant.
+ Le corps principal du palais, sur l'Esquilin, a livré dès la Renaissance
+ un certain nombre de pièces décorées dont les mieux connues sont le nymphée
+ au Polyphème (n°45), la salle de la voûte dorée (n°80), ainsi que la salle
+ octogonale (n°128) et la salle de la voûte delle civette (???) (n°29) ;
+ ces deux dernières ne comportant en l'état actuel des connaissances pas
+ de décors à thème homérique (voire pas de décor?), nous évoquerons plutôt
+ deux ensembles décoratifs plus petits, les salles dites d'Achille et d'Hector
+ (n° 119 et 129).
 \end_layout
 
 \begin_layout Subsection
