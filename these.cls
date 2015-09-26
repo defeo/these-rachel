@@ -17,6 +17,7 @@
 %\RequirePackage{xcolor}
 
 %% Others
+\RequirePackage[francais]{babel}
 
 
 %%%%%%%%%%%%%% Style

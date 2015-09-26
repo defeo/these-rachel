@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass these
+\begin_preamble
+\usepackage{hyphenations}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language french
