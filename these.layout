@@ -1,9 +1,8 @@
 #% Do not delete the line below; configure depends on this
-#  \DeclareLaTeXClass[these]{These}
-#  \DeclareCategory{Books}
+#  \DeclareLaTeXClass[these]{book (These)}
 
 
-Format 49
+Format 35
 Columns            1
 Sides              2
 SecNumDepth        4
@@ -26,7 +25,6 @@ End
 
 
 Style Standard
-	Category              MainText
 	Margin                Static
 	LatexType             Paragraph
 	LatexName             dummy
@@ -48,97 +46,43 @@ Input numreport.inc
 
 
 Style Part
-	Argument 1
-		LabelString   "Short Title|S"
-		Tooltip       "The part as it appears in the table of contents/running headers"
-	EndArgument
+	OptionalArgs         1
 End
       	
 
 
 Style Chapter
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The chapter as it appears in the table of contents"
-	EndArgument
-	Argument 2
-		LabelString   "Short Title (Header)"
-		Tooltip       "The chapter as it appears in the running headers"
-		Requires      1
-	EndArgument
+	OptionalArgs         2
 End
 
 
 Style Chapter*
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The chapter as it appears in the table of contents"
-	EndArgument
+	OptionalArgs         1
 End
 
 
 Style Section
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The section as it appears in the table of contents"
-	EndArgument
-	Argument 2
-		LabelString   "Short Title (Header)"
-		Tooltip       "The section as it appears in the running headers"
-		Requires      1
-	EndArgument
+	OptionalArgs         2
 End
 
 
 Style Subsection
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The subsection as it appears in the table of contents"
-	EndArgument
-	Argument 2
-		LabelString   "Short Title (Header)"
-		Tooltip       "The subsection as it appears in the running headers"
-		Requires      1
-	EndArgument
+	OptionalArgs         2
 End
 
 
 Style Subsubsection
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The subsubsection as it appears in the table of contents"
-	EndArgument
-	Argument 2
-		LabelString   "Short Title (Header)"
-		Tooltip       "The subsubsection as it appears in the running headers"
-		Requires      1
-	EndArgument
+	OptionalArgs         2
 End
 
 
 Style Paragraph
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The paragraph as it appears in the table of contents"
-	EndArgument
-	Argument 2
-		LabelString   "Short Title (Header)"
-		Tooltip       "The paragraph as it appears in the running headers"
-		Requires      1
-	EndArgument
+	OptionalArgs         2
 End
 
 
 Style Subparagraph
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The subparagraph as it appears in the table of contents"
-	EndArgument
-	Argument 2
-		LabelString   "Short Title (Header)"
-		Tooltip       "The subparagraph as it appears in the running headers"
-		Requires      1
-	EndArgument
+	OptionalArgs         2
 End
 
 
@@ -161,8 +105,9 @@ Style Chapterprecis
 	EndFont
 End
 
+#FIXME: this takes two parameters!!!
 Style Epigraph
-	Category              MainText
+	Category              Maintext
 	Margin                Right_Address_Box
 	LatexType             Command
 	LatexName             epigraph
@@ -170,26 +115,22 @@ Style Epigraph
 	BottomSep             1.5
 	ParSep                1.5
 	Align                 Left
-	Argument post:1
-		MenuString    "Epigraph Source|S"
-		LabelString   "Source"
-		Tooltip       "The source/author of this epigraph"
-		Mandatory     1
-	EndArgument
 	HTMLStyle
 		div.epigraph {
-			float: right;
-			width: 33%;
-			font-size: small;
-			margin: 0.5em 0em 0.5em 1em;
+						float: right;
+						width: 33%;
+						font-size: small;
+						margin: 0.5em 0em 0.5em 1em;
 		}
 	EndHTMLStyle
 End
 
+#FIXME: what is actually documented is \PoemTitle
+#but \poemtitle is defined nevertheless. Weird.
 Style Poemtitle
-	Category              Sectioning
+	Category              Section
 	LatexType             Command
-	LatexName             PoemTitle
+	LatexName             poemtitle
 	NeedProtect           1
 	NextNoIndent          1
 	LabelSep              xxx
@@ -197,15 +138,7 @@ Style Poemtitle
 	TopSep                0.4
 	ParSep                0.4
 	Align                 center
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The poem title as it appears in the table of contents"
-	EndArgument
-	Argument 2
-		LabelString   "Short Title (Header)"
-		Tooltip       "The poem title as it appears in the running headers"
-		Requires      1
-	EndArgument
+	OptionalArgs          1
 	Font
 	   Series             Bold
 	EndFont
@@ -215,11 +148,8 @@ End
 Style Poemtitle*
 	CopyStyle             Poemtitle
 	Category              Unnumbered
-	LatexName             PoemTitle*
-	Argument 1
-		LabelString   "Short Title (TOC)|S"
-		Tooltip       "The poem title as it appears in the table of contents"
-	EndArgument
+	LatexName             poemtitle*
+	OptionalArgs          0
 End
 
 
@@ -241,7 +171,7 @@ Input lyxmacros.inc
 Input stdlayouts.inc
 
 Style Legend
-	Category            MainText
+	Category            Maintext
 	LatexType           Command
 	LatexName           legend
 	NeedProtect         1
