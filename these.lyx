@@ -2,7 +2,7 @@
 \lyxformat 413
 \begin_document
 \begin_header
-\textclass memoir
+\textclass these
 \use_default_options true
 \maintain_unincluded_children false
 \language french
@@ -24,7 +24,7 @@
 \output_sync 0
 \bibtex_command bibtex
 \index_command default
-\paperfontsize 12
+\paperfontsize 14
 \spacing onehalf
 \use_hyperref false
 \papersize default
@@ -49,7 +49,7 @@
 \paragraph_indentation default
 \quotes_language french
 \papercolumns 1
-\papersides 1
+\papersides 2
 \paperpagestyle default
 \tracking_changes false
 \output_changes false
