@@ -5,6 +5,7 @@
 \textclass these
 \begin_preamble
 \usepackage{hyphenations}
+\usepackage{natbib}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
