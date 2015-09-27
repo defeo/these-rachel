@@ -38377,10 +38377,9 @@ Urbs
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "bibliothese"
-options "bibtotoc,plain"
+\begin_inset CommandInset include
+LatexCommand include
+filename "bibliothese.tex"
 
 \end_inset
 
