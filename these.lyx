@@ -652,8 +652,14 @@ Iliade
 status collapsed
 
 \begin_layout Plain Layout
-Graziosi 2004, p.
- 2-4.
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 2-4"
+key "Graziosi2004"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
