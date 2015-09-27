@@ -2017,13 +2017,44 @@ De façon plus ostensible encore, les grands auteurs dramatiques, Eschyle,
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="4">
 <features tabularvalignment="middle">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
-<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="10text%">
+<column alignment="center" valignment="top" width="30text%">
+<column alignment="center" valignment="top" width="30text%">
+<column alignment="center" valignment="top" width="30text%">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -38343,6 +38374,17 @@ Minerva - Palladion
 Urbs
 \emph default
  à ses origines troyennes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "bibliothese"
+options "bibtotoc,plain"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
