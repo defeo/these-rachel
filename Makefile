@@ -1,6 +1,6 @@
 all: these.pdf annexe.pdf
 
-these.pdf: these.tex these.cls hyphenations.sty bibliothese.bib bibliothese.tex these.bst
+these.pdf: these.tex these.cls hyphenations.sty bibliothese.bib these.bst
 	latexmk -f -pdf these.tex
 
 these.tex: these.lyx these.layout 
