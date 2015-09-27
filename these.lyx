@@ -1735,7 +1735,7 @@ Pourquoi, disait-il, n'aurais-je pas le droit de faire comme Platon, qui
 
 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Suétone, 
@@ -14008,7 +14008,11 @@ conticuere omnes
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 conticuere
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -14016,7 +14020,11 @@ conticuere
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 contiquere
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -16698,7 +16706,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename base-de-donnees/sculptures-objets/bdd-objets/sarcophage.jpg
+	filename base-de-donnees/sculptures-objets/sarcophage.jpg
 	width 100text%
 
 \end_inset
@@ -16753,12 +16761,12 @@ Nekyia
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename base-de-donnees/sculptures-objets/bdd-objets/coupeulysse.jpg
-	width 50text%
+	filename base-de-donnees/sculptures-objets/coupeulysse.jpg
+	width 100text%
 
 \end_inset
 
@@ -20135,7 +20143,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename base-de-donnees/sculptures-objets/fait/relief-apotheose-detail.JPG
+	filename base-de-donnees/sculptures-objets/relief-apotheose-detail.JPG
 	width 50text%
 
 \end_inset
@@ -20254,7 +20262,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename base-de-donnees/sculptures-objets/bdd-objets/kalathos-napoli-apotheose.jpg
+	filename base-de-donnees/sculptures-objets/kalathos-napoli-apotheose.jpg
 	width 50text%
 
 \end_inset
@@ -20379,7 +20387,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename base-de-donnees/sculptures-objets/fait/hoby.jpg
+	filename base-de-donnees/sculptures-objets/hoby.jpg
 	width 50text%
 
 \end_inset
@@ -20541,7 +20549,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename base-de-donnees/sculptures-objets/bdd-objets/750px-Silver_jug_Achilles_Hektor_Berthouville_CdM_Paris_Inv56.4.jpg
+	filename base-de-donnees/sculptures-objets/berthouville.jpg
 	width 50text%
 
 \end_inset
@@ -20633,7 +20641,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename base-de-donnees/sculptures-objets/fait/tabulacapitolina-detail.jpg
+	filename base-de-donnees/sculptures-objets/tabulacapitolina-detail.jpg
 	width 80text%
 
 \end_inset
@@ -20776,7 +20784,8 @@ nonobstant le fait que les inscriptions sont en grec.
 \end_layout
 
 \begin_layout Standard
-L'étude qu'a faite de ce corpus Anna Sadurska
+L'étude qu'a faite de ce corpus A.
+ Sadurska
 \begin_inset Foot
 status collapsed
 
@@ -20847,11 +20856,8 @@ Iliade
 Ilioupersis
 \emph default
 , avec quelques plus rares exceptions inspirées d'autres poèmes du cycle.
- Nous reproduisons ici en résumé la classification de Sadurska:
-\end_layout
-
-\begin_layout Standard
-Le groupe 4 comporte trois tables à sujets non homériques.
+ Nous reproduisons en résumé la classification d'A.
+ Sadurska en annexe.
 \end_layout
 
 \begin_layout Standard
@@ -23021,7 +23027,26 @@ Métamorphoses
 \emph on
 Fables
 \emph default
-, une large part concerne l’œuvre d’Homère et le cycle homérique:
+, une large part concerne l’œuvre d’Homère et le cycle homérique
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+LXXXI, Liste des prétendants d’Hélène; XC, Les fils et filles de Priam,
+ au nombre de 54; XCII, Le Jugement de Pâris; XCIII, Cassandre; XCIV, Anchise;
+ XCV, Ulysse; XCVI, Achille; XCVII, Ceux qui se rendirent au siège de Troie,
+ et avec combien de navires; XCVIII, Iphigénie; CI, Télèphe; CII, Philoctète;
+ CIII, Protésilas; CV, Palamède; CVI, La rançon d’Hector; CVII, Le jugement
+ des armes; CVIII, Le cheval de Troie; CX, Polyxène; CXI, Hécube; CXII,
+ Les duels pendant la Guerre de Troie; CXIII, Les héros: qui les tua; CXIV,
+ Les Achéens: le nombre de leurs victimes; CXV, Les Troyens: le nombre de
+ leurs victimes; CXXI, Chrysès; CXXV, L’Odyssée; CXXVI, La reconnaissance
+ d’Ulysse; CXXVII, Télégonus.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -37141,7 +37166,8 @@ e
 
  siècle), Énée fuyant Troie à gauche, Romulus et le trophée d'Ascron à droite,
  d'après le modèle exact des statues du forum d'Auguste.
- La façade était complétée par des graffiti parodiant l'
+ La façade était complétée par des graffiti électoraux mentionnant les fullones,
+ et une inscription parodiant l'
 \emph on
 Énéide
 \emph default
@@ -37163,6 +37189,13 @@ status collapsed
 
 \begin_layout Plain Layout
 CIL IV, 9131.
+ La mention de la chouette serait une référence à Minerve, patronne des
+ 
+\emph on
+fullones
+\emph default
+: Milnor 2009, p.
+ 299.
 \end_layout
 
 \end_inset
@@ -37868,6 +37901,9 @@ Pline, VII, 45.
 \end_inset
 
 .
+ L'épisode est confus; Tite-Live semble par ailleurs dire que le Palladium
+ aurait été sauvé une deuxième fois, par des esclaves cette fois-ci, lors
+ d'un autre incendie en -210.
  Denys d'Halicarnasse
 \begin_inset Foot
 status collapsed
@@ -37886,7 +37922,22 @@ Antiquités Romaines
  Nautius, présente Nautès, ancêtre de celui-ci, comme un compagnon d’Énée,
  mais surtout comme le prêtre de l'Athéna Poliade de Troie, et, à ce titre,
  dépositaire du véritable Palladium, dont ses descendants conservaient la
- garde.
+ garde
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Selon Servius, cependant, qui invoque Varron, c'est encore Diomède qui l'avait
+ remis à Nautès: 
+\emph on
+Ad Aen.
+\emph default
+, II, 166.
+\end_layout
+
+\end_inset
+
+.
  Le César de Lucain réaffirme également que le Palladium se trouve à Rome
  dans le temple de Vesta et qu'il est le garant de la sûreté de l'empire
 \begin_inset Foot
@@ -37898,6 +37949,40 @@ status collapsed
 Pharsale
 \emph default
 , IX, 938 sq.
+\end_layout
+
+\end_inset
+
+.
+ Ovide met au nombre des éléments dignes d'être vus à Rome le temple de
+ Vesta sur le forum à côté de la Regia, et celui qui le guide lui indique
+ que le temple renferme le Palladium
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Tristes
+\emph default
+, III, 1, v.
+ 29.
+\end_layout
+
+\end_inset
+
+, et Servius le mettra au nombre des sept gages de la puissance romaine
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Ad.
+ Aen
+\emph default
+.
+ , VII, 188.
 \end_layout
 
 \end_inset
@@ -37931,11 +38016,93 @@ CRRO n°458/1.
  C’est pourtant le cas de la plus connue parmi les représentations du groupe
  du Rapt du Palladium, celle de Sperlonga, que nous avons déjà évoquée plus
  haut dans cette étude.
- Selon certaines versions, cependant, c'est Diomède qui l'aurait transmis
- à Énée, une fois en Italie; version qui confortait sans doute à la fois
- les érudits férus d'histoire grecque et les tenants d'une Rome officiellement
- troyenne.
- Punica XIII 51-78
+ Selon certaines versions plus tardives
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Guerres Puniques
+\emph default
+, XIII, v.
+ 51-78.
+\end_layout
+
+\end_inset
+
+, cependant, c'est Diomède qui l'aurait transmis à Énée, une fois en Italie;
+ version qui confortait sans doute à la fois les érudits férus d'histoire
+ grecque et les tenants d'une Rome officiellement troyenne.
+ Le doute, à la fin de la République, demeure: c'est encore Diomède qui
+ est représenté avec le Palladium sur les gemmes d'époque augustéenne
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+LIMC
+\emph default
+,
+\emph on
+ s.
+ v.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Minerva - Palladion
+\emph default
+
+\begin_inset Quotes frd
+\end_inset
+
+, n° 239 à 244.
+\end_layout
+
+\end_inset
+
+, ainsi que sur l'
+\emph on
+oenochoé
+\emph default
+ de Berthouville ou sur une phiale d'argent de l'époque de Pompée décrite
+ par Pline
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Pline, XXXIII, 55, 156.
+\end_layout
+
+\end_inset
+
+; et Ovide livre la même version dans les 
+\emph on
+Métamorphoses
+\emph default
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Métamorphoses,
+\emph default
+ XIII, v.
+ 78 sq.
+\end_layout
+
+\end_inset
+
+, contrairement à ce qu'il écrivait dans les 
+\emph on
+Fastes
+\emph default
+.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -37946,36 +38113,236 @@ Auguste, lui, ne représente pas le Palladium sur ses monnaies, ni sur le
 \emph on
 princeps
 \emph default
- fera du Palladium un des fondements principaux de son Empire. Il est possible
- que le temple de Vesta construit par Auguste sur la Palatin, dédié en 12
- ap.
+ fera du Palladium un des fondements principaux de son Empire. Encore ce
+ fondement n'est-il justifié et soutenu que d'un point de vue religieux,
+ et non mythologique, puisqu'Auguste ne se soucie pas de faire clarifier
+ l'origine et les circonstances de l'arrivée du Palladium en Italie, ainsi
+ que l'a souligné P.
+ Assenmaker
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Assenmaker 2010, p.
+ 60.
+\end_layout
+
+\end_inset
+
+.
+ Il est possible que le temple de Vesta construit par Auguste sur le Palatin,
+ dédié en 12 ap.
  J.-C.
- (Temple de Vesta sur le Palatin : lexicon topographicon vol.
- T-Z sv Vesta, Ara, Signum, Aedes (in Palatio) p.
- 128-129, retrouvé sous la domus Flavia (sous triclinium et nymphée) une
- substructure à plan circulaire et un reste de portique pavé en opus sectile.),
- mentionné par Properce et représenté sur la base de Sorrente, ait été construit
- pour abriter un Palladium rapporté de Lavinium, ou bien une copie, tandis
- que l'ancien temple du forum abritait l'ancien Palladium.
- Un fragment de statue de marbre grec, daté du Ve s.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Temple de Vesta sur le Palatin: Lexicon Topographicon Urbis Romae, vol.
+ T-Z, s.v.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Vesta, 
+\emph on
+Ara, Signum, Aedes (in Palatio)
+\begin_inset Quotes frd
+\end_inset
+
+,
+\emph default
+ p.
+ 128-129, une substructure à plan circulaire et un reste de portique pavé
+ en opus sectile retrouvés sous la 
+\emph on
+domus Flavia
+\emph default
+.
+ Voir aussi 
+\emph on
+Res Gestae
+\emph default
+, 21.
+\end_layout
+
+\end_inset
+
+, mentionné par Properce et représenté sur la base de Sorrente, ait été
+ construit pour abriter un Palladium rapporté de Lavinium, ou bien une copie,
+ tandis que l'ancien temple du forum abritait l'ancien Palladium.
+ Un fragment de statue de marbre grec, daté du V
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ s.
  après J.C.
  ou imité de modèles archaïques, et conservé à l'Antiquarium du Palatin,
- a pu être interprété comme une représentation de ce nouveau Palladium (LIMC,
- s.
+ a pu être interprété comme une représentation de ce nouveau Palladium
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+LIMC
+\emph default
+, s.
  v.
- « Minerva », section « Palladion », n°235).
- Le relief de Palerme (???) montre également Auguste confiant le Palladium
- à la Grande Vestale sous la protection de Vesta sur un trône, avec la maison
+ « Minerva », section « Palladion », n°235.
+\end_layout
+
+\end_inset
+
+.
+ Le relief de Palerme montre également Auguste confiant le Palladium à la
+ Grande Vestale sous la protection de Vesta sur un trône, avec la maison
  d'Auguste en décor.
  Il était évidemment logique que le nouveau Grand Pontife, qui avait fait
  de sa maison sur le Palatin, avec la construction du temple d'Apollon,
  le nouveau centre religieux de l'Urbs, eût voulu déplacer, en même temps
  que sa propre demeure qui aurait dû se trouver dans l'antique Regia, le
  culte de Vesta et les objets sacrés placés sous sa protection.
- Auguste fait ici véritablement œuvre de refondation religieuse : en plaçant
+ Auguste fait ici véritablement œuvre de refondation religieuse: en plaçant
  un nouveau temple de Vesta sur le Palatin, et en lui confiant un nouveau
- Palladium, il réitérait à la fois la geste d'Enée et l'oeuvre de Numa Pompilius
-, les deux personnages les plus pieux de la Rome mythique.
+ Palladium, il réitérait à la fois la geste d'Énée et l'œuvre de Numa Pompilius,
+ les deux personnages les plus pieux de la Rome mythique.
+\end_layout
+
+\begin_layout Standard
+Le Palladium est encore mentionné après l'époque d'Auguste.
+ Le personnage qui orne le panneau sud-est de la pièce 30 de la villa San
+ Marco à Stabies (l'une des 
+\emph on
+diaetae
+\emph default
+ qui donnaient sous le portique du péristyle) a été identifié comme Iphigénie
+ en Tauride
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Barbet – Miniero 1999, p.
+ 212: l'iconographie du personnage, qui tient la statue sur l'épaule et
+ une torche baissée dans la main droite, correspond à celle d'Iphigénie
+ en Tauride quand elle demande à Thoas la permission d'aller laver la statue
+ d'Artémis dans la mer, mais sans aucun décor.
+\end_layout
+
+\end_inset
+
+.
+ Cependant, cette image est détournée de façon tout à fait étonnante en
+ ce que la statue que la jeune fille tient à la main, et qui devrait être
+ le 
+\emph on
+xoanon
+\emph default
+ archaïque d'Artémis, ne peut être identifié comme rien d'autre que comme
+ une statue de Pallas en armes, suivant les représentations traditionnelles
+ du Palladium.
+ A.
+ Barbet a rapproché cette image de celle des Cabires, dieux de Samothrace,
+ qui se trouve sur une paroi de la pièce 14 de la villa
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Ibid.
+\emph default
+, p.
+ 192.
+\end_layout
+
+\end_inset
+
+.
+ On peut tenter cependant un autre rapprochement: sur le panneau immédiatement
+ voisin de celui d'Iphigénie, se trouve Persée, brandissant la tête de Méduse,
+ dont on sait qu'elle était un talisman protecteur au moins aussi puissant
+ que le Palladium et tout aussi lié à Athéna, puisqu'elle ornait l'égide
+ de la déesse, d'où elle figeait de terreur les ennemis.
+ Dans cette section d'époque claudienne de la villa, qui devait, par son
+ étendue et la richesse de ses décors, appartenir à un personnage important,
+ les personnages de la mythologie, insérés dans un décor du 4
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ style, brandissent, l'un, le talisman de l'Athéna Promachos d'Athènes,
+ l'autre, le symbole de la protection de l'Empire romain.
+\end_layout
+
+\begin_layout Standard
+Les Flaviens reprendront le symbole: Martial
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Épigrammes
+\emph default
+, XI, 4.
+\end_layout
+
+\end_inset
+
+ invoque les 
+\begin_inset Quotes fld
+\end_inset
+
+Autels sacrés, Lares de la Phrygie, que l'héritier d'Ilion aima mieux arracher
+ aux flammes que les richesses de Laomédon
+\begin_inset Quotes frd
+\end_inset
+
+ pour la protection de l'empereur; et, de fait, une monnaie émise par l'atelier
+ de Rome pour Domitien en 81 montre l'empereur en toge, tenant le Palladium
+ dans la main droite
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+LIMC, s.v.
+
+\emph default
+ 
+\begin_inset Quotes fld
+\end_inset
+
+
+\emph on
+Minerva - Palladion
+\emph default
+
+\begin_inset Quotes frd
+\end_inset
+
+, n°233.
+\end_layout
+
+\end_inset
+
+.
+ Ainsi, à la fin de la période julio-claudienne, le Palladium est devenu
+ véritablement signe de la puissance romaine, liant les destinées de l'
+\emph on
+Urbs
+\emph default
+ à ses origines troyennes.
 \end_layout
 
 \end_body
