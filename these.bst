@@ -524,6 +524,8 @@ FUNCTION {out.bibitem.start}
 FUNCTION {out.bibitem.end}
 % end of entry
 { write$
+  "."
+  write$
   newline$
 }
 
@@ -777,7 +779,7 @@ FUNCTION {push.address.publisher.year}
     { address
       publisher empty$
         { "there's an address but no publisher in " cite$ * warning$ }
-        { "~: " * publisher * }
+        { ", " * publisher * }
       if$
       year empty$
 	{ skip$ }
