@@ -543,7 +543,7 @@ FUNCTION {format.smallcaps}
 % top of stack in small caps
 { duplicate$ empty$
     { pop$ "" }
-    { "\textsc{" swap$ * "}" * }
+    { "\textls[10]{\textsc{" swap$ * "}}" * }
   if$
 }
 
