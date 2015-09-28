@@ -64,10 +64,16 @@
 
 \begin_body
 
-\begin_layout Part
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
 
-\family sans
-\color black
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
 D'Homère à Rome - cheminements et transformations des sources
 \end_layout
 
