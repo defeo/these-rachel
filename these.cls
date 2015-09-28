@@ -16,6 +16,9 @@
 \RequirePackage[final,tracking=true]{microtype}
 %\RequirePackage{xcolor}
 
+\RequirePackage{etoolbox}
+\AtBeginEnvironment{quotation}{\small}
+
 %% Others
 \RequirePackage[francais]{babel}
 
