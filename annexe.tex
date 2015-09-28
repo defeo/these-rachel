@@ -37,7 +37,7 @@
 \part{Décors}
 \newcommand{\decor}[2][]{
   \setkeys{bdd}{#1}
-  \noindent\includegraphics[width=\textwidth]{#2}
+  \centering\noindent\includegraphics[width=\textwidth,height=0,7\textheight,keepaspectratio]{#2}
 
   \noindent\BDDhouse\\
   \BDDname\\
@@ -52,7 +52,7 @@
 \part{Objets}
 \newcommand{\objet}[2][]{
   \setkeys{bdd}{#1}
-  \noindent\includegraphics[width=\textwidth]{#2}
+  \centering\noindent\includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{#2}
 
   \noindent\BDDname, \BDDsubject, \BDDmaterial,
   \BDDdate, \BDDartist, \BDDdiscovery, \BDDlocation, \BDDcredits
@@ -65,11 +65,11 @@
 \newcommand{\monnaie}[2][]{
   \setkeys{bdd}{#1}
   
-  \begin{tabular}{p{0.5\textwidth} p{0.5\textwidth}}
+  \begin{tabular}{p{0.6\textwidth} p{0.4\textwidth}}
     \BDDref, \BDDvalue, \BDDartist, \BDDmagistrate, \BDDdate,
     \BDDfront, \BDDfrontInscr,
     \BDDback, \BDDbackInscr &
-    \raisebox{-0.9\height}{\includegraphics[width=0.5\textwidth]{#2}}
+    \raisebox{-0.9\height}{\includegraphics[width=0.4\textwidth]{#2}}
   \end{tabular}
 }
 \input{annexe-monnaies.tex}
