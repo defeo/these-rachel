@@ -18654,7 +18654,7 @@ on, pour Achille avec Chiron; le voyage vers un pays étranger au cours d'un
 
 .
  La plupart des mythes sont ici compris dans une acception philosophique,
- autre de celle qu'ils revêtent dans le poème: ainsi de l'histoire de Pâris
+ autre que celle qu'ils revêtent dans le poème: ainsi de l'histoire de Pâris
  et Hélène, qui devient, non plus une histoire d'adultère, mais un voyage
  initiatique vers une vie nouvelle
 \begin_inset Foot
@@ -18693,7 +18693,11 @@ status collapsed
 \begin_layout Plain Layout
 Voir le résumé des premières interprétations dans l'article de J.
  Hubaux 1932, p.
- 375 sq.
+ 375 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -18708,7 +18712,9 @@ status collapsed
 
 \begin_layout Plain Layout
 Carcopino 1927, p.
- 371 sq.
+ 371 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -18837,9 +18843,12 @@ Sappho
 \begin_inset Quotes frd
 \end_inset
 
- l'une des figures féminines de l'Odyssée? Cela ne fonctionne pas davantage,
- et ce non seulement à cause de sa cithare: Circé ne convient pas à une
- telle représentation --
+ l'une des figures féminines de l'
+\emph on
+Odyssée
+\emph default
+? Cela ne fonctionne pas davantage, et ce non seulement à cause de sa cithare:
+ Circé ne convient pas à une telle représentation --
 \begin_inset space ~
 \end_inset
 
@@ -18883,17 +18892,9 @@ Odyssée
  qui donne l'ordre à Calypso de laisser aller Ulysse, et l'objet tenu par
  le personnage debout sur le rocher ne saurait guère se confondre avec un
  caducée.
- Ino
-\begin_inset space ~
-\end_inset
-
-/
-\begin_inset space ~
-\end_inset
-
-Leucothée, déesse marine, pourrait également convenir, d'autant plus qu'elle
- donne son voile à Ulysse, alors dans une situation critique sur son vaisseau;
- mais le texte d'Homère montre Ino émergeant de l'eau 
+ Ino/Leucothée, déesse marine, pourrait également convenir, d'autant plus
+ qu'elle donne son voile à Ulysse, alors dans une situation critique sur
+ son vaisseau; mais le texte d'Homère montre Ino émergeant de l'eau 
 \begin_inset Quotes fld
 \end_inset
 
@@ -18911,7 +18912,11 @@ status collapsed
 Odyssée
 \emph default
 , V, v.
- 333 sq.
+ 333 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -18945,7 +18950,7 @@ ou pas seulement
 status collapsed
 
 \begin_layout Plain Layout
-Poséidon et Scamandre représentent l'eau, Héra l'air, Artémis la lune, etc;
+Poséidon et Scamandre représentent l'eau, Héra l'air, Artémis la lune, etc.;
  d'autres symbolisent les qualités morales: Athéna la sagesse, Arès la folie,
  Aphrodite le désir, Hermès la raison, Léto l'oubli.
  Tout ceci est rappelé chez Porphyre qui fait remonter cette interprétation
@@ -18977,7 +18982,11 @@ Allégories d'Homère
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  187.
 \end_layout
 
@@ -18991,7 +19000,11 @@ Ibid., p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  188-189.
 \end_layout
 
@@ -19008,7 +19021,11 @@ Ibid., p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  83.
 \end_layout
 
@@ -19022,7 +19039,11 @@ e tout comme il règle l'harmonie musicale des sphères
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  191.
 \end_layout
 
@@ -19048,7 +19069,11 @@ Diogène Laërce, Pythagore, 11.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., 13 et Cicéron, 
+
+\emph on
+Ibid.
+\emph default
+, 13 et Cicéron, 
 \emph on
 De Natura Deorum
 \emph default
@@ -19064,7 +19089,11 @@ De Natura Deorum
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, id., 21.
+Diogène Laërce, 
+\emph on
+id
+\emph default
+., 21.
 \end_layout
 
 \end_inset
@@ -19084,7 +19113,11 @@ Nous sacrifions à Apollon comme à un dieu pythagoricien, en ne mangeant
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., 37.
+
+\emph on
+Ibid.
+\emph default
+, 37.
 \end_layout
 
 \end_inset
@@ -19202,7 +19235,11 @@ e
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  465.
 \end_layout
 
@@ -19313,34 +19350,19 @@ Odyssée
  radeau, et le personnage féminin descend dans l'eau au lieu d'en sortir.
  Cependant, les indices semblent confirmer que la vue de Sappho sur le stuc
  central de l'hypogée suggérait également à l'esprit du pythagoricien qui
- le contemplait des allusions à Ino
-\begin_inset space ~
-\end_inset
-
-/
-\begin_inset space ~
-\end_inset
-
-Mater Matuta: la descente dans l'eau, qui fait référence à ses trois existences
- (sa mort en tant qu'humaine, lorsqu'elle se jette dans la mer avec son
- fils, sa renaissance comme déesse des vagues, sa naissance chaque matin
- à l'aube); les personnages marins pour sa forme de Leucothée, déesse de
- la mer; Apollon pour sa forme de déesse sidérale; le voile qui lui sert
- d'attribut.
+ le contemplait des allusions à Ino/Mater Matuta: la descente dans l'eau,
+ qui fait référence à ses trois existences (sa mort en tant qu'humaine,
+ lorsqu'elle se jette dans la mer avec son fils, sa renaissance comme déesse
+ des vagues, sa naissance chaque matin à l'aube); les personnages marins
+ pour sa forme de Leucothée, déesse de la mer; Apollon pour sa forme de
+ déesse sidérale; le voile qui lui sert d'attribut.
  Si Leucothée sauve Ulysse, elle était également devenue, en compagnie de
  Palémon, protectrice de tous les marins, et c'est également une des fonctions
  de Mater Matuta.
- Déesse à la fois de la salvation et de la naissance, rentrant dans les
- eaux et en ressortant chaque matin sous la direction d'Apollon
-\begin_inset space ~
-\end_inset
-
-/
-\begin_inset space ~
-\end_inset
-
-Pythagore, elle était bien placée pour présider au mythe pythagoricien de
- la migration des âmes.
+ Déesse à la fois de la salvation et de la naissance, morte et ressuscitée,
+ rentrant dans les eaux et en ressortant chaque matin sous la direction
+ d'Apollon/Pythagore, elle était bien placée pour présider au mythe pythagoricie
+n de la migration des âmes.
  La cithare que porte le personnage évoque également, dans l'interprétation
  pythagoricienne du décor, les Sirènes --
 \begin_inset space ~
@@ -19352,11 +19374,12 @@ ux: non l'un des monstres ailés de l'
 Odyssée
 \emph default
 , mais leur contrepartie pythagoricienne plus divine et moins dangereuse,
- celle qui s'apparente aux Muses et qui font résonner la musique des sphères
- sous la conduite d'Apollon, divinités astronomiques elles aussi, porteuses
- de lumière et d'harmonie.
+ celle où elles s'apparentent aux Muses et qui font résonner la musique
+ des sphères sous la conduite d'Apollon, divinités astronomiques elles aussi,
+ porteuses de lumière et d'harmonie.
  Sappho, musicienne humaine, rappelle alors la théorie de la musique des
- sphères.
+ sphères, comme le faisait tout musicien pour les Pythagoricien (Achille
+ par exemple, ainsi que nous l'avons vu).
  
 \end_layout
 
@@ -19370,8 +19393,8 @@ Il n'est bien sûr pas exclu que ces tentatives d'interprétations soient
  probablement une erreur; une fois admis que le personnage central, celui
  qui organise la danse, ne peut être qu'Apollon, que le personnage féminin
  peut difficilement, en raison de son instrument, représenter un autre personnag
-e que Sappho, que l'on veuille reconnaître, dans le personnage nu sur son
- rocher Ulysse, ou bien un aspirant pythagoricien, ou bien les deux à la
+e que Sappho, que l'on veuille reconnaître dans le personnage nu sur son
+ rocher Ulysse ou bien un aspirant pythagoricien, ou bien les deux à la
  fois, il nous semble que celui qui voyait Sappho sur cette image, en suivant
  du regard le bras tendu d'Apollon, devait également y voir, en surimpression,
  une divinité porteuse d'harmonie et de lumière.
@@ -19385,8 +19408,8 @@ Maisons, décors, objets de collections privées
 La maison romaine, on le sait, diffère des palais modernes en ce qu'elle
  est un espace entièrement tourné vers l'intérieur.
  Là où les riches demeures de la Renaissance ou des siècles ultérieurs tentent
- d'en imposer à la vue du passant par leur magnificence architecturale,
- et de faire de la façade un marqueur extérieur de la puissance du propriétaire,
+ d'en imposer à la vue du passant par leur magnificence architecturale et
+ de faire de la façade un marqueur extérieur de la puissance du propriétaire,
  la maison pompéienne, retranchée derrière les boutiques qui flanquent le
  plus souvent les fauces, n'offre à la vue, au mieux, que quelques graffiti
  électoraux encadrant l'entrée.
@@ -19472,7 +19495,7 @@ exedrae
  sur les côtés, selon la nomenclature de Vitruve, font partie de ces espaces
  de réception.
  Il s’agit d’un ensemble d’espaces ouverts les uns sur les autres; s'il
- était probablement possible de les séparer au moyen de portes ou de tentures,
+ était peut-être possible de les séparer au moyen de portes ou de tentures,
  les visiteurs étaient probablement admis, en fonction de leur importance
  sociale et de leurs rapports avec le maître de maison, à rester dans l'
 \emph on
@@ -19518,15 +19541,23 @@ status collapsed
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 Indeed, in the greater number of cases these supplied the only fixed element
  of furnishing because the Romans furnished their rooms sparsely, and those
  essential articles used for seating or storage were portable enough to
  facilitate their transfer from room to room in accordance with seasonal
  needs.
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
- (Ibid., p.
+ (
+\emph on
+Ibid.
+\emph default
+, p.
  7.)
 \end_layout
 
@@ -20043,9 +20074,9 @@ Hélène et sa servante, Briséis
 \emph on
 ablinum
 \emph default
-: mais les deux amants sont ici éloignés l'un de l'autre, et Pâris et dignement
+: mais les deux amants sont ici éloignés l'un de l'autre, et Pâris est dignement
  assis sur un siège où il reçoit la reine de Sparte; la présence d'Éros,
- au centre, est au sens propre, la seule à conférer une dimension érotique
+ au centre, est au sens propre la seule à conférer une dimension érotique
  à l'ensemble.
  Il faut peut-être mettre cette thématique amoureuse en rapport avec les
  représentations d’amours qui donnent son nom à la maison: les amours de
@@ -20077,11 +20108,11 @@ ala
 \emph on
 atrium
 \emph default
- qui nous offre un décor aux panneaux centraux, réalisés tout trois par
- la même main, entièrement voués aux héros homériques, et plus particulièrement
- à des épisodes de la fin de la Guerre de Troie: la mort de Laocoon au sud,
- le cheval de Troie à l’est, et au nord, la capture d’Hélène et le viol
- de Cassandre en présence de Priam.
+ qui nous offre un décor avec trois panneaux centraux réalisés tous trois
+ par la même main, entièrement voués aux héros homériques, et plus particulièrem
+ent à des épisodes de la fin de la Guerre de Troie: la mort de Laocoon au
+ sud, le cheval de Troie à l’est, et au nord, la capture d’Hélène et le
+ viol de Cassandre en présence de Priam.
 \end_layout
 
 \begin_layout Standard
@@ -20253,7 +20284,7 @@ status collapsed
 
 \begin_layout Plain Layout
 Un sceau dans la chambre utilisée par le procurator a livré le nom de Q.
- Poppaeus Eros, affranchi, sans doute au service d' une branche des Poppaei.
+ Poppaeus Eros, affranchi, sans doute au service d'une branche des Poppaei.
  Cette identification fut mise en doute récemment car on attribuait trop
  de maisons de Pompéi à la famille (Ling 1996, 1997).
  Mais ici les réserves ne paraissent pas justifiées.
@@ -20281,7 +20312,7 @@ Frises narratives: la Maison d'Octavius Quarto (II, 2, 2), la maison du
 
 \begin_layout Standard
 Nous nous permettrons de comparer ici les décors à thème homérique de ces
- trois maisons, en dépit du fait que seule l'un d'entre eux, celui de la
+ trois maisons, en dépit du fait que seul l'un d'entre eux, celui de la
  maison du Laraire d'Achille, soit véritablement placé dans un espace visible
  pour les visiteurs de la maison.
  La maison de D.
@@ -20374,7 +20405,11 @@ er
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  36.
 \end_layout
 
@@ -20400,9 +20435,9 @@ laraire d’Achille
 \begin_inset Quotes frd
 \end_inset
 
-, en pleine réfection au moment du Vésuve, n’est décoré que dans sa partie
- supérieure.
- Le plafond est consitué d’une voûte à caissons orné d’Amours et de motifs
+, en pleine réfection au moment de l'éruption du Vésuve, n’est décoré que
+ dans sa partie supérieure.
+ Le plafond est constitué d’une voûte à caissons ornée d’Amours et de motifs
  végétalisés dans des tons rouges et jaunes; tout autour de la pièce, juste
  sous la voûte, court une frise de stuc sur fond bleu du IV
 \begin_inset script superscript
@@ -20428,7 +20463,7 @@ s.
  sur l’action des personnages, sans perspective dans le dessin et sans décor
  d’arrière-plan, ce qui augmente la rapidité de l’action et l’efficacité
  de la narration.
- La pièce, dont la fonction est en réalité difficile à déterminer, donne
+ La salle, dont la fonction est en réalité difficile à déterminer, donne
  sur le 
 \emph on
 tablinum
@@ -20440,7 +20475,11 @@ tablinum
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  39-44.
 \end_layout
 
@@ -20458,13 +20497,14 @@ hermai
  de satyres et de Ménades, la disparité plus grande des épisodes représentés
  fait qu’il n’y faut pas forcément chercher de continuité narrative, malgré
  le fait que tous ces épisodes se situent dans un espace de temps assez
- réduit de la Guerre de Troie.
+ réduit de la guerre de Troie.
  On y trouve, pêle-mêle et reconnaissables le plus souvent aux inscriptions
  faute d’une bonne conservation des peintures, les deux Ajax combattant
  Hector sur le corps de Patrocle, Thétis apportant les armes d’Achille,
  Achille assis sur la tombe de Patrocle, Briséis rendue à Achille, Achille
  combattant Hector qui est sauvé par Apollon, Achille tuant Lycaon, l’arrivée
- de Penthésilée à Troie, Achille à cheval, Andromaque sur le tombeau d’Hector…
+ de Penthésilée à Troie, Achille à cheval, Andromaque sur le tombeau d’Hector,
+ etc.
 \end_layout
 
 \begin_layout Standard
@@ -20535,11 +20575,13 @@ tablinum
 status collapsed
 
 \begin_layout Plain Layout
-Roger Ling (Ling 1991, p.
- 134) indique que les deux semblent être inspirées d'une célèbre peinture
+R.
+ Ling indique que les deux semblent être inspirées d'une célèbre peinture
  d'Athenion de Maronée, quoique celle de la maison des Dioscures semble
  être la meilleure qualitativement.
  
+\emph on
+
 \begin_inset Quotes fld
 \end_inset
 
@@ -20557,7 +20599,10 @@ But which copy is closer to the original? Not necessarily the better piece
 \begin_inset Quotes frd
 \end_inset
 
-
+ 
+\emph default
+(Ling 1991, p.
+ 134.)
 \end_layout
 
 \end_inset
@@ -20670,27 +20715,31 @@ Iliade
 , et cette mise en scène se fait chaque fois par une grande recherche dans
  la qualité stylistique de l’exécution et dans les moyens d’exprimer toute
  la grandeur légendaire des personnages en question.
- Plus que d’autres mythes peut-êtres, les héros homériques offrent l’avantage
+ Plus que d’autres mythes, peut-être, les héros homériques offrent l’avantage
  d’exprimer la puissance sociale du maître de maison qui s’identifie à eux,
  aussi bien que de constituer une référence culturelle qui est l’apanage
  commun des hommes issus d’une certaine élite sociale.
 \end_layout
 
 \begin_layout Subsubsection
-Les espaces propria patribus familiarum
+Les espaces 
+\emph on
+propria patribus familiarum
 \end_layout
 
 \begin_layout Standard
 À Pompéi, les salles à manger ont souvent fait l'objet d'une décoration
  minutieuse, et l'on retrouve une bonne partie des décors à thème homérique
- dans ce type de pièces.
+ dans ce type de salles.
  Les pièces que l'on a identifées comme des chambres ne sont généralement
  pas en reste: ici les thèmes retenus se font plus intimes, moins grandioses
  ou tragiques, plus portés sur les sujets bucoliques ou amoureux.
 \end_layout
 
 \begin_layout Paragraph
-Dans les triclinia
+Dans les 
+\emph on
+triclinia
 \end_layout
 
 \begin_layout Standard
@@ -20758,7 +20807,11 @@ triclinium
 
 \end_inset
 
-, de la domus V – 2, 15
+, de la 
+\emph on
+domus
+\emph default
+ V – 2, 15
 \begin_inset Foot
 status collapsed
 
@@ -20878,7 +20931,11 @@ triclinium
 
 \end_inset
 
-, tandis que dans la domus I, 2, 6
+, tandis que dans la 
+\emph on
+domus
+\emph default
+ I, 2, 6
 \emph on
 
 \begin_inset Foot
@@ -20896,8 +20953,8 @@ Triclinium
 
 
 \emph default
-, elle assite au vol du Palladion par Ulysse, deux événements qui sont le
- signe de la chute de Troie.
+, elle assiste au vol du Palladion par Ulysse, deux événements qui sont
+ le signe de la chute de Troie.
 \end_layout
 
 \begin_layout Standard
@@ -21095,7 +21152,8 @@ domus
 status collapsed
 
 \begin_layout Plain Layout
-K; Schefold a rapproché ce décor d'autres séries similaires d'héroïnes punies
+K.
+ Schefold a rapproché ce décor d'autres séries similaires d'héroïnes punies
  pour leurs amours coupables: un cycle de mosaïques provenant d'Antioche
  représentant les mêmes Phèdre, Médée et Hélène et y ajoutant Atalante et
  Sthénébée, Myrrha et Scylla dans la maison des Dioscures, une peinture
@@ -21112,7 +21170,8 @@ pudor
 
 \end_inset
 
-...
+\SpecialChar \ldots{}
+
 \end_layout
 
 \begin_layout Standard
@@ -21121,7 +21180,7 @@ Pas une seule scène de combat, de meurtre ou de tragédie; les sujets évoqués
 \emph on
  cubicula
 \emph default
-, auquels on ajoutera l'enlèvement de Ganymède dans la maison de Méléagre
+, auxquels on ajoutera l'enlèvement de Ganymède dans la maison de Méléagre
 \begin_inset Foot
 status collapsed
 
@@ -21194,7 +21253,8 @@ cubicula
 \emph on
  atria
 \emph default
- que nous avons pu voir: la maison des Cinq Squelettes, celle de l'Éphèbe...
+ que nous avons pu voir, comme dans la maison des Cinq Squelettes ou celle
+ de l'Éphèbe.
  Ces quelques exemples de 
 \emph on
 triclinia
@@ -21221,13 +21281,16 @@ atrium
 domus
 \emph default
  romaine dont le propriétaire aimait Homère des salles à manger dans lesquelles
- on faisait peindre un Jugement de Pâris sans toujours faire de la paroi
- une riche œuvre d'art, destinées peut-être à des occasions moins solennelles,
- et d'autres où l’on invite les personnages les plus importants, et où l'on
- faisait réaliser des ensembles narratifs plus riches, plus impressionnants,
- même si Vitruve ne compte pas les salles à manger au nombre des pièces
- de réception, que la noblesse chargée des affaires de l’Etat doit selon
- lui faire belles et ornementées
+ on faisait peindre un 
+\emph on
+Jugement de Pâris
+\emph default
+ sans toujours faire de la paroi une riche œuvre d'art, destinées peut-être
+ à des occasions moins solennelles, et d'autres où l’on invitait les personnages
+ les plus importants, et où l'on faisait réaliser des ensembles narratifs
+ plus riches, plus impressionnants, même si Vitruve ne compte pas les salles
+ à manger au nombre des pièces de réception, que la noblesse chargée des
+ affaires de l’Etat doit selon lui faire belles et ornementées
 \begin_inset Foot
 status collapsed
 
@@ -21259,17 +21322,17 @@ De Architectura
 Il est bien entendu présomptueux de vouloir réaliser une étude statistique
  exhaustive dans un domaine où les sources sont par définition lacunaires.
  Il nous a cependant paru intéressant de rassembler les remarques précédentes
- dans un tableau rerpoduit en annexe, permettant de voir quels thèmes sont
+ dans un tableau reproduit en annexe, permettant de voir quels thèmes sont
  privilégiés dans les différentes pièces de la maison.
- Des exemplaires réduits à l'unicité ne premettent bien sûr pas de tirer
- des conclusions statistiques.
+ Des exemplaires réduits à l'unicité ne donnent bien sûr pas la possibilité
+ de tirer des conclusions statistiques.
  Ce tableau permettra tout de même de faire quelques remarques: en premier
  lieu, un bon nombre des représentations homériques à Pompéi, indépendamment
  de leur qualité d'exécution, se retrouvent dans les espaces de réception,
  preuve que les habitants de Pompéi tenaient à faire publiquement montre
  de leur culture dans ce domaine.
- Par ailleurs, on peut également noter qu'Achille tire à lui la couverture
- médiatique, fournissant au travers de nombreux épisodes (pour la plupart
+ Par ailleurs, on peut également noter qu'Achille bénéficie d'un éclairage
+ particulier, fournissant au travers de nombreux épisodes (pour la plupart
  tirés de l'
 \emph on
 Iliade
@@ -21305,7 +21368,7 @@ t sur ceux des peintres de la région du Vésuve qui avaient mis les thèmes
 
 \begin_layout Standard
 On peut d'ores et déjà faire la remarque que, vraisemblablement, certains
- de ces artistes avaient le répertoire homérique à leur catalogue, et pouvaient
+ de ces artistes avaient le répertoire homérique à leur catalogue et pouvaient
  le présenter à des clients différents, à moins que ceux-ci ne réclamassent
  une peinture vue chez un voisin.
  Le peintre dit de Boscotrecase, par exemple, a représenté deux fois 
@@ -21369,7 +21432,7 @@ Mars et Vénus
 \emph on
 Apollon et Poséidon devant Laomédon
 \emph default
-, et une Ménade endormie.
+ et une Ménade endormie.
  Même thématique ou presque chez le peintre d'Iphigénie auteur du fameux
  sacrifice de la maison du Poète Tragique, qui a quant à lui fait deux fois
  
@@ -21392,8 +21455,8 @@ riane abandonnée par Thésée
 \emph default
 .
  La thématique de l'abandon amoureux, une fois dans le mythe grec avec le
- fondateur d'Athènes, et une fois dans le mythe latin avec le fondateur
- de Rome, est ici évidemment évoquée par l'artiste.
+ fondateur d'Athènes et une fois dans le mythe latin avec le fondateur de
+ Rome, est ici évidemment évoquée par l'artiste.
  Autres exemples de ces œuvres plusieurs fois mises au catalogue des peintres:
  l'artiste appelé peintre d'Io, également auteur de la 
 \emph on
@@ -21422,7 +21485,7 @@ prophétie de Cassandre
 \emph on
 Ulysse et Pénélope
 \emph default
-, sont l'oeuvre du même peintre, dit le peintre des Cinq Squelettes; dans
+ sont l'œuvre du même peintre, dit le peintre des Cinq Squelettes; dans
  la maison de Laocoon, le peintre du Cithariste, également auteur d'autres
  tableaux homériques de Pompéi, a représenté les deux pendants de l'
 \emph on
@@ -21500,14 +21563,14 @@ Thétis dans la forge de Vulcain
 \emph default
  de la maison des Amours Dorés, de la maison de Siricus ou encore de la
  maison d'Achille: la scénographie, la position des personnages, le cadrage
- même est rigoureusement identique, alors même qu'il existe d'autres modèles
+ même sont rigoureusement identiques, alors même qu'il existe d'autres modèles
  pour cette scène.
  Les deux représentations que nous possédons de la scène où Achille est
  présenté à Polyxène, en présence de Pâris et de Phénix (maison des Amours
  Dorés et maison de Jason), sont également similaires, pour peu que nous
  puissions en juger malgré leur mauvais état de conservation; les positions
- respectives des personnages, en tout cas, et la position assise de Pâris
- à même le sol sont semblables.
+ respectives des personnages, en tout cas, dont Pâris, assis à même le sol,
+ sont semblables.
 \end_layout
 
 \begin_layout Standard
@@ -21537,7 +21600,7 @@ Il suffit de se plonger dans la
 Correspondance
 \emph default
  de Cicéron pour voir à quel point les Romains aimaient décorer leurs maisons
- d'œuvres d'art, et d'objets de collection en tout genre.
+ d'œuvres d'art et d'objets de collection en tout genre.
  Cicéron lui-même était fort content d'avoir sa propre Académie, évoquant
  un gymnase, qu'il remplissait de statues, à en croire ses lettres à Atticus:
  
@@ -21613,7 +21676,7 @@ Ad Att
  Le grand nombre de statues retrouvé dans la villa des Papyri, à Herculanum,
  confirme cette tendance: il s'agit non seulement de représentations de
  divinités ou d'athlètes, mais également de statues de philosophes et d'auteurs
- de théâtre: Zénon, Epicure, Démosthène, Eschine, et d'autres personnages
+ de théâtre: Zénon, Epicure, Démosthène, Eschine et d'autres personnages
  à l'identification incertaine, mais visiblement de qualité littéraire,
  ainsi qu'une Athéna Promachos qui n'eût pas déplu à Cicéron.
  La villa des Papyri, propriété de Pison, abritait, comme nous le savons,
@@ -21623,7 +21686,9 @@ status collapsed
 
 \begin_layout Plain Layout
 Sauron 2009, p.
- 71 sq.
+ 71 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -21639,7 +21704,7 @@ Sauron 2009, p.
 
 Il se plaisait à rassembler dans chacune grand nombre de livres, de statues,
  de portraits, qu'il n'aimait pas seulement, mais dont il était enchanté.
- Le portrait de Virgile remportait sur tous les autres.
+ Le portrait de Virgile l'emportait sur tous les autres.
  Il fêtait la naissance de ce poète avec beaucoup plus de solennité que
  la sienne propre; principalement à Naples, où il n'approchait de son tombeau
  qu'avec le même respect qu'il eût approché d'un temple
@@ -21667,7 +21732,7 @@ Lettres
 \begin_layout Standard
 Homère faisait naître la même fièvre collectionneuse, ainsi qu'en témoignent
  les nombreux bustes du poète, pour la plupart copies d'originaux d'époque
- hellénistique, qu'on trouve dans les collections Albani, Caetani, Farnese...
+ hellénistique, qu'on trouve dans les collections Albani, Caetani ou Farnese.
 \end_layout
 
 \begin_layout Standard
@@ -21792,8 +21857,7 @@ e
 
  siècles, et que les lettrés et collectionneurs romains avaient visiblement
  repris à leur compte.
- Ce même sujet de l'apothéose d'Homère était également représenté sur un
- 
+ Cette même apothéose d'Homère était également représenté sur un 
 \emph on
 kalathos
 \emph default
@@ -21913,7 +21977,7 @@ caelatura
 
  indique une gravure ou une ciselure sur un matériau précieux, comme l'or
  ou l'argent, il paraît étrange que des coupes en argent, même jetées avec
- force sur le sol, se soit brisées si facilement (
+ force sur le sol, se soient brisées si facilement (
 \begin_inset Quotes fld
 \end_inset
 
@@ -21980,8 +22044,8 @@ Ces deux coupes, signées Silius (commandant des légions du Rhin entre 14
  de Lolland, c'est-à-dire hors de la province romaine, montrent des liens
  privilégiés entre certains chefs des tribus germaniques et les commandants
  militaires romains en poste dans la région: le fait que les coupes portent
- le nom de Silius semblent indiquer que, malgré la richesse du matériau
- et de la ciselure, il avait offert ses propres coupes
+ le nom de Silius semble indiquer que, malgré la richesse du matériau et
+ de la ciselure, il avait offert ses propres coupes
 \begin_inset Foot
 status collapsed
 
@@ -22001,17 +22065,10 @@ Grane 2012, p.
  le monde latin, et probablement réalisées dans un atelier grec à Rome pour
  un client romain, comme l'indiquent le fait qu'elles se soient trouvées
  en la possession d'un commandant romain, mais aussi la singulière ressemblance
- du visage d'Achille avec celui d'Auguste: ainsi la présence d'Achille
-\begin_inset space ~
-\end_inset
-
-/
-\begin_inset space ~
-\end_inset
-
-Auguste reçevant la proskynèse du roi Priam, dans un contexte de domination
- romaine sur un peuple barbare, sur une frontière extrêmement mouvante,
- prend-elle une résonance particulière.
+ du visage d'Achille avec celui d'Auguste: ainsi la présence d'Achille/Auguste
+ recevant la proskynèse du roi Priam, dans un contexte de domination romaine
+ sur un peuple barbare, sur une frontière extrêmement mouvante, prend-elle
+ une résonance particulière.
 \end_layout
 
 \begin_layout Standard
@@ -22142,7 +22199,7 @@ Oenochoé
 
 \begin_layout Standard
 On citera également au nombre de ces objets de collection, précieux par
- leur travail miutieux, ces tables de divers matériaux --
+ leur travail minutieux, ces tables de divers matériaux --
 \begin_inset space ~
 \end_inset
 
@@ -22158,10 +22215,9 @@ tabulae iliacae
 , avec leurs sculptures en très bas relief, font partie de ces nombreux
  objets dont la destination ne nous est pas réellement connue puisqu’il
  n’en est pas fait mention dans les sources littéraires.
- Les exemplaires dont il est fait ici mention sont des morceaux d’art assez
- complexes, alliant représentation figurée, inscription des noms et des
- événements et continuité ou simultanéité narrative dans la représentation
- des épisodes.
+ Les exemplaires que nous connaissons sont des morceaux d’art assez complexes,
+ alliant représentation figurée, inscription des noms et des événements
+ et continuité ou simultanéité narrative dans la représentation des épisodes.
  La plus célèbre, connue sous le nom de 
 \emph on
 Tabula Capitolina
@@ -22170,9 +22226,9 @@ Tabula Capitolina
  Datée du premier siècle avant notre ère, il s’agit d’un relief sur marbre
  de 25x42 cm, gravé selon une technique miniaturiste.
  La tablette représente Troie avec ses remparts, ses maisons, ses palais,
- ses temples, et les tombeaux d’Achille et d’Hector à l’extérieur; à l’intérieur
-, sont dépeints l’épisode du Cheval de Troie, le rapt de Cassandre, le meurtre
- de Priam, la fuite d’Enée et d’Anchise, enfin le sacrifice de Polyxène.
+ ses temples et les tombeaux d’Achille et d’Hector à l’extérieur; à l’intérieur,
+ sont dépeints l’épisode du Cheval de Troie, le rapt de Cassandre, le meurtre
+ de Priam, la fuite d’Énée et d’Anchise, enfin le sacrifice de Polyxène.
  La tablette porte une inscription en grec au dos: 
 \begin_inset Quotes fld
 \end_inset
@@ -22332,7 +22388,7 @@ index parlant
  pas d’une illustration précisément de l’œuvre d’Homère, mais sans doute
  plutôt d’un résumé mythologique global, s’appuyant peut-être aussi bien
  sur les poèmes du cycle homérique que sur des versions plus tardives, voire
- sur des adaptations latines –-
+ sur des adaptations latines --
 \begin_inset space ~
 \end_inset
 
@@ -22360,7 +22416,11 @@ s, comme celles, par exemple, du bouclier d'Achille, n'étaient pas même
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  9.
 \end_layout
 
@@ -22371,15 +22431,23 @@ Ibid., p.
  pratique de la lecture n'était peut-être pas toujours si aisée, pour se
  diriger vers l'hypothèse d'une clientèle aisée et cultivée.
  La technique des tables n'est pas sans rappeler le modèle plus ancien de
- l'Apothéose d'Homère d'Archélaos de Priène, que nous avons évoqué plus
- haut, ou encore les coupes homériques.
+ l'
+\emph on
+Apothéose d'Homère
+\emph default
+ d'Archélaos de Priène, que nous avons évoqué plus haut, ou encore les coupes
+ homériques.
  L'atelier de Théodore imitait probablement des modèles qui existaient avant
  lui
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  10.
 \end_layout
 
@@ -22394,7 +22462,11 @@ Ibid., p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  11.
 \end_layout
 
@@ -22468,21 +22540,23 @@ Travaux et des Jours
  dithyrambique de pas moins de cent cinquante vers de long, est présenté
  par Homère comme l'aboutissement ultime de ce que peut produire l'art,
  alors il est évident que sa reproduction, si faible et partielle fût-elle,
- devait avoir une valeur et une rareté particulière; et par ailleurs, le
+ devait avoir une valeur et une rareté particulières; et par ailleurs, le
  matériau utilisé ne semble pas être celui dont on fait les objets destinés
  aux enfants.
 \end_layout
 
 \begin_layout Standard
 Il est évident qu'un tel objet, trop lourd à manipuler, et avec un tel travail
- artistique, était un objet de collection, pour lequel on ne peut guère
+ artistique, était une véritable œuvre d'art, pour laquelle on ne peut guère
  imaginer une utilisation pratique
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
 Squire 2011, p.
- 67 sq.
+ 67 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -22511,7 +22585,7 @@ Musées romains
 \end_layout
 
 \begin_layout Standard
-A la même époque où commencent à se développer les bibliothèques publiques,
+À la même époque où commencent à se développer les bibliothèques publiques,
  les collections d'art reçoivent elles aussi une attention nouvelle.
  Nous avons vu qu'au cours du I
 \begin_inset script superscript
@@ -22529,7 +22603,7 @@ er
 es, les sculptures qui ornaient la demeure de particuliers ou les palais
  royaux ou encore, bien souvent, les temples, changent de statut en devenant
  des objets de collection, amassés dans la villa des riches conquérants.
- A l'époque de Jules César, et plus encore sous les débuts du principat
+ À l'époque de Jules César, et plus encore sous les débuts du principat
 \begin_inset Foot
 status collapsed
 
@@ -22549,7 +22623,11 @@ ment des premières collections publiques; les œuvres d'art, d'objets de
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  352: 
 \begin_inset Quotes fld
 \end_inset
@@ -22746,7 +22824,7 @@ quel mal fit aux Grecs la colère d’Achille
  ou dans les théâtres nous laisse supposer que la récurrence des attributs
  iconographiques des personnages en question permettait une identification
  aisée par tout un chacun, tandis que l’absence en général d’inscriptions
- sur les statues retrouvées –-
+ sur les statues retrouvées --
 \begin_inset space ~
 \end_inset
 
@@ -22754,10 +22832,10 @@ quand il ne s’agit pas d'une dédicace religieuse
 \begin_inset space ~
 \end_inset
 
--– donne à penser qu’on ne comptait pas sur la capacité des gens à lire
+-- donne à penser qu’on ne comptait pas sur la capacité des gens à lire
  pour identifier les sujets représentés.
  Même en l’absence d’une instruction scolaire, la facilité qu’il y avait
- à se rendre au théâtre un jour de fête –-
+ à se rendre au théâtre un jour de fête --
 \begin_inset space ~
 \end_inset
 
@@ -22765,7 +22843,7 @@ où le travail était suspendu
 \begin_inset space ~
 \end_inset
 
--– octroyait très certainement la connaissance des 
+-- octroyait très certainement la connaissance des 
 \emph on
 topoi
 \emph default
@@ -22799,10 +22877,10 @@ musées
 \end_inset
 
  romains.
- Le livre XXXV de Pline l'Ancien sur la peinture nous livre un catalogue
+ Le livre XXXV de Pline l'Ancien sur la peinture nous donne un catalogue
  précieux de ces peintures d'artistes grecs célèbres qu'il était possible
  d'admirer à Rome.
- Il n'en demeure hélas aucune à cause de la fragilité du support –-
+ Il n'en demeure hélas aucune à cause de la fragilité du support --
 \begin_inset space ~
 \end_inset
 
@@ -23014,7 +23092,7 @@ VIII, 3, 12.
 Prise de Troie
 \emph default
  par le peintre corinthien Kléanthès, dans le temple Alpheionia à l'embouchure
- du fleuve Alphée...
+ du fleuve Alphée.
  Tous ces exemples montrent à quel point le sujet homérique, pour les artistes
  chargés du décor des édifices publics, n'était pas nouveau.
  Les Romains, à leur tour, ont rassemblé ces œuvres pour extraire de l’ensemble
@@ -23027,11 +23105,11 @@ Prise de Troie
  destin, le fait de les rassembler dans une galerie les transforme avant
  tout en objets de culture, présents avant tout pour leur caractère évocatoire
  et leur beauté formelle.
- A l'inverse, toutefois, lorsque les représentations de personnages homériques
+ À l'inverse, toutefois, lorsque les représentations de personnages homériques
  sont isolées ou placées en regard d'une ou deux autres sculptures seulement,
  elles deviennent alors chargées de significations diverses.
  Nous en étudierons deux exemples: l'Ajax de Timomaque, placé par Jules
- César dans le temple de Vénus Genitrix; et la triade Neptune
+ César dans le temple de Vénus Genetrix; et la triade Neptune
 \begin_inset space ~
 \end_inset
 
@@ -23043,7 +23121,7 @@ Prise de Troie
 \end_layout
 
 \begin_layout Standard
-Le temple de Venus Genetrix était décoré, entre autres ornements, de deux
+Le temple de Vénus Genetrix était décoré, entre autres ornements, de deux
  tableaux de l'illustre peintre Timomaque représentant, l'un, Médée s'apprêtant
  à assassiner ses deux enfants, l'autre, Ajax juste avant son suicide.
  Le forum de César, de même que ses autres constructions, fut achevé par
@@ -23110,14 +23188,18 @@ ment fragile.
  imitant des modèles célèbres (ainsi, par exemple, du sacrifice d'Iphigénie
  de Timanthe), le lien de ce décor pompéien avec celui du temple de Vénus
  n'est en rien prouvé.
- A titre d'illustration, on peut cependant suggérer que la référence à un
+ À titre d'illustration, on peut cependant suggérer que la référence à un
  modèle célèbre, et facilement visible dans la capitale, reste plausible.
  Le tableau représentant Ajax, quant à lui, ne possède pas d'équivalent
  pictural à Pompéi.
  Le thème de la mort d'Ajax a cependant été traité à de nombreuses reprises,
  en tragédie comme dans l'art figuratif grec et romain, et on peut le rapprocher
 , comme nous l'avons vu, de l'Ajax méditant son suicide sans doute représenté
- par le Torse du Belvédère.
+ par le 
+\emph on
+Torse du Belvédère
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
@@ -23130,20 +23212,20 @@ nt élevée pour ces deux œuvres.
  Le fait qu'ils aient été placés dans le temple de Vénus, divinité avec
  laquelle ni Médée, ni Ajax ne partagent le moindre lien, ne laisse pas
  de susciter l'interrogation.
- Médée est petite-fille du Soleil, et participe à l'histoire de Jason, dont
+ Médée est petite-fille du Soleil et participe à l'histoire de Jason, dont
  la divinité tutélaire est Héra, et, dans une moindre mesure, à celle de
  Thésée, lié à Athéna; Ajax ne se confronte jamais aux divinités du parti
  troyen, contrairement à Diomède, et c'est Athéna qui provoque sa folie.
  Il faut ici considérer Vénus au travers de son épiclèse de Génitrice: elle
- est ici honorée en tant qu'ancêtre de la gens Julia; c'est César qui fait
- le lien entre elle, Médée, Ajax.
- Les sujets des deux peintures n'ont pas été choisis au hasard.
- Le peintre a choisi un moment de basculement, un 
+ est ici honorée en tant qu'ancêtre de la 
 \emph on
-acme
+gens
 \emph default
- tragique avant le destin fatal que le spectateur sait irrémédiable: l'infantici
-de dans un cas, le suicide dans l'autre.
+ Julia; c'est César qui fait le lien entre elle, Médée, Ajax.
+ Les sujets des deux peintures n'ont pas été choisis au hasard.
+ Le peintre a choisi un moment de basculement, une acmé tragique avant le
+ destin fatal que le spectateur sait irrémédiable: l'infanticide dans un
+ cas, le suicide dans l'autre.
  Pareil choix n'est pas étonnant, dans la mesure où pour un peintre, comme
  pour un auteur de théâtre, le moment le plus chargé dramatiquement, celui
  qui retient le mieux l'attention, qui excite le mieux chez le spectateur
@@ -23276,14 +23358,14 @@ de Cn.
 status collapsed
 
 \begin_layout Plain Layout
-Peut-être le sculpteur néo-attique Scopas mineur, voir Coarelli.
+Peut-être le sculpteur néo-attique Scopas mineur, voir Coarelli 1997b.
 \end_layout
 
 \end_inset
 
 , une triade composée de Neptune, Thétis et Achille, entourée de Néréides
  et de dauphins.
- Il semble que cette oeuvre ait été placée là au moment de la reconstruction
+ Il semble que cette œuvre ait été placée là au moment de la reconstruction
  du temple par le consul de 32, Cn.
  Domitius.
  Ici, la présence d’Achille a sans doute un but davantage religieux que
@@ -23291,10 +23373,14 @@ Peut-être le sculpteur néo-attique Scopas mineur, voir Coarelli.
  La mer et les chevaux sont étroitement associés dans la mythologie antique,
  de même que Neptune et Achille sont liés pendant la guerre de Troie: quand
  bien même Poséidon sauve Énée au livre XX, il soutient le parti des Grecs
- et c’est lui, dieu des chevaux par excellence, qui a fait dont à Pélée,
- selon la tragédie Rhésus du pseudo-Euripide et selon Apollodore, des chevaux
- immortels Xanthos et Balios dont hérite Achille et qui pleurent la mort
- de Patrocle, avant de revenir, à la mort d'Achille, en possession de Poséidon.
+ et c’est lui, dieu des chevaux par excellence, qui a fait don à Pélée,
+ selon la tragédie 
+\emph on
+Rhésus
+\emph default
+ du pseudo-Euripide et selon Apollodore, des chevaux immortels Xanthos et
+ Balios dont hérite Achille et qui pleurent la mort de Patrocle, avant de
+ revenir, à la mort d'Achille, en possession de Poséidon.
  Par ailleurs, Achille est lié au monde marin par le biais de sa mère Thétis,
  Néréide, et dont Poséidon aussi bien que Zeus avait cherché à obtenir les
  faveurs, avant qu'un oracle ne fasse savoir que le fils né d'elle serait
@@ -23319,7 +23405,7 @@ status collapsed
 
 \begin_layout Plain Layout
 Ridgway 2001, p.
- 86; Coarelli.
+ 86; Coarelli 1997b.
 \end_layout
 
 \end_inset
@@ -23340,7 +23426,7 @@ autel
 status collapsed
 
 \begin_layout Plain Layout
-Coarelli 1997, p.
+Coarelli 1997b, p.
  164.
 \end_layout
 
@@ -23358,12 +23444,12 @@ Personnage consulaire, Cn.
 status collapsed
 
 \begin_layout Plain Layout
-Coarelli, 
+Coarelli 1997b
 \emph on
-Il campo Marzio,
+,
 \emph default
  p.
- 409
+ 409.
 \end_layout
 
 \end_inset
@@ -23420,7 +23506,9 @@ status collapsed
 
 \begin_layout Plain Layout
 V, v.
- 553 sq.
+ 553 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -23499,12 +23587,16 @@ Suétone
 status collapsed
 
 \begin_layout Plain Layout
-Vie d'Auguste, XLIII.
+Auguste, XLIII.
 \end_layout
 
 \end_inset
 
- confirme que le princeps 
+ confirme que le 
+\emph on
+princeps
+\emph default
+ 
 \begin_inset Quotes fld
 \end_inset
 
@@ -23515,11 +23607,11 @@ fit très souvent donner des jeux troyens par des enfants de deux âges différe
 \end_inset
 
  Certains de ces jeunes furent estropiés, dont Nonius Asprenas à qui il
- offrit un dédommagement un torque d'or et le surnom transmissible de Torquatus,
+ offrit en dédommagement un torque d'or et le surnom transmissible de Torquatus,
  puis le petit-fils d'Asinius Pollion; ce dernier se plaignit et ces spectacles
  n'eurent plus lieu.
  On ne connaît cependant pas l'organisation exacte de ces jeux, ni le degré
- exact de références qu'y incluait l'organisateur à la Troie ancestrale,
+ exact de références à la Troie ancestrale qu'y incluait l'organisateur,
  en dehors du nom proprement dit.
 \end_layout
 
@@ -23618,7 +23710,7 @@ Boucher 1976, p.
  conservé les textes dans une proportion suffisamment importante, ne se
  sont pas référés à ce répertoire mythologique.
  Des comédies sur un tel sujet devaient cependant se jouer, et l'on en trouve
- ça et là les traces: ainsi dans cet extrait de Plutarque, qui fait très
+ çà et là les traces: ainsi dans cet extrait de Plutarque, qui fait très
  vraisemblablement référence à une comédie disparue: 
 \begin_inset Quotes fld
 \end_inset
@@ -23731,6 +23823,9 @@ status collapsed
 \end_inset
 
 : 
+\end_layout
+
+\begin_layout Quotation
 \begin_inset Quotes fld
 \end_inset
 
@@ -23765,14 +23860,7 @@ Je me souviens d'avoir vu jadis donner dans ce défaut un danseur estimé
  comme s'il se fût reconnu coupable d'une vraie folie.
  Il le fit bien voir par la suite; car plusieurs de ses partisans l'ayant
  prié de danser Ajax une seconde fois, il présenta un autre danseur, en
- disant aux spectateurs: 
-\begin_inset Quotes fld
-\end_inset
-
-C'est bien assez d'avoir été fou une première!
-\begin_inset Quotes frd
-\end_inset
-
+ disant aux spectateurs: "C'est bien assez d'avoir été fou une première!"
  Mais ce qui lui causa le plus de peine, c'est qu'un de ses concurrents,
  un de ses rivaux de métier, pour lequel on avait écrit le même rôle d'Ajax,
  joua la scène de la folie avec tant de convenance et de justesse qu'il
@@ -23820,7 +23908,11 @@ tout ce qui s'est passé depuis le chaos et la naissance du monde, jusqu'à
 status collapsed
 
 \begin_layout Plain Layout
-Id., §37.
+
+\emph on
+Ibid.
+\emph default
+, §37.
 \end_layout
 
 \end_inset
@@ -23848,7 +23940,11 @@ ne doit rien ignorer de tout ce qu'ont écrit Homère, Hésiode et les bons
 status collapsed
 
 \begin_layout Plain Layout
-Id., §61.
+
+\emph on
+Ibid.
+\emph default
+, §61.
 \end_layout
 
 \end_inset
@@ -23934,7 +24030,11 @@ Garelli 2007, p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  117.
 \end_layout
 
@@ -23973,7 +24073,11 @@ nunc Satyrum, nunc agrestem Cyclopa movetur
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+Garelli, 
+\emph on
+id
+\emph default
+., p.
  136.
 \end_layout
 
@@ -23995,7 +24099,11 @@ on ou d'Ajax
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid
+\emph default
+., p.
  136: 
 \begin_inset Quotes fld
 \end_inset
@@ -24053,7 +24161,11 @@ Phéniciennes
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  164.
 \end_layout
 
@@ -24066,7 +24178,11 @@ Ibid., p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  167-169: 
 \begin_inset Quotes fld
 \end_inset
@@ -24128,7 +24244,11 @@ Hippolyte
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  271-280.
 \end_layout
 
@@ -24427,7 +24547,11 @@ Les habitants d'Antioche sont des gens très spirituels, qui aiment beaucoup
 status collapsed
 
 \begin_layout Plain Layout
-Id., §76.
+
+\emph on
+Ibid.
+\emph default
+, §76.
 \end_layout
 
 \end_inset
@@ -24491,7 +24615,7 @@ Les jeux
 Les spectacles donnés dans l'amphithéâtre faisaient rarement l'objet d'une
  mise en scène, et nous ne connaissons pas d'exemple de spectacle de gladiateurs
  qui aurait repris tout ou partie des mythes de la guerre de Troie.
- Il existe cependant une mosaïque conservée au Musée archéologique de Madrid,
+ Il existe cependant une mosaïque conservée au Musée archéologique de Madrid
  qui nous montre un gladiateur dénommé Astyanax, et nous apprend qu'il sortit
  vainqueur de son combat.
  La mosaïque est cependant très probablement datable du III
@@ -24569,7 +24693,11 @@ Capdeville 1993, p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  169: 
 \begin_inset Quotes fld
 \end_inset
@@ -24660,7 +24788,7 @@ troia
 \emph default
  existait sur la côte italique sans qu'il fût à mettre forcément en rapport
  avec la cité d'Asie Mineure, dans des toponymes par exemple.
- Le rattachement des jeux troyens aux légendes de fondation troyennes est
+ Le rattachement des jeux troyens aux légendes de fondation troyenne est
  donc artificiel, et à mettre sur le compte d'une volonté, de la part du
  pouvoir en place, de susciter dans le public un engouement pour ces origines
  légendaires; objectif de propagande qui n'était jamais si bien atteint,
@@ -24857,9 +24985,13 @@ LXXXI, Liste des prétendants d’Hélène; XC, Les fils et filles de Priam,
 \end_layout
 
 \begin_layout Standard
-La plupart de ces Fables relatent non pas l’ensemble de la mythologie liée
- à un personnage, comme pourraient le faire croire les titres, assez généraux,
- mais un épisode particulier.
+La plupart de ces 
+\emph on
+Fables
+\emph default
+ relatent non pas l’ensemble de la mythologie liée à un personnage, comme
+ pourraient le faire croire les titres, assez généraux, mais un épisode
+ particulier.
  Ainsi, la fable XCIII sur Cassandre raconte comment elle fut aimée d’Apollon,
  reçut de lui son don de voyance et le repoussa, mais non pas les malheurs
  arrivés à la princesse troyenne durant et après la guerre; la fable XCV
@@ -24909,7 +25041,7 @@ De Astronomia
  Il n’appréhende pas la mythologie d’un point de vue poétique, le style
  de l’ouvrage en fait d’ailleurs foi, mais en tant que recueil des connaissances
  et de la culture de son temps, en quelque sorte comme un guide mythologique
- destiné, à celui qui souhaiterait écrire sur le sujet, ou aux écoliers.
+ destiné à celui qui souhaiterait écrire sur le sujet, ou aux écoliers.
  Hygin choisit parmi ses sources et, lorsqu’elles sont contradictoires,
  ne les cite pas 
 \emph on
@@ -24932,8 +25064,8 @@ D’anciens auteurs en citent d’autres
 \begin_inset Quotes frd
 \end_inset
 
- (Fable LXXXI).
- De même, à la fin de la Fable XCIV, 
+ (fable LXXXI).
+ De même, à la fin de la fable XCIV, 
 \begin_inset Quotes fld
 \end_inset
 
@@ -24949,7 +25081,7 @@ Certains disent qu’il mourut de sa propre main
 \begin_inset Quotes frd
 \end_inset
 
-; il donne Hécube (Fable CXI) pour fille de Cissée, 
+; il donne Hécube (fable CXI) pour fille de Cissée, 
 \begin_inset Quotes fld
 \end_inset
 
@@ -24980,7 +25112,7 @@ sans doute la plus connue à l’époque romaine
 -– où la vierge est sauvée par Artémis et remplacée par une biche sous le
  couteau du sacrificateur, de préférence à la version plus ancienne d’Eschyle
  où Iphigénie était exécutée.
- A propos de Télèphe (Fable CI), il rapporte une obscure version selon laquelle
+ À propos de Télèphe (Fable CI), il rapporte une obscure version selon laquelle
  la lance avec laquelle Achille blesse Télèphe aurait appartenu à Chiron
  (
 \begin_inset Quotes fld
@@ -25099,7 +25231,7 @@ Odes
 
 .
  De la même façon, Ovide l'invoque pour se faire à lui-même le reproche
- d'avoir choisi le distique élégiaque et non pas l'hexamètre épique, pour
+ d'avoir choisi le distique élégiaque et non pas l'hexamètre épique pour
  célébrer Auguste; mais les poètes s'estiment faussement indignes du modèle
 \begin_inset Foot
 status collapsed
@@ -25116,8 +25248,8 @@ Fastes
 \end_inset
 
 .
- Cela n'empêche pas Horace de recourir à Homère plus souvent qu'à son tour:
- ainsi dans cette 
+ Cela n'empêche pas Horace de recourir souvent à Homère: ainsi dans cette
+ 
 \emph on
 Ode
 \emph default
@@ -25170,7 +25302,7 @@ status collapsed
 Odes
 \emph default
 , II, 4, v.
- 1 à 12
+ 1 à 12.
 \end_layout
 
 \end_inset
@@ -25228,7 +25360,7 @@ l'amour, les guerres
 \begin_inset space ~
 \end_inset
 
---, même quand il n'y a pas un Homère pour les conter
+-- même quand il n'y a pas un Homère pour les conter
 \begin_inset Foot
 status collapsed
 
@@ -25243,7 +25375,7 @@ Odes
 
 \end_inset
 
-, rappelle aussi la prophétie de Chiron à Achille
+ et rappelle aussi la prophétie de Chiron à Achille
 \begin_inset Foot
 status collapsed
 
@@ -25258,7 +25390,7 @@ Epodes
 
 \end_inset
 
- pour rappeler à son destinataire de profiter de l'existence: 
+ pour enjoindre à son destinataire de profiter de l'existence: 
 \begin_inset Quotes fld
 \end_inset
 
@@ -25370,8 +25502,8 @@ I, 3, v.
 
 \end_inset
 
- que «
-\begin_inset Quotes frd
+ que 
+\begin_inset Quotes fld
 \end_inset
 
 l'orifice d'une femelle avait été avant Hélène une cause sinistre de guerre
@@ -25399,10 +25531,10 @@ Satires
 , brocarde les pratiques romaines en dépeignant Tirésias qui conseille à
  Ulysse de capter l'héritage d'un riche vieillard pour reconstituer ses
  biens, en prostituant Pénélope si besoin est.
- L'œuvre d'Homère est donc pour Horace une source inépuisable d'inspiration,
+ L'œuvre d'Homère est donc pour Horace une source inépuisable d'inspiration
  et il joue des thèmes et des personnages homériques avec une aisance qui
  suggère une parfaite connivence avec son public, tantôt avec révérence,
- tantôt avec mordant, afin de montrer que les thèmes homériques sont universels,
+ tantôt avec mordant, afin de montrer que les thèmes homériques sont universels
  et que la seule mention de l'un des personnages d'Homère lui suffit à se
  faire comprendre.
  Quant à Ovide, ses 
@@ -25416,8 +25548,17 @@ Métamorphoses
 status collapsed
 
 \begin_layout Plain Layout
-Hardie, Barchiesi, Hinds 1999, p.
- 108 sq.
+Hardie 
+\emph on
+et al.
+
+\emph default
+ 1999, p.
+ 108 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -25438,7 +25579,9 @@ status collapsed
 La Pharsale
 \emph default
 , VI, v.
- 48 sq.
+ 48 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -25452,8 +25595,16 @@ Iliade
 status collapsed
 
 \begin_layout Plain Layout
-Id., VI, v.
- 333 sq.
+
+\emph on
+Ibid
+\emph default
+., VI, v.
+ 333 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -25463,8 +25614,14 @@ Id., VI, v.
 status collapsed
 
 \begin_layout Plain Layout
-Id., VI, v.
- 350 sq.
+
+\emph on
+Ibid.
+\emph default
+, VI, v.
+ 350 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -25475,8 +25632,14 @@ Id., VI, v.
 status collapsed
 
 \begin_layout Plain Layout
-Id., IX, v.
- 961 sq.
+
+\emph on
+Ibid.
+\emph default
+, IX, v.
+ 961 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -25487,7 +25650,11 @@ Id., IX, v.
 status collapsed
 
 \begin_layout Plain Layout
-Id., X, v.
+
+\emph on
+Ibid.
+\emph default
+, X, v.
  60-62.
 \end_layout
 
@@ -25525,7 +25692,11 @@ Iliade
  (plus de la moitié des vers servent à résumer les cinq premiers chants,
  les dix-neufs autres chants se partagent le reste) et comporte un éloge
  des Julio-claudiens et en particulier du règne de Néron (v.
- 875 sq.); le texte est du reste fermement acquis aux Troyens
+ 875 
+\emph on
+sq.
+\emph default
+); le texte est du reste fermement acquis aux Troyens
 \begin_inset Foot
 status collapsed
 
@@ -25538,7 +25709,7 @@ Stroia 2007, p.
 
 .
  Un autre exemple: Hygin, que nous citions plus haut, fait le choix dans
- sa Fable CXXVII intitulée 
+ sa fable CXXVII intitulée 
 \begin_inset Quotes fld
 \end_inset
 
@@ -25626,10 +25797,10 @@ ent d'une obscure vulgate hellénistique; ce choix par le bibliothécaire
  Il est évident que même pour les Grecs d’époque archaïque ces légendes
  fondatrices avaient davantage une valeur symbolique, suscitant l’unité
  du peuple, que l’aura d’un mythe auquel on pourrait réellement croire.
- A plus forte raison, Hygin, qui rapporte la légende, le fait non pas par
+ À plus forte raison, Hygin, qui rapporte la légende, ne le fait pas par
  goût du mythologique mais plus probablement comme une allégorie donnant
  aux Romains eux aussi des héros éponymes qui soient rattachés artificiellement
- non pas aux personnages mythiques du Latium (Saturne, Janus, Picus, Faunus),
+ non aux personnages mythiques du Latium (Saturne, Janus, Picus, Faunus),
  mais à un héros grec.
  De la sorte, ce n’est plus seulement Auguste qui descend du héros troyen
  par la filiation entre Iule et la 
@@ -25656,7 +25827,7 @@ princeps
 \emph default
  pour le peuple romain comme pour lui-même.
  Au mois d'avril, Romulus, fondateur de Rome, fait remonter son lignage
- à Jupiter par Dardanos et à Vénus par Enée; après avoir consacré le second
+ à Jupiter par Dardanos et à Vénus par Énée; après avoir consacré le second
  mois de l'année à son père Mars, il consacre donc le second à la déesse
 \begin_inset Foot
 status collapsed
@@ -25675,13 +25846,17 @@ Fastes
  Ovide justifie encore le patronage de Vénus pour ce mois sous son nom grec
  par les liens de l'Italie, et plus particulièrement de la Grande-Grèce,
  avec la Grèce, grâce aux nombreux héros grecs venus en Italie: Hercule,
- Ulysse, Diomède, Evandre, mais aussi Solymus, fondateur de Sulmone, patrie
+ Ulysse, Diomède, Évandre, mais aussi Solymus, fondateur de Sulmone, patrie
  du poète
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Id., IV, 61-84.
+
+\emph on
+Id
+\emph default
+., IV, 61-84.
 \end_layout
 
 \end_inset
@@ -25700,7 +25875,11 @@ princeps
 status collapsed
 
 \begin_layout Plain Layout
-Id., IV, 117-124.
+
+\emph on
+Id.
+\emph default
+, IV, 117-124.
 \end_layout
 
 \end_inset
@@ -25771,15 +25950,15 @@ Iliade
  consiste donc ici à faire adopter un point de vue différent de celui d’Homère:
  nous ne sommes plus du côté des Achéens, vainqueurs de la guerre et pour
  qui les Troyens sont tout simplement les perdants.
- La fin de la Guerre de Troie ne s’analyse plus, chez Virgile, en termes
+ La fin de la guerre de Troie ne s’analyse plus, chez Virgile, en termes
  de victoire ou de défaite: il y a tout simplement une volonté des dieux
  qui s’exerce, par la main de Minerve au travers des épisodes du Cheval
- de Troie et de Laocoon, par celle de Vénus qui pousse Énée à partir, et
+ de Troie et de Laocoon, par celle de Vénus qui incite Énée à partir, et
  la chute de Troie n’est plus qu’un malheur provoqué par le destin et qui
- pousse simplement Énée et sa famille à partir chercher une destinée plus
- grande.
+ pousse simplement Énée et sa famille à s'en aller chercher une destinée
+ plus grande.
  La prophétie de Poséidon n'est jamais rappelée: Virgile part du principe
- que son public la connaît, et qu'il est parfaitement acquis que le départ
+ que son public la connaît et qu'il est parfaitement acquis que le départ
  d'Énée, son règne à venir sur les Troyens et la fondation de Rome sont
  des choses voulues par les dieux.
  Le harcèlement même de Junon se fait sans conviction, loin des déchaînements
@@ -25787,7 +25966,7 @@ Iliade
 \emph on
 Odyssée
 \emph default
-, et se limitent à quelques récriminations auprès de Zeus et à l'incendie
+, et se limite à quelques récriminations auprès de Zeus et à l'incendie
  des vaisseaux en Sicile au chant V, qui n'empêche guère Énée de continuer
  sa route.
  Aussi le texte virgilien, tout en prenant l’apparence d’un simple récit
@@ -25818,7 +25997,7 @@ passages obligés
  donnant ainsi sa justification au texte en l’inscrivant dans une continuité
  intertextuelle, est réduit à sa portion congrue, et Énée ne se soucie pas
  d'affronter le monstre, sortant ainsi de l'aventure la tête haute.
- A l'inverse, la 
+ À l'inverse, la 
 \emph on
 Nekyia
 \emph default
@@ -25880,8 +26059,8 @@ attribuant à ce dernier la fondation d’une Rome qui serait déjà un immense
 --, tous les descendants de Silvius, fils à venir d’Énée; puis César et
  sa lignée, issus d’Ascagne-Iule, son premier fils déjà vivant.
  Auguste est présenté comme le point culminant de cette lignée, voué à porter
- l’Empire à son point culminant en l’étendant au plus loin et à instaurer
- un nouvel âge d’or, thème principal de la propagande augustéenne.
+ l’Empire à son pinacle en l’étendant au plus loin et à instaurer un nouvel
+ âge d’or, thème principal de la propagande augustéenne.
  L’évocation des grands rois de Rome et des héros de la République (Brutus,
  Marcellus) ne sert qu’à pousser à son paroxysme la vision d’une Rome brillante
  et triomphale.
@@ -26002,9 +26181,12 @@ Iliade
 \begin_inset Quotes fld
 \end_inset
 
-Alors il y aura un autre Tiphys, et une autre Argo pour transporter l'élite
- des héros; il y aura même une autre grande guerre, et, de nouveau contre
- une Troie, on enverra un grand Achille
+Alors il y aura un autre Tiphys, et une autre 
+\emph on
+Argo
+\emph default
+ pour transporter l'élite des héros; il y aura même une autre grande guerre,
+ et, de nouveau contre une Troie, on enverra un grand Achille
 \begin_inset Quotes frd
 \end_inset
 
@@ -26135,7 +26317,11 @@ nés dans des temps trop heureux
  (v.
  22-23), avant de relater la prédiction que font les Parques sur l'avenir
  d'Achille, sur un ton funèbre et empli de l'horreur des massacres (v.
- 338 sq.).
+ 338 
+\emph on
+sq.
+\emph default
+).
  Pourquoi 
 \begin_inset Quotes fld
 \end_inset
@@ -26175,7 +26361,7 @@ Métamorphoses
  la métamorphose de Cycnus (v.
  64-145) après le combat contre Achille et la mort de nombreux autres guerriers,
  la mort d'Achille (580-628), le jugement des armes et la mort d'Ajax (XIII,
- 1-398); la tranformation d'Hécube, le viol de Cassandre, le meurtre de
+ 1-398); la transformation d'Hécube, le viol de Cassandre, le meurtre de
  Polydore, le sacrifice de Polyxène (399-575), enfin la mort de Memnon (576-622).
  Si la puissance d'Achille est exaltée, ce n'est pas l'admiration pour le
  héros qui l'emporte dans ces deux livres, mais la douleur, le deuil, la
@@ -26237,7 +26423,7 @@ Nous avons déjà vu à quel point le paysage italien se ressentait du passage
  De tels mythes relevaient, probablement, de transformations successives
  de la légende locale, au contact des Grecs puis des conquérants romains,
  mais permettaient également à ceux qui se disaient les successeurs ou les
- descendants de ces héros de voir rejaillir sur eux un peu de leur prestige.
+ descendants de ces héros de voir rejaillir sur eux une partie leur prestige.
  De la même façon, un certain nombre de familles romaines se réclamaient
  de héros éponymes, qui donnaient à leurs descendants un peu de leur aura
  légendaire.
@@ -26318,7 +26504,11 @@ Tite-Live, I, 49, 9.
 semis
 \emph default
  de la même année avec la même image d'Ulysse et Jupiter à la place de Janus,
- un triens avec Rome
+ un 
+\emph on
+triens
+\emph default
+ avec Rome
 \begin_inset Foot
 status collapsed
 
@@ -26334,7 +26524,11 @@ Babelon, p.
 e; Ulysse y constitue ici une addition particulière.
  C.
  Mamilius Limetanus à son tour frappe vers -84 un denier représentant Mercure
- et au revers, Ulysse, coiffé du pileus et accompagné de son chien Argos
+ et au revers, Ulysse, coiffé du 
+\emph on
+pileus
+\emph default
+ et accompagné de son chien Argos
 \begin_inset Foot
 status collapsed
 
@@ -26376,7 +26570,7 @@ e
  av.
  J.-C.; sa qualité de héros errant ayant voyagé sur tout le pourtour du bassin
  méditerranéen et en particulier, si l'on en croit les exégèses les plus
- répandues, en Italie –-
+ répandues, en Italie --
 \begin_inset space ~
 \end_inset
 
@@ -26384,7 +26578,7 @@ notamment lors de son passage chez Circé
 \begin_inset space ~
 \end_inset
 
--– le rendaient particulièrement apte, d'une part, à être susceptible d'avoir
+-- le rendaient particulièrement apte, d'une part, à être susceptible d'avoir
  laissé des traces de son passage sur le sol latin, sous la forme de rejetons
  engendrés avec Circé, et d'autre part, à avoir reçu un culte ancien et
  largement répandu.
@@ -26449,11 +26643,11 @@ La famille Aemilia et les origines troyennes de Rome
 gens
 \emph default
  dont on est issu: c'est elle qui donne droit aux prérogatives religieuses,
- politiques; on est est élu consul parce qu'on est noble, on est chargé
- du culte de Jupiter parce que les ancêtres de la famille l'étaient.
+ politiques; on est élu consul parce qu'on est noble, on est chargé du culte
+ de Jupiter parce que les ancêtres de la famille l'étaient.
  Dans ces conditions, il n'est pas étonnant de voir ceux qui occupent le
  devant de la scène chercher à rehausser le prestige familial.
- A partir de la guerre civile, le phénomène s'accentue, et ceux des hommes
+ À partir de la guerre civile, le phénomène s'accentue, et ceux des hommes
  politiques impliqués au plus près du conflit de pouvoir entre Antoine et
  Octave cherchent par ce biais à montrer leur allégeance à l'un ou l'autre
  parti.
@@ -26464,9 +26658,9 @@ gens
 
 \begin_layout Standard
 La basilique Aemilia, construite vers -179 par M.
- Aemilius Lepidus, censeur avec M.
- Fulvius Nobilior, était ainsi décorée d'une frise en marbre pentélique
- qui devait faire tout le tour de la nef, et dont une vingtaine de mètres
+ Aemilius Lepidus et/ou par M.
+ Fulvius Nobilior, censeurs, était ainsi décorée d'une frise en marbre pentéliqu
+e qui devait faire tout le tour de la nef, et dont une vingtaine de mètres
  ont été retrouvés
 \begin_inset Foot
 status collapsed
@@ -26540,7 +26734,7 @@ Plutarque, vie de Numa 8, 19 et vie d'Aemilius 2, 1.
 status collapsed
 
 \begin_layout Plain Layout
-Wiseman p.
+Wiseman p.155.
 \end_layout
 
 \end_inset
@@ -26608,14 +26802,17 @@ F.
  p.
  58-59) y identifie Énée fondant Lavinium, et rapproche la scène d'une fresque
  similaire peinte dans un colombarium d'époque augustéenne appartenant à
- la famille de Statilius Taurus (Brizio 1876, p.8 sq.), dans laquelle elle
- préfère voir Ascagne fondant Albe.
+ la famille de Statilius Taurus (Brizio 1876, p.8 
+\emph on
+sq.
+\emph default
+), dans laquelle elle préfère voir Ascagne fondant Albe.
  R.
  Cappelli identifie, dans la divinité présente dans le relief, la Vénus
  Frutis de Lavinium (p.
  61), dans laquelle elle reconnaît le type de la Vénus Cloacine du forum,
  de la Vénus Troiana qui remplace le culte d'Aphrodite à Paestum, et de
- la Vénus Genitrix des monnaies émises par Octavien (p.
+ la Vénus Genetrix des monnaies émises par Octavien (p.
  62).
 \end_layout
 
@@ -26683,7 +26880,7 @@ e
  s., et la première restauration à l'époque syllanienne, il n'y a cependant
  pas de consensus sur la datation des décors: lors de la construction, de
  la restauration de -78, de celle augustéenne après l'incendie de 14, ou
- plus tardivement (il y eut des restaurations sous Tibère, Néron, Trajan)?
+ plus tardivement (il y eut des restaurations sous Tibère, Néron, Trajan).
  Le style et l'aspect des personnages ainsi que l'utilisation de marbre
  pentélique semblent indiquer une restauration à l'époque tardo-républicaine,
  vers – 34
@@ -26927,7 +27124,7 @@ Cloanthe, auteur de ta maison, ô Romain Cluentius
 Scylla
 \emph default
 .
- A la suite d'un certain nombre de péripéties qui montrent les concurrents
+ À la suite d'un certain nombre de péripéties qui montrent les concurrents
  d'égale valeur, c'est Cloanthe qui l'emporte, après avoir invoqué les dieux
  des eaux
 \begin_inset Foot
@@ -26964,7 +27161,7 @@ status collapsed
 
 \end_inset
 
-, les plaçant ainsi sur un pied d'égalités avec les Troyens d'Homère.
+, les plaçant ainsi sur un pied d'égalité avec les Troyens d'Homère.
  L'épreuve de course à pied, à laquelle participent entre autres Euryale
  et Nisus
 \begin_inset Foot
@@ -27074,7 +27271,11 @@ status collapsed
 
 \begin_layout Plain Layout
 Schilling, p.
- 233 sq.: cf Lycophron, Alexandra (v.
+ 233 
+\emph on
+sq.
+\emph default
+: cf Lycophron, Alexandra (v.
  968), Denys d'Halicarnasse I, 53, 1, Thucydide VI, 2, 3.
 \end_layout
 
@@ -27092,12 +27293,16 @@ Galinsky 1969, p.
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 Jean Perret therefore concluded that the appellative 'Aineias' was invented
  in Roman times because the inhabitants of certain Greek towns wished to
  connect the beginnings of a local cult ith the deeds of Rome's legendary
  founder.
  A good parallel is found in the title 'Goddess Aphrodite Anchiseias' with
  which the inhabitants of the Troad later honored Livilla, the wife of Drusus
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -27131,8 +27336,11 @@ V, v.
 
 .
  Gyas et Cloanthe font partie des personnages qu'Énée croit disparus au
- début de l'Énéide; leur nom est mentionné pour la première fois au chant
- I, v.
+ début de l'
+\emph on
+Énéide
+\emph default
+; leur nom est mentionné pour la première fois au chant I, v.
  217-222, avec l'épithète de 
 \begin_inset Quotes fld
 \end_inset
@@ -27227,7 +27435,9 @@ status collapsed
 
 \begin_layout Plain Layout
 IX, v.
- 768 sq.
+ 768 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -27370,7 +27580,7 @@ V, v.
 
 .
  Quoique n'apparaissant que dans cette occasion précise, Nautès est gratifié
- d'une aura particulière: il est présenté comme instruit par Minerve lui-même,
+ d'une aura particulière: il est présenté comme instruit par Minerve elle-même,
  ayant de nombreux talents, et sachant interpréter les présages
 \begin_inset Foot
 status collapsed
@@ -27404,7 +27614,7 @@ Antiquités Romaines, VI, 49.
 
 \begin_layout Standard
 Il reste à mentionner un court passage dans ces jeux funéraires d'Anchise,
- en introduction des Jeux Troyens qui terminent les concours
+ en introduction des Jeux Troyens qui mettent fin aux concours
 \begin_inset Foot
 status collapsed
 
@@ -27644,7 +27854,11 @@ status collapsed
 
 \begin_layout Plain Layout
 VII, v.
- 706 sq.
+ 706 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -27685,7 +27899,11 @@ status collapsed
 \emph on
 Énéide,
 \emph default
- X, 345 sq.
+ X, 345 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -27722,7 +27940,7 @@ Nous faisons bien sûr cette remarque toute mesure gardée, étant évident
  Il est probable que ces légendes aient d'abord servi à s'assurer une popularité
  indéniable; mais même sans se placer du point de vue légendaire et religieux,
  ne fût-ce que du point de vue de l'image personnelle à renvoyer lorsque
- l'on était un homme politique, une telle ficelle pouvait avoir son utilité.
+ l'on était un homme politique, un tel artifice pouvait avoir son utilité.
  De la même façon que certains s'attribuèrent les qualités de leurs illustres
  ancêtres (ainsi, tout Caton se devait d'être aussi intransigeant que Caton
  l'Ancien, et tout Brutus se réclamait de l'honnêteté républicaine du premier
@@ -27737,8 +27955,8 @@ Voir aussi Powell 2008, p.
 
 \end_inset
 
-, d'autres faisaient en sorte qu'on leur trouve les qualités des héros de
- la mythologie.
+), d'autres faisaient en sorte qu'on leur trouve les qualités des héros
+ de la mythologie.
  Il s'agit ici d'un véritable jeu de rôles, chacun cherchant à se parer
  de la peau du lion afin de donner l'illusion de posséder les vertus d'Hercule.
  On peut se demander dans quelle mesure ces généalogies, qui nous parviennent
@@ -27749,7 +27967,7 @@ Voir aussi Powell 2008, p.
  celle des Memmii, semblent tout à fait forgées pour répondre à une exigence
  politique de satisfaire au désir d'importance des familles ralliées au
  nouveau régime.
- A partir du moment où le prince s'arrogeait un ancêtre illustre, il fallait
+ À partir du moment où le prince s'arrogeait un ancêtre illustre, il fallait
  en faire autant pour exister sur la scène politique; cependant, cette pratique
  n'était pas née avec Auguste, et, les monnaies des Mamilii et des Iulii
  en font foi, la chose n'est nulle part présentée comme une innovation,
@@ -27819,8 +28037,8 @@ Iliade
 
 .
  Apollodore indique simplement que Glaucos fut épargné par les Grecs, ainsi
- que Énée, fuyant avec son père sur les épaules, en raison de sa piété;
- il n'est nullement fait mention d'accompagnants
+ qu'Énée, fuyant avec son père sur les épaules, en raison de sa piété; il
+ n'est nullement fait mention d'accompagnants
 \begin_inset Foot
 status collapsed
 
@@ -27846,7 +28064,7 @@ Fables
 \emph on
 Énéide
 \emph default
- l'épisode de la régate organisée en l'honneur d'Anchise, dans la Fable
+ l'épisode de la régate organisée en l'honneur d'Anchise, dans la fable
  CCLXXIII (
 \begin_inset Quotes fld
 \end_inset
@@ -27908,7 +28126,7 @@ De Familiis Troianis
 \end_inset
 
 -- sont ultérieures.
- Le fait que Varron ait été contemporain de César n'est évidemment pas sans
+ Le fait que Varron ait été contemporain de César n'est bien sûr pas sans
  rapport avec l'apparition de telles prétentions à un caractère troyen.
  L'objectif poursuivi semble avoir ici été en outre de faire plaisir à son
  lectorat ; le plus gros du public qui, tout en ayant l'éducation et la
@@ -27976,8 +28194,8 @@ ad Att.
 \begin_inset Quotes fld
 \end_inset
 
-''Quelle honte'', non devant Pompée seulement, mais ''devant Troyens et
- Troyennes''! ''Et Polydamas le premier censurera mon acte''.
+"Quelle honte", non devant Pompée seulement, mais "devant Troyens et Troyennes"!
+ "Et Polydamas le premier censurera mon acte".
  Qui est ce Polydamas? toi-même, bien sûr…
 \begin_inset Quotes frd
 \end_inset
@@ -28034,9 +28252,9 @@ Ad Att
 \end_inset
 
 Me voici donc comme le héros d’Homère à qui la déesse sa mère avait dit:
- ''Car au destin d’Hector le tien soudain se lie.'' Et il répond, lui, à
- sa mère: ''Soudain fussé-je mort, puisque je ne pouvais au moment qu’il
- périt défendre mon ami''
+ "Car au destin d’Hector le tien soudain se lie." Et il répond, lui, à sa
+ mère: "Soudain fussé-je mort, puisque je ne pouvais au moment qu’il périt
+ défendre mon ami"
 \begin_inset Quotes frd
 \end_inset
 
@@ -28045,7 +28263,11 @@ Me voici donc comme le héros d’Homère à qui la déesse sa mère avait dit:
 Iliade
 \emph default
 , XVIII, v.
- 96 sq.): Patrocle est ici incarné par Pompée.
+ 96 
+\emph on
+sq.
+\emph default
+): Patrocle est ici incarné par Pompée.
 \end_layout
 
 \end_inset
@@ -28097,6 +28319,9 @@ Ad Fam.
 \end_inset
 
 , y compris dans ce passage: 
+\end_layout
+
+\begin_layout Quotation
 \begin_inset Quotes fld
 \end_inset
 
@@ -28110,7 +28335,7 @@ s qui les consacrent.
  C'est avec le plus vif intérêt et des acclamations unanimes que le sénat
  fort, nombreux, en avait suivi le développement.
  J'ai bien vu par vos lettres que l'estime des gens de bien a plus de prix
- a vos yeux que toutes les distinctions du monde; mais la république avait
+ à vos yeux que toutes les distinctions du monde; mais la république avait
  une dette à acquitter envers vous, et parce que vous ne la réclamiez pas,
  elle ne pouvait s'en croire dégagée.
  Vos actes seront jusqu'au bout fidèles à vos promesses.
@@ -28136,10 +28361,14 @@ Ad Fam.,
 \end_inset
 
 .
- Cicéron laisse ici entendre qu'il faut abattre Antoine par la ruse, ce
- dernier étant la clé de la guerre civile, de la même façon qu'Ulysse emporte
- Troie avec une poignée d'hommes bien placés et non en faisant déferler
- un assaut guerrier.
+ 
+\end_layout
+
+\begin_layout Standard
+Cicéron laisse ici entendre qu'il faut abattre Antoine par la ruse, ce dernier
+ étant la clé de la guerre civile, de la même façon qu'Ulysse emporte Troie
+ avec une poignée d'hommes bien placés et non en faisant déferler un assaut
+ guerrier.
  Si la guerre de Troie était déjà présente à l'esprit de l'orateur lors
  de l'épisode de lutte précédent, celui entre César et Pompée, elle est
  vivifiée à nouveau, voire davantage, dans ce qu'il voit comme un affrontement
@@ -28256,16 +28485,9 @@ Philippiques
 \emph on
 virtus
 \emph default
- --
-\begin_inset space ~
-\end_inset
-
-les historiens décrivent Antoine auprès de Cléopâtre comme menant une vie
- à l'orientale tout à fait efféminée
-\begin_inset space ~
-\end_inset
-
---, le fait d'être devenu un étranger à Rome, et donc un danger.
+ (les historiens décrivent Antoine auprès de Cléopâtre comme menant une
+ vie à l'orientale tout à fait efféminée), le fait d'être devenu un étranger
+ à Rome, et donc un danger.
  Martial usera, bien plus tard, du même procédé: 
 \begin_inset Quotes fld
 \end_inset
@@ -28349,7 +28571,7 @@ status collapsed
  de honte.
  Cependant, Cicéron n'épargne pas Pâris: dans une lettre, il s'amuse à faire
  savoir que l'édile curule C.
- Memmius –-
+ Memmius --
 \begin_inset space ~
 \end_inset
 
@@ -28357,8 +28579,8 @@ l'un de ces descendants supposés de Mnesthée, mais Cicéron n'en parle pas
 \begin_inset space ~
 \end_inset
 
--- a offensé, dit-il, à la fois Ménélas et Agamemnon, faisant pire que Pâris,
- car ce 
+-- a offensé, dit-il, à la fois Ménélas et Agamemnon, faisant pire que le
+ Pâris d'Homère, car ce 
 \begin_inset Quotes fld
 \end_inset
 
@@ -28593,7 +28815,7 @@ Si Suétone indique que Néron, probablement avec sagesse, ne fit pas poursuivre
 pietas
 \emph default
  filiale du héros l'absence totale de celle-ci chez le prince régnant; identific
-ation tout à fait satirique ici, non voulue par le prince, mais qui n'était
+ation tout à fait satirique, non voulue par le prince, mais qui n'était
  que le reflet d'une longue habitude, chez les Romains, de se réclamer de
  tel ou tel héros, ancêtre ou non de leur famille.
  C'est ainsi à une véritable partie de jeux de rôles que se livraient les
@@ -28634,7 +28856,7 @@ s, abondamment cité par les poètes, par Cicéron, ou encore par Auguste mouran
 status collapsed
 
 \begin_layout Plain Layout
-Sauron 2009-2, p.
+Sauron 2009b, p.
  187-189.
 \end_layout
 
@@ -28688,9 +28910,12 @@ Ménandre
 a
 \emph default
  de la maison de Pinarius Cerialis (III, 4, 4) avec des représentations
- d'Iphigénie en Tauride, d'Attis et Cybèle et d'une troisième scène non
- identifiée, dans des décors de théâtre monumentaux sur fond rouge assortis
- les uns aux autres.
+ d'
+\emph on
+Iphigénie en Tauride
+\emph default
+, d'Attis et Cybèle et d'une troisième scène non identifiée, dans des décors
+ de théâtre monumentaux sur fond rouge assortis les uns aux autres.
  Dans les deux cas, les pièces concernées sont de façon évidente des espaces
  de réception: la pièce 4 de la maison du Ménandre est le plus grand espace
  ouvert sur l'
@@ -28845,7 +29070,9 @@ status collapsed
 Énéide
 \emph default
 , II, v.
- 567 sq.
+ 567 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -29056,7 +29283,12 @@ Notre plus grand ami dans le plus grand conflit, doté des plus grands dons.
 status collapsed
 
 \begin_layout Plain Layout
-(référence)
+
+\emph on
+Pro P.
+ Sestio
+\emph default
+, 120-121.
 \end_layout
 
 \end_inset
@@ -29227,7 +29459,11 @@ Felicitas rappelle évidemment Sylla, Honos et Virtus avaient été introduites
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  121.
 \end_layout
 
@@ -29279,7 +29515,11 @@ status collapsed
 
 \begin_layout Plain Layout
 Sauron 1993, p.
- 286 sq, et Sauron 2000, p.
+ 286 
+\emph on
+sq
+\emph default
+., et Sauron 2000, p.
  113.
 \end_layout
 
@@ -29338,11 +29578,18 @@ Sauron 1987, p.
  Renvoyons également aux analyses de G.
  Sauron pour la statue de Pompée (identifiée par F.
  Coarelli avec la statue du palais Spada), dont le type iconographique novateur
- (type héroïque (nudité, baudrier et manteau sur l'épaule), sphère cosmique
- dans la main, tête en portrait de Pompée), la présence dans l'axe du temple
- ainsi que son association étonnante avec les trois groupes de femmes renvoient
- à la descente aux Enfers d'Ulysse et à sa rencontre similaire avec des
- groupes de femmes
+ (type héroïque --
+\begin_inset space ~
+\end_inset
+
+nudité, baudrier et manteau sur l'épaule
+\begin_inset space ~
+\end_inset
+
+--, sphère cosmique dans la main, tête en portrait de Pompée), la présence
+ dans l'axe du temple ainsi que son association étonnante avec les trois
+ groupes de femmes renvoient à la descente aux Enfers d'Ulysse et à sa rencontre
+ similaire avec des groupes de femmes
 \begin_inset Foot
 status collapsed
 
@@ -29398,8 +29645,8 @@ virtus
  de Vénus et l'héritage troyen, ne laisse donc pas d'étonner.
  Auguste semble en avoir fait la même lecture déplaisante, qui, après l'assassin
 at de César aux ides de mars -44 aux pieds de cette même statue, fit murer
- la Curie de Pompée, désormais inutilisée, et déplacer la statue de Pompée
- sur un des côtés du portique, brisant ainsi le lien axial qu'elle entretenait
+ la Curie de Pompée, désormais inutilisée, et déplacer la statue sur un
+ des côtés du portique, brisant ainsi le lien axial qu'elle entretenait
  avec Vénus, et par là toute tentative de rapprochement symbolique entre
  les deux
 \begin_inset Foot
@@ -29424,7 +29671,7 @@ Pompée ne fut cependant pas le seul à utiliser la dimension théâtrale du
 status collapsed
 
 \begin_layout Plain Layout
-Suétone, vie de César, 44, 2: Coarelli 1997-2 p.
+Suétone, César, 44, 2: Coarelli 1997-2 p.
  122, Gros 1994, p.
  76.
 \end_layout
@@ -29551,7 +29798,7 @@ Comme Ajax à Ulysse lors du concours de lutte en l'honneur de Patrocle,
 \emph on
 Iliade
 \emph default
-, XXIII, 724: Suétone, vie de Caligula, XXII.
+, XXIII, 724: Suétone, Caligula, XXII.
 \end_layout
 
 \end_inset
@@ -29560,7 +29807,7 @@ Iliade
  Nous sommes ici dans le domaine de l'anecdote et de la petite phrase, surtout
  chez Suétone qui aime à rapporter ce genre de détails, et ce d'autant plus
  que dès l'antiquité l'érudition et la citation sont des aspects importants
- du travail d'historien; ils permettent la comparaison historique, et rendent
+ du travail d'historien; ils permettent la comparaison historique et rendent
  l'ouvrage vivant.
  Ici toutefois la phrase, si petite soit-elle, est clairement destinée à
  être entendue, ou, dans le cas d'Octave qui la prononce dans une cérémonie
@@ -29588,7 +29835,7 @@ Tacite, XV, 39.
 status collapsed
 
 \begin_layout Plain Layout
-Suétone, vie de Néron, XI et XX-XXI.
+Suétone, Néron, XI et XX-XXI.
 \end_layout
 
 \end_inset
@@ -29680,7 +29927,7 @@ Jal 1963, p.
  assimile ainsi les généraux de la guerre civile à Étéocle et Polynice,
  Horace et Curiace, Énée et Turnus: dans une nation qui s’entre-dévore,
  le mythe d’Atrée et Thyeste fait l’objet de tragédies multiples, dont celle
- de Varius Rufus et, plus tard, de Sénèque, sur le modèles de celles d’Énnius
+ de Varius Rufus et, plus tard, de Sénèque, sur le modèles de celles d’Ennius
  et d’Accius.
  Par la suite, le principat se construira sur les fondements mêmes de cette
  guerre civile: Claude descend à la fois d’Auguste, par son père Drusus,
@@ -29877,7 +30124,11 @@ Quand Pompée vit la déroute, il perdit la tête et s'éloigna à pas lents
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., 81.
+
+\emph on
+Ibid.
+\emph default
+, 81.
 \end_layout
 
 \end_inset
@@ -29930,10 +30181,10 @@ Iliade
 ve d'influence de Pompée dans son propre camp, face à des généraux qui,
  comme les rois de la Grèce, ne devaient lui concéder qu'une autorité toute
  relative: Agamemnon, chez Homère, est avant tout celui que défie Achille.
- Cette appellation ironique n'était bien sûr pas du fait de Pompée lui-même,
- qui n'avait bien sûr aucun intérêt à se voir imputer des aspirations à
- la royauté, ni à endosser le rôle d'un personnage qui finit lâchement assassiné
- par sa propre femme.
+ Cette appellation ironique n'était pas du fait de Pompée lui-même, qui
+ n'avait bien sûr aucun intérêt à se voir imputer des aspirations à la royauté,
+ ni à endosser le rôle d'un personnage qui finit lâchement assassiné par
+ sa propre femme.
 \end_layout
 
 \begin_layout Standard
@@ -29987,7 +30238,7 @@ Suétone, vie de César, VI.
 .
  L'association de la famille avec Ascagne/Iule était ancienne: le fait que
  ce soit Silvius, et non lui, qui monte sur le trône d'Albe, et que Iule
- devienne grand prêtre, expliquait le nombre de cultes publics dont était
+ devienne grand prêtre, expliquait le nombre de cultes publics dont étaient
  chargés les Iulii depuis un temps immémorial
 \begin_inset Foot
 status collapsed
@@ -30083,7 +30334,11 @@ Hercule invincible
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., 76.
+
+\emph on
+Ibid.
+\emph default
+, 76.
 \end_layout
 
 \end_inset
@@ -30110,7 +30365,11 @@ Piété
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., 104.
+
+\emph on
+Ibid
+\emph default
+., 104.
 \end_layout
 
 \end_inset
@@ -30123,7 +30382,11 @@ Ibid., 104.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., 68.
+
+\emph on
+Ibid.
+\emph default
+, 68.
 \end_layout
 
 \end_inset
@@ -30180,7 +30443,7 @@ par deux escadrons d'enfants, d'âge différent
 \begin_inset Quotes frd
 \end_inset
 
- (Suétone, César, XXXIX.
+ (Suétone, César, XXXIX).
 \end_layout
 
 \end_inset
@@ -30190,7 +30453,11 @@ par deux escadrons d'enfants, d'âge différent
  de cour, est là pour garder cette idée vivace dans l'esprit des Romains.
  L'image de Vénus Genetrix apparaît partout sur le forum, et notamment au
  travers des représentations de cet autre fils de Vénus, Cupidon, qui orne
- à l'époque trajane l'architrave du deuxième ordre de la cella du temple
+ à l'époque trajane l'architrave du deuxième ordre de la 
+\emph on
+cella
+\emph default
+ du temple
 \begin_inset Foot
 status collapsed
 
@@ -30204,7 +30471,7 @@ Pinna Caboni 2008, p.
 .
  Nous ne reviendrons pas sur la mise en scène qui est en jeu dans le temple
  de Venus Genetrix, que nous avons déjà évoquée au chapitre précédent.
- A la différence, d'ailleurs, de son successeur, César ne s'est jamais à
+ À la différence, d'ailleurs, de son successeur, César ne s'est jamais à
  proprement parler personnellement identifié à Énée.
  Cependant, la référence est omniprésente.
  Il s'agit moins ici de montrer une concordance de caractère, que de justifier
@@ -30318,7 +30585,9 @@ status collapsed
 
 \begin_layout Plain Layout
 Lucain, IX, v.
- 961 sq.
+ 961 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -30337,7 +30606,11 @@ César élève un autel et fait aux habitants des ruines, aux dieux, aux lares
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., v.
+
+\emph on
+Ibid.
+\emph default
+, v.
  987-999.
 \end_layout
 
@@ -30358,7 +30631,7 @@ songeait à partir pour Alexandrie ou pour Troie, emportant avec lui la richesse
 status collapsed
 
 \begin_layout Plain Layout
-Suétone, vie de César, LXXIX.
+Suétone, César, LXXIX.
 \end_layout
 
 \end_inset
@@ -30406,7 +30679,7 @@ Physiquement également, ils étaient tous deux forts et beaux, l'un et l'autre
 \begin_inset Quotes frd
 \end_inset
 
- Le fait d'attribuer à César une quelconque révérence pour Ilion participait
+ Le fait d'attribuer à César une quelconque préférence pour Ilion participait
  d'ailleurs du renforcement de cette comparaison: on a déjà évoqué l'attachement
  particulier qu'Alexandre, qui révérait Homère, manifestait pour cette cité.
 \end_layout
@@ -30474,7 +30747,7 @@ Iliade
 \emph default
 , VI, v.
  482-84; comme nous l'avons vu, c'était également le sujet d'une tragédie
- romaine de Naevius
+ romaine de Naevius.
 \end_layout
 
 \end_inset
@@ -30672,7 +30945,11 @@ status collapsed
 Iliade
 \emph default
 , XVI, v.
- 786 sq.
+ 786 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -30712,7 +30989,7 @@ RRC 511/4.
  César, nommé commandant de la flotte républicaine par le Sénat, ce que
  rappelle l’inscription au revers de la monnaie: PRAEF.
  CLAS.
- ET ORAE IT.
+ ET ORAE MARIT.
  EX S.
  C.
  et de l’autre côté MAG(nus) PIVS IMP(erator) ITER(um).
@@ -30754,8 +31031,12 @@ Guerre civile
 \emph default
 , V, 88-369) décrit une bataille contre Sextus où la flotte d'Octave s'était
  écrasée sur les rochers à Messine.
- Il y est question aussi (Id., IV, 85, 359; Dion Cassius, XLVIII, 47, 2)
- de la défaite de la flotte d'Octave à Scyllaeum dans le Bruttium.
+ Il y est question aussi (
+\emph on
+Id.
+\emph default
+, IV, 85, 359; Dion Cassius, XLVIII, 47, 2) de la défaite de la flotte d'Octave
+ à Scyllaeum dans le Bruttium.
  Dans l'
 \emph on
 Énéide
@@ -30770,13 +31051,9 @@ Iliade
  se présente hospitalière et sans monstres (à la différence du livre III),
  l'un des bateaux dans la course organisée pour les jeux en l'honneur d'Anchise
  s'appelle 
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Scylla
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
 , comme si Scylla était un simple nom, une légende, quelque chose de lointain
  et de peu inquiétant (Powell 2002, p.
  103-104).
@@ -30995,10 +31272,10 @@ ible, achève de fâcher Antoine.
 \begin_layout Standard
 Toutefois, on sait qu'immédiatement après l'assassinat de César, la tentation
  avait été grande pour Antoine de faire lui aussi une incursion dans le
- monde de la guerre de Troie, en reprenant à son compte la fascination du
- dictateur défunt pour Ajax, qui s'était exprimée dans le tableau accroché
- à l'entrée du temple de Vénus Genetrix; Antoine avait évoqué Ajax aux obsèques
- du dictateur et était peut-être le commanditaire du groupe du Pasquino
+ monde de la guerre de Troie, en revivifiant la fascination du dictateur
+ défunt pour Ajax, qui s'était exprimée dans le tableau accroché à l'entrée
+ du temple de Vénus Genetrix; Antoine avait évoqué Ajax aux obsèques du
+ dictateur et était peut-être le commanditaire du groupe du Pasquino
 \begin_inset Foot
 status collapsed
 
@@ -31022,11 +31299,11 @@ Voir Sauron 1993, p.
  Ajax, tandis qu'au moins un type monétaire du triumvirat représente l'ancêtre
  éponyme Anton, fils d'Hercule
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Babelon 1886 p.
- 165-166;
+ 165-166.
 \end_layout
 
 \end_inset
@@ -31095,7 +31372,7 @@ Sous le triumvirat, Octavien met l'accent sur cet élément de sa campagne.
  Un certain nombre de monnaies émises dans les premières années du second
  triumvirat
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Aureus de -42, RRC 494/3 par exemple.
@@ -31163,7 +31440,11 @@ Guerres civiles
 status collapsed
 
 \begin_layout Plain Layout
-Plutarque, ibid., 69.
+Plutarque, 
+\emph on
+id.
+\emph default
+, 69.
 \end_layout
 
 \end_inset
@@ -31240,12 +31521,16 @@ status collapsed
 
 \begin_layout Plain Layout
 Powell 2008, p.
- 118 sq.
+ 118 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
 
- a voulu démontrer que la comète était représentée dans l'
+ a indiqué que la comète était représentée dans l'
 \emph on
 Énéide
 \emph default
@@ -31309,7 +31594,11 @@ IV, 6, v.
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 Idalio (…) ab astro
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -31336,7 +31625,7 @@ status collapsed
 \end_inset
 
 .
- Mais la flèche enflammée n'est en aucun cas sa personne, qu'Enée rencontrera
+ Mais la flèche enflammée n'est en aucun cas sa personne, qu'Énée rencontrera
  ultérieurement aux Enfers: elle est simplement un signe qu'il lui envoie.
  Le destin d'Anchise est ainsi dépassé par celui de César, qu'il annonce
  en écho, et qui prend une place véritablement divine
@@ -31362,7 +31651,7 @@ Bucoliques
 a posteriori
 \emph default
 , par le texte paru alors même que le principat était solidement établi,
- la filiation troyenne qui, dès les années 44-43, fondaient la revendication
+ la filiation troyenne qui, dès les années 44-43, fondait la revendication
  d'Octavien à la succession de César et à la direction du peuple romain.
 \end_layout
 
@@ -31375,8 +31664,11 @@ Construction progressive d'une version officielle du mythe
 \end_layout
 
 \begin_layout Standard
-On a tendance à voir Énée avant tout comme le personnage central de l'Énéide ;
- mais il ne s'agit évidemment pas d'une création virgilienne.
+On a tendance à voir Énée avant tout comme le personnage central de l'
+\emph on
+Énéide
+\emph default
+ ; mais il ne s'agit évidemment pas d'une création virgilienne.
  Homère en fait l'un des personnages centraux de l'
 \emph on
 Iliade
@@ -31398,7 +31690,7 @@ Iliade
 
 \end_inset
 
-, et rappelée au chant V
+ et rappelée au chant V
 \begin_inset Foot
 status collapsed
 
@@ -31455,7 +31747,11 @@ Iliade
 , II, v.
  819-823.
  Pour Strabon (XII, 4, 4), la délimitation entre les territoires des Bithyniens,
- Phrygiens, Mysiens, Mygdoniens, Troyens, etc, n'est pas claire.
+ Phrygiens, Mysiens, Mygdoniens, Troyens, 
+\emph on
+etc.
+\emph default
+, n'est pas claire.
  Il cite un vers d'Homère (
 \emph on
 Iliade
@@ -31511,8 +31807,10 @@ Rhésos
 status collapsed
 
 \begin_layout Plain Layout
-V.
- 85 sq.
+V., v.
+ 85 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -31593,9 +31891,9 @@ Iliade
  des dieux: Aphrodite puis Apollon le protègent contre Diomède, Poséidon
  le soustrait aux coups d'Achille.
  Énée est pourtant montré, dans la mêlée, comme un combattant hors pair,
- et surtout, sans doute, comme un stratège: lorsqu'Apollon les exhorte tous
- deux, sous des déguisements, à aller au combat, Hector lui propose de mener
- l'attaque ensemble, l'appelant 
+ et surtout, sans doute, comme un stratège: lorsque Apollon les exhorte
+ tous deux, sous des déguisements, à aller au combat, Hector lui propose
+ de mener l'attaque ensemble, l'appelant 
 \begin_inset Quotes fld
 \end_inset
 
@@ -31733,7 +32031,7 @@ Iliade
 
 .
  Énée, à l'inverse d'Achille, se laisse tout de même fléchir rapidement
- et se lance dans un raid meurtrier contre les Grecs.
+ et se lance dans une attaque meurtrière contre les Grecs.
  Est-ce à cause de cette brouille et de cette grève d’Énée qu'Astyanax aurait
  gagné son surnom? Alors que dans tout le reste du poème Hector et Énée
  combattent ensemble, il est, au chant VI, 
@@ -31762,10 +32060,14 @@ Iliade
 
 .
  Énée est pourtant, lui aussi, en d'autres occasions, appelé 
+\emph on
+
 \begin_inset Quotes fld
 \end_inset
 
 anax andrôn
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -31779,7 +32081,11 @@ status collapsed
 Iliade
 \emph default
 , V, v.
- 311; XX, v.215 sq., v.
+ 311; XX, v.215 
+\emph on
+sq.
+\emph default
+, v.
  307.
 \end_layout
 
@@ -31787,7 +32093,7 @@ Iliade
 
 .
  Ce sont peut-être là les marques d'une rivalité des deux branches de la
- dynastie troyenne pour le pouvoir, marque qui n'ont pas laissé d'autres
+ dynastie troyenne pour le pouvoir, rivalité qui n'a pas laissé d'autres
  traces dans le poème tel que nous le connaissons
 \begin_inset Foot
 status collapsed
@@ -31832,7 +32138,9 @@ status collapsed
 Iliade
 \emph default
 , XX, v.
- 318 sq.
+ 318 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -31848,7 +32156,7 @@ Sans doute Énée a de tout temps été cher aux dieux immortels; mais je pensai
 \begin_inset Quotes frd
 \end_inset
 
- A la différence d'Hector, Énée suivra le conseil de Poséidon et survivra
+ À la différence d'Hector, Énée suivra le conseil de Poséidon et survivra
  pour régner sur les Troyens.
 \end_layout
 
@@ -31900,7 +32208,7 @@ op.
  plus de la renommée de sa descendance, un destin bien plus favorable pour
  lui-même que celui d'autres amants divins issus de la famille royale troyenne,
  Ganymède ou Tithon.
- A quelque degré que le texte ait pu s'inspirer de l'
+ À quelque degré que le texte ait pu s'inspirer de l'
 \emph on
 Iliade
 \emph default
@@ -31926,12 +32234,16 @@ Cynégétique
 
  le compte au nombre des élèves de Chiron tout comme un certain nombre d'autres
  héros de la guerre de Troie (Achille, mais aussi Palamède, Ulysse, Ménesthée,
- Diomède, Antiloque…) et indique
+ Diomède, Antiloque) et indique
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., I, 15.
+
+\emph on
+Ibid.
+\emph default
+, I, 15.
 \end_layout
 
 \end_inset
@@ -31988,7 +32300,11 @@ status collapsed
 Iliade
 \emph default
 , XX, v.
- 188 sq.
+ 188 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -32017,6 +32333,9 @@ IX, 1-4.
 \end_layout
 
 \begin_layout Quotation
+\begin_inset Quotes fld
+\end_inset
+
 Après Faunus, alors que son fils Latinus régnait en Italie, Ilion était
  prise par les Grecs à cause de la trahison d’Anténor et d’autres princes
  troyens: Énée, portant devant lui les dieux Pénates, son père Anchise sur
@@ -32046,6 +32365,10 @@ La guerre Marse
  de nombreuses terres.
  Tout d’abord, il débarqua en Thrace, où il fonda la cité d’Énus, qu’il
  appela ainsi à partir de son nom.
+\begin_inset Quotes frd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -32078,11 +32401,9 @@ Quant à ses autres enfants, Énée les prit avec lui ainsi que son père et
  les représentations des dieux, et quand sa flotte fut prête, il traversa
  l’Hellespont en naviguant vers la péninsule la plus proche, qui est située
  devant l'Europe et que l’on appelle Pallènè.
- C’est un peuple thrace qui l’occupait, allié des Troyens, appelé crousien,
- et qui, de tous ceux qui avaient participé à leurs côtés à cette guerre,
- montra le plus d’ardeur.
- Tel est donc le récit le plus fiable, adopté par l’historien ancien Hellanicos
- dans ses 
+ (\SpecialChar \ldots{}
+) Tel est donc le récit le plus fiable, adopté par l’historien ancien
+ Hellanicos dans ses 
 \emph on
 Troïka
 \emph default
@@ -32098,68 +32419,23 @@ Laocoon
 t vers l’Ida, sur l’ordre de son père Anchise, qui, ayant en mémoire les
  recommandations d'Aphrodite, auxquelles s’ajoutaient les présages récemment
  survenus dans la famille de Laocoon, prédit la fin imminente de la cité.
- Il y a dans cette pièce les vers iambiques suivants, prononcés par un autre
- personnage: 
+ (\SpecialChar \ldots{}
+)
 \end_layout
 
 \begin_layout Quotation
 \begin_inset Quotes fld
 \end_inset
 
-Maintenant devant les portes Énée, le fils de la déesse, 
-\end_layout
-
-\begin_layout Quotation
-Se tient, portant sur ses épaules son père, qui de son dos que frappa la
- foudre 
-\end_layout
-
-\begin_layout Quotation
-Laisse tomber un manteau de lin délicat.
- 
-\end_layout
-
-\begin_layout Quotation
-Il est entouré de toute la foule de ses serviteurs.
- 
-\end_layout
-
-\begin_layout Quotation
-L’accompagne dans son errance une multitude que tu ne peux imaginer, 
-\end_layout
-
-\begin_layout Quotation
-Et leurs désirs tendent vers cette colonie des Phrygiens.
-\begin_inset Quotes frd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quotation
 Ménécratès de Xanthos, pour sa part, déclare que c’est Énée qui livra la
  ville aux Achéens, à cause de la haine qu’il nourrissait envers Alexandre,
  et que pour prix de ce service, les Achéens lui permirent de sauver sa
  famille et son patrimoine.
- Il compose son récit, qui commence avec le bûcher d'Achille, de la façon
- suivante: 
-\begin_inset Quotes fld
-\end_inset
-
-Les Achéens étaient en proie au chagrin et il leur semblait qu’on leur avait
- arraché la tête de l’armée.
- Cependant après avoir partagé en son honneur le repas funéraire, ils combattire
-nt de toutes leurs forces jusqu'à ce que Troie fut prise, Énée l’ayant livrée.
- C’est Énée en effet qui, parce qu’il était traité sans égards par Alexandre
- et écarté de ses privilèges sacrés, renversa Priam.
- Après avoir accompli ces actions, il devint un Achéen parmi les autres.
-\begin_inset Quotes frd
-\end_inset
-
- D'autres auteurs indiquent qu'il se trouvait à ce moment-là occupé au port
- troyen, certains qu’il avait été envoyé en Phrygie par Priam avec des forces
- pour quelque mission d’ordre militaire; il en est enfin qui font un récit
- plus fabuleux de son départ.
+ (\SpecialChar \ldots{}
+) D'autres auteurs indiquent qu'il se trouvait à ce moment-là occupé au
+ port troyen, certains qu’il avait été envoyé en Phrygie par Priam avec
+ des forces pour quelque mission d’ordre militaire; il en est enfin qui
+ font un récit plus fabuleux de son départ.
  Mais qu’il en soit selon la conviction de chacun.
  Les événements qui suivirent son départ suscitent chez la plupart des auteurs
  un embarras plus grand encore.
@@ -32200,6 +32476,10 @@ Alors le vaillant Énée régnera sur les Troyens, Et les enfants de ses enfants
  Supposant donc qu’Homère connaissait les souverains de Phrygie, et pensant
  qu’il n'était pas possible pour qui vivait en Italie de régner sur des
  Troyens, ils inventèrent le retour d'Énée.
+\begin_inset Quotes frd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -32227,9 +32507,9 @@ Denys d'Halicarnasse, I, 48, 3.
  sur la trahison d’Énée s'appuie effectivement sur un problème de brouille
  avec la famille de Priam et de Pâris, qui lui aurait dénié les privilèges
  qui lui étaient dus, ainsi qu'Homère le mentionnait de façon très allusive.
- La version que Denys estime cependant la plus fiable, celle d'Hellanicos
- de Lesbos, est cependant celle qui corrobore finalement la version virgilienne,
- et qui tournait le plus à l'avantage du héros.
+ La version que Denys estime cependant la plus sûre, celle d'Hellanicos
+ de Lesbos, est celle qui corrobore finalement la version virgilienne, et
+ qui tourne le plus à l'avantage du héros.
  Nous renvoyons ici à l'étude d'A.
  Dardenay sur la fortune du motif iconographique de la fuite d’Énée à travers
  les âges: Anchise sur le dos d’Énée, passant les bras autour du cou d’Énée
@@ -32324,8 +32604,8 @@ Drury-Moyaers 1981.
  antérieure à la construction du régime augustéen.
  Il est en tout cas établi que la ville constituait sous l'Empire une sorte
  de lieu sacré de la légende énéenne, ainsi qu'en atteste Valère Maxime
- en racontant que le héros avait lui-même placé dans la ville les Pénates
- de Troie, et que, transférés à Albe par Ascagne, les objets sacrés retournèrent
+ en racontant que le héros avait lui-même placé à Lavinium les Pénates de
+ Troie, et que, transférés à Albe par Ascagne, les objets sacrés retournèrent
  miraculeusement d'eux-mêmes, et par deux fois, dans leur premier établissement
 \begin_inset Foot
 status collapsed
@@ -32351,7 +32631,11 @@ miracle
 status collapsed
 
 \begin_layout Plain Layout
-Ibid.: 
+
+\emph on
+Ibid
+\emph default
+.: 
 \begin_inset Quotes fld
 \end_inset
 
@@ -32495,7 +32779,7 @@ XLIII, 1.
 \emph on
 Sur les Rois
 \emph default
-) donne une version de l'histoire d’Énée abrégée mais similaire dans les
+) indique une version de l'histoire d’Énée abrégée mais similaire dans les
  grandes lignes à ce qu'en dit Virgile, si ce n'est que ni Anchise ni Ascagne
  ne sont évoqués; l'histoire des rois d'Albe, qui chez lui reçoivent tous
  le surnom de Silvius, est en revanche quelque peu modifiée en ce que l'historie
@@ -32522,7 +32806,7 @@ Felix
 \emph default
 , se réclamait de la protection de Vénus.
  Appien rapporte que la protection en question lui avait été confirmé par
- un oracle, où déjà les Romains étaient qualifiés de 
+ un oracle où déjà les Romains étaient qualifiés de 
 \begin_inset Quotes fld
 \end_inset
 
@@ -32530,8 +32814,8 @@ race d’Énée
 \begin_inset Quotes frd
 \end_inset
 
-, et où la déesse réclame entre autres présents une hache, que Sylla envoie
- porteuse de l'inscription 
+, et où la déesse réclamait entre autres présents une hache, que Sylla envoie
+ porteuse de l'inscription: 
 \begin_inset Quotes fld
 \end_inset
 
@@ -32558,14 +32842,14 @@ Guerre civile
 .
  La Vénus ici évoquée est donc déjà à la fois la Vénus Troyenne, mère d’Énée
  et donc des Romains, et la Vénus Victrix dont se réclamera plus tard Pompée.
- La référence est bien sûr politique: la référence à Énée comme ancêtre
- des Romains ne vaut que parce qu'elle confère à Sylla, protégé autoproclamé
+ Le procédé est bien sûr politique: la référence à Énée comme ancêtre des
+ Romains ne vaut que parce qu'elle confère à Sylla, protégé autoproclamé
  de Vénus, une légitimité pour prendre les rênes de ce même peuple romain.
  Le chemin tracé devant le jeune Octavien, lorsqu'il décide de reprendre
  à son compte le mythe troyen des origines mis en avant par son illustre
  père adoptif, est donc simple: la version de la légende qui sera mise en
- œuvre sous la plume de Virgile est déjà à la fois la plus connue, et celle
- qui flatte le plus la gloire du peuple romain.
+ œuvre chez Virgile est déjà à la fois la plus connue, et celle qui flatte
+ le plus la gloire du peuple romain.
  Il ne reste plus qu'à rendre cette version officielle.
 \end_layout
 
@@ -32611,8 +32895,8 @@ alius Achilles
 
 \end_inset
 
-, mais qui initie surtout une dynastie menant tout droit vers Auguste: le
- héros doit être à la fois ancêtre du peuple romain, et ancêtre du 
+, et qui initie surtout une dynastie menant tout droit vers Auguste: le
+ héros doit être à la fois ancêtre du peuple romain et ancêtre du 
 \emph on
 princeps
 \emph default
@@ -32638,7 +32922,7 @@ Falsi Simoentis ad undam
 
 \end_inset
 
-, une Pergame
+, une fausse Pergame
 \begin_inset Foot
 status collapsed
 
@@ -32653,8 +32937,9 @@ status collapsed
 
 \end_inset
 
-… Énée lui-même, racontant l'épisode à Didon, laisse échapper quelques qualifica
-tifs montrant que l'entreprise ne parvient pas à son but, c'est une 
+.
+ Énée lui-même, racontant l'épisode à Didon, laisse échapper quelques qualificat
+ifs montrant que l'entreprise ne parvient pas à son but, c'est une 
 \begin_inset Quotes fld
 \end_inset
 
@@ -32667,7 +32952,11 @@ petite Troie
 status collapsed
 
 \begin_layout Plain Layout
-« Paruam Troiam », 
+« 
+\emph on
+Paruam Troiam
+\emph default
+ », 
 \emph on
 Énéide
 \emph default
@@ -32693,7 +32982,11 @@ status collapsed
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 Simulata
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -32715,7 +33008,12 @@ status collapsed
 \begin_inset Quotes fld
 \end_inset
 
-Arentem (…) riuum
+
+\emph on
+Arentem (\SpecialChar \ldots{}
+) riuum
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -32739,7 +33037,12 @@ status collapsed
 \begin_inset Quotes fld
 \end_inset
 
-Ingentem (…) Troiam
+
+\emph on
+Ingentem (\SpecialChar \ldots{}
+) Troiam
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -32822,7 +33125,8 @@ Deos
 \begin_inset Quotes fld
 \end_inset
 
-Ilium (...) uictosque Penates
+Ilium (\SpecialChar \ldots{}
+) uictosque Penates
 \emph default
 
 \begin_inset Quotes frd
@@ -32835,7 +33139,9 @@ Ilium (...) uictosque Penates
 \begin_inset Quotes fld
 \end_inset
 
-raptos (...) Penates (…) ueho mecum
+raptos (\SpecialChar \ldots{}
+) Penates (\SpecialChar \ldots{}
+) ueho mecum
 \emph default
 
 \begin_inset Quotes frd
@@ -32987,7 +33293,8 @@ status collapsed
 \end_inset
 
 At puer Ascanius, cui nunc cognomen Iulo / additur - Ilus erat, dum res
- stetit Ilia regno (...)
+ stetit Ilia regno (\SpecialChar \ldots{}
+)
 \emph default
 
 \begin_inset Quotes frd
@@ -33039,7 +33346,7 @@ VIII, v.
  Dès le premier chant, l'objectif est donc double: assurer Énée de son futur,
  par les prophéties répétées des dieux eux-mêmes, et ancrer l'héritage des
  Iulii dans le passé troyen, comme lorsque Énée se présente à Didon en annonçant
- à la fois sa lignée et son destin: il se dit issu de Jupiter et présente
+ à la fois sa lignée et son destin: il se dit issu de Jupiter et indique
  l'Italie comme sa patrie
 \begin_inset Foot
 status collapsed
@@ -33057,7 +33364,11 @@ status collapsed
 
 \begin_layout Plain Layout
 III, v.
- 94 sq.
+ 94 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -33134,13 +33445,12 @@ V, v.
 
 .
  Ce ne sont là que deux exemples: Énée se montre systématiquement respectueux
- de la parole divine et de celle de son père; les épeuves traversées par
+ de la parole divine et de celle de son père; les aventures traversées par
  le héros, de la chute de Troie à la guerre dans le Latium, mettent systématique
 ment son obéissance à l'épreuve.
  La ruine de Troie, en particulier, constitue un écueil dans la mesure où
  le fait d'avoir abandonné sa cité en flammes et en proie à la guerre ne
- pouvait que passer, dans l'Antiquité, que pour une marque flagrante de
- lâcheté.
+ pouvait passer, dans l'Antiquité, que pour une marque flagrante de lâcheté.
  Virgile doit donc jeter dans la balance toute l'influence des dieux pour
  montrer un Énée répugnant à fuir malgré les ordres: il refuse les objurgations
  de l'ombre d'Hector
@@ -33206,9 +33516,8 @@ II, v.
 
 \end_inset
 
-; les épreuves subies dans son voyage sont finalement des épreuves bien
- plus difficiles à supporter que le fait d'être mort à Troie, présenté comme
- un sort heureux
+; les épreuves subies dans son voyage sont finalement bien plus difficiles
+ à supporter que le fait d'être mort à Troie, présenté comme un sort heureux
 \begin_inset Foot
 status collapsed
 
@@ -33220,7 +33529,7 @@ I, v.
 \end_inset
 
 .
- Énée est donc absous de sa fuite, présentée comme un acte positif.
+ Énée est ainsi absous de sa fuite, présentée comme un acte positif.
  Le chant II, avec le récit du sac de Troie, les chants VII à XII, avec
  le récit de la guerre dans le Latium, sont là pour montrer toutes les qualités
  de combattant et de chef de guerre du héros, autant que pour ancrer l'
@@ -33247,7 +33556,11 @@ status collapsed
 
 \begin_layout Plain Layout
 III, v.
- 708 sq.: Grimal 1985, p.
+ 708 
+\emph on
+sq.
+\emph default
+: Grimal 1985, p.
  208.
 \end_layout
 
@@ -33256,7 +33569,7 @@ III, v.
 .
  C'est la piété d’Énée, son obéissance aux dieux, qui justifie ou fait pardonner
  ce qui pourrait apparaître comme des actes dépourvus de piété, après la
- mort de Pallas: le meurtre du fils d'H2mon et prêtre d'Apollon
+ mort de Pallas: le meurtre du fils d'Hémon et prêtre d'Apollon
 \begin_inset Foot
 status collapsed
 
@@ -33267,18 +33580,23 @@ X, v.
 
 \end_inset
 
-, celui de Lausus, qui meurt pour défendre son père et excite la pitié d'Énée
+, ou celui de Lausus, qui meurt pour défendre son père et excite la pitié
+ d'Énée
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
 X, v.
- 815 sq.
+ 815 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
 
-...
+.
 \end_layout
 
 \begin_layout Standard
@@ -33301,12 +33619,16 @@ I, v.
 .
  Aussi ce manque de piété apparent est-il finalement expliqué et racheté,
  comme la cruauté d'Octavien dans les guerres civiles et les proscriptions
- est racheté par l'apparence d'un destin plus important comme Auguste
+ est effacée par l'apparence d'un destin plus important en tant qu'Auguste
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  66-77.
 \end_layout
 
@@ -33357,9 +33679,10 @@ Nombreux sont les passages de l'
 Énéide
 \emph default
  à évoquer le règne d'Auguste, la paix et l’âge d'or: la prophétie de Jupiter,
- celle d'Hélénos, celle d'Anchise… Un passage en particulier fait cependant
- référence aux guerres civiles: l'étape à Actium au chant III, qui sonne
- comme un rappel évident des événements récents.
+ celle d'Hélénos, celle d'Anchise.
+ Un passage en particulier fait cependant référence aux guerres civiles:
+ l'étape à Actium au chant III, qui sonne comme un rappel évident des événements
+ récents.
  L'anachronisme du temple d'Apollon à Leucade, qui n'existait bien sûr pas
  à l'époque supposée d’Énée, suffit à replacer l'épisode dans un temps plus
  contemporain de Virgile.
@@ -33369,7 +33692,11 @@ status collapsed
 
 \begin_layout Plain Layout
 III, v.
- 280 sq.
+ 280 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -33423,7 +33750,7 @@ Iliacis
 \begin_inset Quotes frd
 \end_inset
 
-), ou encore les péripéties d’Énée de la victoire sur Sextus Pompée (
+), ou encore les aventures d’Énée de la victoire sur Sextus Pompée (
 \begin_inset Quotes fld
 \end_inset
 
@@ -33475,7 +33802,7 @@ ement.
  Claudius Nero, et c'est sur ses fils, Drusus et Tibère, que l'on compte
  pour assurer la continuité dynastique, plutôt que sur Julia, fille unique
  née d'un précédent mariage (les deux fils de celle-ci, Lucius et Caius,
- dont le second était é peine né au moment de la mort de Virgile et le second
+ dont le second était à peine né au moment de la mort de Virgile et le second
  pas encore, ne comptaient alors pas dans la succession).
  Pour autant que la deuxième partie de l'
 \emph on
@@ -33491,8 +33818,8 @@ Iliade
  l'Histoire récente: une reine orientale, oui, mais que l'on abandonne pour
  satisfaire à la piété et aux impératifs de la patrie; des batailles, oui,
  mais pas de proscriptions.
- Virgile réécrit ainsi l'Histoire pour donner au peuple romain un héros
- troyen dont il puisse être fier.
+ Virgile réécrit l'Histoire pour donner au peuple romain un héros troyen
+ dont il puisse être fier.
  L'
 \emph on
 Énéide
@@ -33501,8 +33828,8 @@ Iliade
 \emph on
 Iliade
 \emph default
- comme dans l'Histoire récente et assure ainsi la continuité temporelle:
- Énée contre turnus, c'est Achille contre Hector, c'est aussi Octavien contre
+ comme dans l'Histoire récente et assure la continuité temporelle: Énée
+ contre Turnus, c'est Achille contre Hector, c'est aussi Octavien contre
  Antoine, quoique avec des moyens militaires différents
 \begin_inset Foot
 status collapsed
@@ -33539,7 +33866,11 @@ VI, 752-854.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., v.
+
+\emph on
+Ibid.
+\emph default
+, v.
  855-885.
 \end_layout
 
@@ -33575,7 +33906,11 @@ VIII, v.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., v.
+
+\emph on
+Ibid.
+\emph default
+, v.
  671-713.
 \end_layout
 
@@ -33586,7 +33921,11 @@ Ibid., v.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., v.
+
+\emph on
+Ibid.
+\emph default
+, v.
  714-728.
 \end_layout
 
@@ -33611,46 +33950,15 @@ Girod 1978, p.
 \end_layout
 
 \begin_layout Standard
-C'est pourquoi le poète Gallus, à la mort de Virgile, sait sur quelle corde
- jouer: ordonner la destruction de l'
+C'est pourquoi les volontés de Virgile, à sa mort, ne seront pas respectées:
+ ordonner la destruction de l'
 \emph on
 Énéide
 \emph default
-, conformément à la volonté du poète, c'est non seulement priver Énée de
- tout renom, mais cette obscurité rejaillirait sur le prince, qui se retrouve
- ainsi privé de tout lien avec Troie; et ainsi Troie brûle à nouveau.
+, conformément au souhait du poète, c'est non seulement priver Énée de tout
+ renom, mais cette obscurité rejaillirait sur le prince, qui se retrouverait
+ ainsi privé de tout lien avec Troie.
  
-\begin_inset Quotes fld
-\end_inset
-
-Virgile n’est plus, divin César, et sa perte, que je déplore, répand sur
- nos beaux jours la tristesse.
- Mais le souffrirez-vous, prince? Il ordonne d’anéantir ces vers harmonieux
- par lesquels sa voix puissante immortalise Énée.
- Rome et l’univers entier vous adressent leurs suppliantes prières.
- Faut-il que la flamme dévore les hauts faits de tant de héros; que Troie
- succombe encore sous un plus funeste incendie? Ordonnez, et nos neveux
- reliront la gloire de l’Italie et vos destinées, et l’antique Énée brillera
- d’une renommée plus belle: car un seul mot du divin César peut plus que
- le destin.
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Gallus, 
-\emph on
-Sur la Mort de Virgile
-\emph default
-.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Quotes frd
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -33789,7 +34097,7 @@ Sur les portes du temple, je représenterai ici en or et en ivoire massifs
 
  (v.
  26-36).
- Les personnifications des peuples vaincus (les Gangarides, l'Egypte, le
+ Les personnifications des peuples vaincus (les Gangarides, l'Égypte, le
  Parthe qui n'était pas vaincu --
 \begin_inset space ~
 \end_inset
@@ -33914,7 +34222,11 @@ héroôn
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  155.
 \end_layout
 
@@ -33992,14 +34304,25 @@ status collapsed
 \begin_layout Plain Layout
 J.
  Scheid a rappelé que le dictateur Camille avait reçu les noms de Romulus
- et de parens patriae (Tite Live V, 49, 7), et que ce nom portait ainsi
- des connotations positives, qu'Auguste préféra cependant abandonner par
- peur de se voir imputer des aspirations à la royauté ; le mythe de Romulus
- fut cependant utilisé dans la construction du nouvel ordre social à religieux
- à Rome, et en particulier dans la restauration de la prêtrise des frères
- arvales, parmi lesquels furent nommés beaucoup d'anciens ennemis du parti
- vainqueur, ainsi redevenus « frères » autour de la personne d'Auguste (Scheid,
- p.
+ et de 
+\emph on
+parens patriae
+\emph default
+ (Tite Live V, 49, 7), et que ce nom portait ainsi des connotations positives,
+ qu'Auguste préféra cependant abandonner par peur de se voir imputer des
+ aspirations à la royauté; le mythe de Romulus fut cependant utilisé dans
+ la construction du nouvel ordre social à religieux à Rome, et en particulier
+ dans la restauration de la prêtrise des frères arvales, parmi lesquels
+ furent nommés beaucoup d'anciens ennemis du parti vainqueur, ainsi redevenus
+ 
+\begin_inset Quotes fld
+\end_inset
+
+frères
+\begin_inset Quotes frd
+\end_inset
+
+ autour de la personne d'Auguste (Scheid 1990, p.
  700-704).
 \end_layout
 
@@ -34230,7 +34553,11 @@ status collapsed
 
 \begin_layout Plain Layout
 Dardenay 2010, p.
- 89 sq.
+ 89 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -34242,8 +34569,12 @@ Dardenay 2010, p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., pp.
- 92, 101, 171, 193...
+
+\emph on
+Ibid.
+\emph default
+, pp.
+ 92, 101, 171, 193.
 \end_layout
 
 \end_inset
@@ -34287,13 +34618,17 @@ status collapsed
 
 \begin_layout Plain Layout
 Gagé 1930, p.
- 145 sq.
+ 145 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
 
 .
- Auguste entretient ainsi un flou artistique sur sa propre généalogie: en
+ Auguste entretient ainsi un flou volontaire sur sa propre généalogie: en
  mettant en avant ses ancêtres divins (Vénus, Mars, César) et héroïques
  (Énée, Romulus), il donne ainsi l'impression que les 
 \emph on
@@ -34361,8 +34696,8 @@ Sauron 2000, p.
 , entremêlé de vigne et de lierre.
  Les végétaux sont surmontés à intervalle régulier de cygnes, eux aussi
  consacrés à Apollon, ainsi que de nombres de petits animaux cachés dans
- les feuillages, dont l'interprétation est malaisée: on les a vus comme
- tantôt apolliniens, tantôt dionysiaques.
+ les feuillages, dont l'interprétation est malaisée: on les a vus tantôt
+ comme apolliniens, tantôt comme dionysiaques.
  K.
  Galinsky
 \begin_inset Foot
@@ -34398,12 +34733,12 @@ princeps
 \emph default
  concilie à la fois le type de représentation traditionnel romain, vêtu
  d'une cuirasse, la nudité héroïque grecque (il a les pieds nus) et un type
- statuaire simialire à celui des statues dites achilléennes comme le Doryphore
+ statuaire similaire à celui des statues dites achilléennes comme le Doryphore
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Sur ce point, voir Sauron 2009-2, p.
+Sur ce point, voir Sauron 2009b, p.
  199.
 \end_layout
 
@@ -34422,8 +34757,8 @@ Ainsi que l'a montré G.
 \emph default
 , VIII, 729-730), est représenté le monde ici destiné à être soumis, là
  finalement vaincu, avec les nations barbares rendant ses enseignes à Rome
- entre les personnifications du Soleil, de la Lune, de la Terre, etc (Sauron
- 2009-2, p.
+ entre les personnifications du Soleil, de la Lune, de la Terre, etc.
+ (Sauron 2009b, p.
  200).
 \end_layout
 
@@ -34434,7 +34769,7 @@ Ainsi que l'a montré G.
  placée dans l'exèdre du portique de son théâtre, et qui le représentait
  moitié en lui-même, moitié en héros grec, tenant un globe dans la main;
  de même que Pompée, placé dans l'alignement du temple de Vénus, s'était
- placé sous la protection de la déesse, Auguste est ici accompagné de Cupidon.
+ mis sous la protection de la déesse, Auguste est ici accompagné de Cupidon.
  La référence à la divinité ancêtre de la famille est évidente, et Auguste
  se montre ici en nouveau rejeton de Vénus, c'est-à-dire en nouvel Énée:
  le princeps est dépeint en rejeton de Vénus et portant sur son armement
@@ -34663,7 +34998,7 @@ Felix
 \begin_layout Standard
 Apollon n'est certes pas le seul dieu à intervenir dans la vie du fondateur
  du nouveau régime.
- Il avait fait construire ou reconstruire divers temples: le temple de Venus
+ Il avait fait construire ou reconstruire divers temples: le temple de Vénus
  Genetrix, qu'il fait terminer sur le forum de son père adoptif, le temple
  de Mars Ultor, sur son propre forum, le temple d'Apollon Palatin, mais
  aussi un temple de Vesta et un temple de Cybèle, toujours sur le Palatin,
@@ -34689,7 +35024,11 @@ Suétone, Auguste, XXIX.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., LVII.
+
+\emph on
+Ibid.
+\emph default
+, LVII.
 \end_layout
 
 \end_inset
@@ -34861,18 +35200,27 @@ Rizzo 1933, p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  82.
 \end_layout
 
 \end_inset
 
-; la face de la base est lacunaire; il est certain que Vénus devait y figurer
+; la face de la base est lacunaire, il en manque la moitié gauche; il est
+ certain, à cause de la présence de Cupidon, que Vénus devait y figurer
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  89.
 \end_layout
 
@@ -34930,7 +35278,11 @@ Suétone, Auguste, XCIV.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., LXX.
+
+\emph on
+Ibid.
+\emph default
+, LXX.
 \end_layout
 
 \end_inset
@@ -35038,13 +35390,21 @@ Suétone, Auguste, XXXI.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., XCIV.
+
+\emph on
+Ibid.
+\emph default
+, XCIV.
 \end_layout
 
 \end_inset
 
-: Atia, s'étant rendue à une cérémonie nocturne dans le temple d'Apollon,
- s'y serait endormie et aurait reçu en songe la visite d'un serpent; elle
+: Atia, s'étant rendue à une cérémonie nocturne dans le temple d'Apollon
+ 
+\emph on
+in circo
+\emph default
+, s'y serait endormie et aurait reçu en songe la visite d'un serpent; elle
  avait à son réveil une tache en forme de serpent sur le corps, et Octave
  naquit neuf mois plus tard.
  Suétone ajoute qu'Octavius, lui, avait vu en rêve les rayons du soleil
@@ -35101,9 +35461,9 @@ e
  siècle avant J.-C., et, n'ayant trouvé aucune divinité locale à laquelle
  s'assimiler, il avait conservé, à la différence de sa sœur Artémis/Diane,
  son nom grec.
- Le premier temple à la avoir été consacré fut, en -433, celui près du cirque
- Flaminius, en dehors des murs de Rome, pour solliciter l'aide du dieu guérisseu
-r contre une épidémie
+ Le premier temple à lui avoir été consacré fut, en -433, celui qui se trouvait
+ près du cirque Flaminius, en dehors des murs de Rome, pour solliciter l'aide
+ du dieu guérisseur contre une épidémie
 \begin_inset Foot
 status collapsed
 
@@ -35121,13 +35481,17 @@ Viscogliosi 2005, p.
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
+
+\emph on
+Ibid.
+\emph default
+, p.
  34-35.
 \end_layout
 
 \end_inset
 
- Le temple subit plusieurs incendies, et plusieurs réfections, avant celle
+ Le temple subit plusieurs incendies et plusieurs réfections avant celle
  de la fin du I
 \begin_inset script superscript
 
@@ -35143,14 +35507,22 @@ er
  Sosius, consul en -32, ancien lieutenant de César et fidèle d'Antoine,
  qui laissa son nom au temple; condamné à mort après Actium, il fut grâcié
  par le vainqueur et autorisé à terminer la restauration; le jour anniversaire
- du temple était célébré non à la date réelle, le 13 juillet, mais le 23
- septembre, pour celui d'Auguste
+ de la dédicace était célébré non à la date réelle, le 13 juillet, mais
+ le 23 septembre, pour celui d'Auguste
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
- 4 sq.
+
+\emph on
+Ibid.
+\emph default
+, p.
+ 4 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -35197,11 +35569,11 @@ Royo 1999, p.
 \end_inset
 
 .
- Placé dans une partie de la propre maison du 
+ Construit dans une partie de la propre maison du 
 \emph on
 princeps
 \emph default
-, sur demande exprès du dieu (la foudre, selon les haruspices), augmenté
+, sur demande expresse du dieu (la foudre, selon les haruspices), augmenté
  de bibliothèques grecques et latines, le nouveau sanctuaire devint parfois,
  sur la fin du règne d'Auguste, le lieu de réunion du Sénat et des décuries
  de juges
@@ -35246,7 +35618,7 @@ Tu me demandes pourquoi je t'arrive en retard? Le grand César a ouvert le
  de Myron, des bœufs, quatre œuvres d'art, statues vivantes.
  Puis se dressait au milieu le temple de marbre éclatant et plus cher à
  Phœbus que sa patrie d'Ortygie: au sommet, en or, le char du Soleil; et
- les portes, chef d'œuvre d'ivoire lybien, l'une déplorant les Gaulois rejetés
+ les portes, chef-d'œuvre d'ivoire lybien, l'une déplorant les Gaulois rejetés
  des hauteurs du Parnasse et l'autre les deuils de la Tantalide.
  Enfin, entre sa mère et sa soeur, le dieu lui-même, Apollon Pythien, dans
  un long vêtement, fait résonner ses chants
@@ -35365,7 +35737,7 @@ Gros 2009, p.
 \end_inset
 
  ne convainc pas tout à fait; mais leur présence s'explique aisément dès
- lors que l'on considère que les bœufs de Sol / Hélios, ici assimilé, comme
+ lors que l'on considère que les bœufs de Sol/Hélios, ici assimilé, comme
  nous l'avons déjà dit, à Apollon, sont eux aussi les protagonistes d'une
  affaire d'impiété: les compagnons d'Ulysse, malgré les mises en garde de
  ce dernier, tuent et dévorent le troupeau d'Hélios, et, victimes de la
@@ -35519,7 +35891,7 @@ Visite laurigero sacrata Palatia Phoebo / Ille Paraetonicas mersit in alta
 \begin_inset Quotes frd
 \end_inset
 
-
+.
 \end_layout
 
 \end_inset
@@ -35737,7 +36109,7 @@ IX, v.
 
 \end_inset
 
- et à qui il déclare 
+ et à qui il déclare: 
 \begin_inset Quotes fld
 \end_inset
 
@@ -35780,7 +36152,7 @@ Vénus et Mars
 
 \begin_layout Standard
 La dévotion des Romains à Vénus et Mars n'est pas nouvelle.
- Vénus était déjà honorée auparavant dès Sylla, qui estimait lui devoir
+ Vénus était déjà honorée auparavant par Sylla, qui estimait lui devoir
  sa chance et avait fait inscrire sur ses trophées les noms de Mars, Vénus
  et Victoire après la bataille de Chéronée
 \begin_inset Foot
@@ -35794,15 +36166,14 @@ Plutarque, vie de Sylla, 19,9.
 
 .
  
+\end_layout
+
+\begin_layout Quotation
 \begin_inset Quotes fld
 \end_inset
 
 Il arriva d'ailleurs qu'un oracle lui soit rendu, confirmant cette protection
- divine, alors qu'il cherchait à connaître l'avenir:
-\end_layout
-
-\begin_layout Standard
-''Obéis-moi, Romain.
+ divine, alors qu'il cherchait à connaître l'avenir: "Obéis-moi, Romain.
  Cypris a donné une grande puissance à la race d'Énée, qu'elle porte dans
  son coeur.
  Mais toi, à tous les immortels offre des sacrifices annuels.
@@ -35812,8 +36183,8 @@ Il arriva d'ailleurs qu'un oracle lui soit rendu, confirmant cette protection
  du Taurus neigeux, là où se trouve la très vaste ville des Cariens, qui
  habitent une ville au nom tiré de celui d'Aphrodite.
  Quand tu auras offert à celle-ci une hache, tu obtiendras pour toi une
- puissance immense.'' Il envoya une couronne d'or et une hache où il avait
- fait inscrire: ''Cette offrande, l'Imperator Sylla te l'a consacrée, Aphrodite!
+ puissance immense." Il envoya une couronne d'or et une hache où il avait
+ fait inscrire: "Cette offrande, l'Imperator Sylla te l'a consacrée, Aphrodite!
  C'est avec elle que je t'ai vue en songe mettre de l'ordre dans les rangs
  de l'armée tandis que tu combattais, armée de la panoplie d'Arès."
 \begin_inset Quotes frd
@@ -35861,8 +36232,8 @@ Sauron 2000, p.
 Obsequens
 \emph default
 , le plus ancien, construit en -295 près du Cirque par Q.
- Fabius Gurges, le second à une date inconne dans le bois de Libitina, celui
- de Vénus Verticordia en -114
+ Fabius Gurges, le second à une date inconnue dans le bois de Libitina,
+ celui de Vénus Verticordia en -114
 \begin_inset Foot
 status collapsed
 
@@ -35890,8 +36261,14 @@ e
 status collapsed
 
 \begin_layout Plain Layout
-Ibid., p.
- 233 sq.
+
+\emph on
+Ibid.
+\emph default
+, p.
+ 233 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -36001,7 +36378,11 @@ Horace,
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 Neptunius dux
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -36033,7 +36414,11 @@ Gagé 1936, p.
 Énéide
 \emph default
 , Neptune occupe une place en retrait: à l'inverse de son rôle de persécuteur
- d'Ulysse dans l'Odyssée, il se montre bienveillant envers Énée
+ d'Ulysse dans l'
+\emph on
+Odyssée
+\emph default
+, il se montre bienveillant envers Énée
 \begin_inset Foot
 status collapsed
 
@@ -36068,7 +36453,7 @@ V, v.
 
 \end_inset
 
-, et il évite aux Troyens d'aborder chez Circé au chant VII
+, et il empêche les Troyens d'aborder chez Circé au chant VII
 \begin_inset Foot
 status collapsed
 
@@ -36092,7 +36477,7 @@ Auguste, XVI.
 \end_inset
 
 .
- La position de Neptune, tantôt opposé à Octavien, tantôt son allié, fluctue
+ La position de Neptune, tantôt ennemi d'Octavien, tantôt son allié, fluctue
  suivant la propagande officielle et les positions des poètes, et se montre
  une question épineuse
 \begin_inset Foot
@@ -36113,9 +36498,9 @@ Vesta et Cybèle
 \end_layout
 
 \begin_layout Standard
-Vesta et Cybèle, à l'inverse de Neptune, sont pleinement intégrées dans
- le Panthéon augustéen.
- Ces deux divinités, intégrées dans la religion romaine, pour la première,
+Vesta et Cybèle, à l'inverse de Neptune, sont, quoique d'importance mineure,
+ pleinement intégrées dans le Panthéon augustéen.
+ Ces deux divinités, présentes dans la religion romaine, pour la première,
  depuis les origines de Rome (selon Tite-Live, c'est Numa Pompilius qui
  développe son culte, crée le collège des Vestales et construit son temple
  circulaire sur le Forum Romain), pour l'autre, depuis la fin du III
@@ -36164,7 +36549,7 @@ Fastes
 .
  Vesta est doublement liée à l'ancêtre troyen de la nouvelle dynastie: Tite-Live
  attribue l'origine de son culte, emprunté par Numa Pompilius aux Albains,
- à la famille d'Énée et de Romulus
+ à Albe et à la famille d'Énée et de Romulus
 \begin_inset Foot
 status collapsed
 
@@ -36184,7 +36569,7 @@ Il [Numa Pompilius] fonda ensuite le collège des Vestales, sacerdoce emprunté
 \end_inset
 
 comprendre par là, sans doute, Rhéa Silvia, dont la position de Vestale
- contredit sinon la version de l'instauration du culte par Numa.
+ contredirait sinon la version de l'instauration du culte par Numa.
  
 \end_layout
 
@@ -36226,11 +36611,15 @@ On trouve des pièces avec Mars Ultor commémorant le retour des enseignes
 \end_layout
 
 \begin_layout Standard
-Le décor de l'Ara Pacis montre le même choix réduit de divinités.
+Le décor de l'
+\emph on
+Ara Pacis
+\emph default
+ montre le même choix réduit de divinités.
  Les scènes représentées par les reliefs en hauteur montrent tour à tour
  Énée sacrifiant la truie de Lavinium, avec en fond le temple de Vesta abritant
  les Pénates; Mars, avec à ses pieds la louve et Romulus et Rémus; à l'arrière
- du monument, Tellus entourée par des Vénus / 
+ du monument, Tellus entourée par des Vénus/
 \emph on
 Aurae
 \emph default
@@ -36490,8 +36879,16 @@ status collapsed
 
 \begin_layout Plain Layout
 En prenant les traits du héraut Périphas (chant XVII, v.
- 322 sq.), puis sous les traits de Phénops l'Asiade (v.
- 582 sq.).
+ 322 
+\emph on
+sq.
+\emph default
+), puis sous les traits de Phénops l'Asiade (v.
+ 582 
+\emph on
+sq.
+\emph default
+).
 \end_layout
 
 \end_inset
@@ -36511,23 +36908,27 @@ En prenant les traits du héraut Périphas (chant XVII, v.
 \begin_inset space ~
 \end_inset
 
--- incapable; Apollon lui promet le secours des dieux, mais ceux-ci décide
+-- incapable; Apollon lui promet le secours des dieux, mais ceux-ci décident
  finalement de ne pas intervenir, d'un côté ou de l'autre, et s'assoient
  pour assister au combat (v.
- 79 sq.) Lors du premier duel entre Achille et Hector, alors qu'Athéna détourne
+ 79 
+\emph on
+sq.
+\emph default
+) Lors du premier duel entre Achille et Hector, alors qu'Athéna détourne
  d'Achille la lance d'Hector, Apollon protège celui-ci en l'entourant d'une
  nuée (v.
  438-448).
  À nouveau, à la fin du chant XXI, Apollon protège les Troyens et prend
  les traits d'Agénor pour attirer à lui Achille et donner aux Troyens le
  temps de rentrer dans les murs; seul Hector restera dehors.
- Au chant XXIV, Apollon est celui qui protègera la dépouille d'Hector contre
+ Au chant XXIV, Apollon est celui qui protégera la dépouille d'Hector contre
  tout outrage (v.
  18-21) et qui plaidera sa cause devant les dieux, invoquant sa piété de
  son vivant (v.
  31-34).
  Aphrodite, elle, intervient davantage en faveur de Pâris et d'Énée, ses
- favoris : elle protège Pâris lors du duel contre Ménélas, tandis que celui-ci
+ favoris: elle sauve Pâris lors du duel contre Ménélas, tandis que celui-ci
  est appuyé par Athéna et Héra (chant IV, v.
  7-10).
  Le duel entre Énée et Diomède, au chant V, montre les trois principaux
@@ -36536,23 +36937,23 @@ En prenant les traits du héraut Périphas (chant XVII, v.
  Lorsqu'Énée, descendu de son char pour protéger le corps de Pandare tué
  par Dioède, est blessé d'une pierre à la hanche, Aphrodite le dissimule
  (v.
- 311 sq); Diomède attaque alors Aphrodite, qui n'a ici rien d'une Venus
+ 311 sq); Diomède attaque alors Aphrodite, qui n'a ici rien d'une Vénus
  Victrix: 
 \begin_inset Quotes fld
 \end_inset
 
 Mais Diomède, lui, poursuit Cypris d'un bronze impitoyable.
  Il la sait déesse sans force; elle n'est pas de ces divinités qui président
- aux combats humains; elle n'estni Athéné, ni Éris dévastatrice.
+ aux combats humains; elle n'est ni Athéné, ni Éris dévastatrice.
 \begin_inset Quotes frd
 \end_inset
 
  (v.
  330-333), et il la blesse au bras.
  Aphrodite abandonne alors le combat, s'enfuyant sur le char d'Arès (v.
- 345) et c'est Apollon qui saisit Énée dans ses bras et l'emporte sur Pergame,
- dans son propre temple, où il le donne à soigner à sa mère et à sa sœur
- (v.
+ 345) et c'est Apollon qui saisit Énée dans ses bras et l'emporte en haut
+ de Pergame, dans son propre temple, où il le donne à soigner à sa mère
+ et à sa sœur (v.
  445-54).
  Comme Patrocle, Diomède attaque Apollon par trois fois, sans parvenir à
  le toucher, et ne cesse qu'à la quatrième, sur un avertissement définitif
@@ -36683,10 +37084,10 @@ La haine d'Athéna et d'Héra, de même, est justifiée de façon similaire:
 \begin_inset space ~
 \end_inset
 
-Ulysse, Thésée, Héraklès dans l'épisode du lac Stymphale...
+Ulysse, Thésée, Héraklès dans l'épisode du lac Stymphale.
  Il est donc naturel que des divinités si naturellement associées aux Grecs,
- et opposées aux Troyens, n'aient pu trouver leur place dans le culte mené
- par une 
+ et opposées aux Troyens, n'aient pu trouver leur place dans les cultes
+ mis ou remis en place par une 
 \emph on
 gens
 \emph default
@@ -36730,7 +37131,11 @@ status collapsed
 
 \begin_layout Plain Layout
 XII, v.
- 818 sq.
+ 818 
+\emph on
+sq
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -36739,7 +37144,7 @@ XII, v.
 \end_layout
 
 \begin_layout Standard
-A l'inverse, les dieux plébiscités par le régime augustéen sont, à l'évidence,
+À l'inverse, les dieux plébiscités par le régime augustéen sont, à l'évidence,
  très exactement les dieux du parti troyen, à l'exception du Xanthe, dieu
  par essence local et qui ne pouvait se réclamer d'un culte à Rome.
  Vénus, nous l'avons vu, n'est en rien une déesse guerrière dans l'
@@ -36775,7 +37180,9 @@ II, v.
 status collapsed
 
 \begin_layout Plain Layout
-V, v.166 sq.
+V, v.166 
+\emph on
+sq.
 \end_layout
 
 \end_inset
@@ -36878,12 +37285,16 @@ Erskine 2001, p.
 \end_inset
 
  par les liens de la famille de Livie avec la Claudia Quinta de la légende;
- mais les liens de la déesse avec le mont Ida ne pouvait avoir échappé au
- 
+ mais les liens de la déesse avec le mont Ida ne pouvaient avoir échappé
+ au 
 \emph on
 princeps
 \emph default
-, et ce d'autant qu'Ovide les souligne dans les Fastes
+, et ce d'autant qu'Ovide les souligne avec insistance dans les 
+\emph on
+Fastes
+\emph default
+
 \begin_inset Foot
 status collapsed
 
@@ -36977,7 +37388,7 @@ I, v.
 
 \end_inset
 
-, et Vesta protège les Pénates Troyens
+, et Vesta protège les Pénates troyens
 \begin_inset Foot
 status collapsed
 
@@ -37040,9 +37451,9 @@ IV, v.
 
 \begin_layout Standard
 La restauration religieuse d'Auguste n'est pas sans conséquences: en plus
- d'être le signe du retour à la paix et à l'âge d'or, elle est le signe
- que, sous les prédécesseurs d'Auguste, certains devoirs envers les dieux,
- garants de la cité, avaient été négligés
+ d'être le signe du retour à la paix et à l'âge d'or, elle montre que, sous
+ les prédécesseurs d'Auguste, certains devoirs envers les dieux, garants
+ de la cité, avaient été négligés
 \begin_inset Foot
 status collapsed
 
