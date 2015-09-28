@@ -42,10 +42,13 @@
   \chapterstyle{article}%
   \renewcommand*{\thechapter}{\Roman{chapter}}
   \renewcommand*{\printchapternum}{% center number/title
-    \centering\chapnumfont \thechapter\space\space}%
+    \chapnumfont \thechapter\space\space}%
   \renewcommand*{\printchapternonum}{\centering}
   \renewcommand*{\clearforchapter}{}% no new page
 }
 \chapterstyle{these}
 
+\setsecheadstyle{\bfseries\normalsize}
+\setsubsecheadstyle{\bfseries\normalsize}
 \renewcommand*{\thesubsection}{\thesection{}.\Alph{subsection}}
+
