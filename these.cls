@@ -48,7 +48,8 @@
 }
 \chapterstyle{these}
 
-\setsecheadstyle{\bfseries\normalsize}
+\setsecheadstyle{\bfseries\large}
+\renewcommand*{\thesection}{\arabic{section}}
 \setsubsecheadstyle{\bfseries\normalsize}
-\renewcommand*{\thesubsection}{\thesection{}.\Alph{subsection}}
+\renewcommand*{\thesubsection}{\Alph{subsection}}
 
