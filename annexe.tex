@@ -1,22 +1,77 @@
-\documentclass[a4paper]{article}
+\documentclass[14pt]{these}
 
+\usepackage{mathpazo}
+\renewcommand{\familydefault}{\rmdefault}
 \usepackage[francais]{babel}
 \usepackage{xkeyval}
 \usepackage{graphicx}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{textcomp}
 
-\def\house#1{#1\\}
-\def\name#1{#1\\}
-\def\subject#1{\textbf{Sujet:}#1\\}
-\def\type#1{#1}
-\def\date#1{#1}
-\def\room#1{#1}
-\def\wall#1{#1}
-\def\painter#1{#1}
-\def\location#1{#1}
-\def\credits#1{#1}
+\makeatletter
+\define@cmdkey{bdd}[BDD]{house}{}
+\define@cmdkey{bdd}[BDD]{name}{}
+\define@cmdkey{bdd}[BDD]{subject}{}
+\define@cmdkey{bdd}[BDD]{type}{}
+\define@cmdkey{bdd}[BDD]{date}{}
+\define@cmdkey{bdd}[BDD]{room}{}
+\define@cmdkey{bdd}[BDD]{wall}{}
+\define@cmdkey{bdd}[BDD]{artist}{}
+\define@cmdkey{bdd}[BDD]{location}{}
+\define@cmdkey{bdd}[BDD]{credits}{}
+\define@cmdkey{bdd}[BDD]{material}{}
+\define@cmdkey{bdd}[BDD]{discovery}{}
+\define@cmdkey{bdd}[BDD]{ref}{}
+\define@cmdkey{bdd}[BDD]{value}{}
+\define@cmdkey{bdd}[BDD]{magistrate}{}
+\define@cmdkey{bdd}[BDD]{front}{}
+\define@cmdkey{bdd}[BDD]{frontInscr}{}
+\define@cmdkey{bdd}[BDD]{back}{}
+\define@cmdkey{bdd}[BDD]{backInscr}{}
+\makeatother
+
 
 \begin{document}
-\input{annexe-data.tex}
+
+\part{Décors}
+\newcommand{\decor}[2][]{
+  \setkeys{bdd}{#1}
+  \noindent\includegraphics[width=\textwidth]{#2}
+
+  \noindent\BDDhouse\\
+  \BDDname\\
+  \textbf{Sujet:} \BDDsubject\\
+  \BDDtype, \BDDdate, \BDDroom, \BDDwall, \BDDartist, \BDDlocation,
+  \BDDcredits,
+
+  \clearpage
+}
+\input{annexe-decors.tex}
+
+\part{Objets}
+\newcommand{\objet}[2][]{
+  \setkeys{bdd}{#1}
+  \noindent\includegraphics[width=\textwidth]{#2}
+
+  \noindent\BDDname, \BDDsubject, \BDDmaterial,
+  \BDDdate, \BDDartist, \BDDdiscovery, \BDDlocation, \BDDcredits
+
+  \clearpage
+}
+\input{annexe-objets.tex}
+
+\part{Monnaies}
+\newcommand{\monnaie}[2][]{
+  \setkeys{bdd}{#1}
+  
+  \begin{tabular}{p{0.5\textwidth} p{0.5\textwidth}}
+    \BDDref, \BDDvalue, \BDDartist, \BDDmagistrate, \BDDdate,
+    \BDDfront, \BDDfrontInscr,
+    \BDDback, \BDDbackInscr &
+    \raisebox{-0.9\height}{\includegraphics[width=0.5\textwidth]{#2}}
+  \end{tabular}
+}
+\input{annexe-monnaies.tex}
+
 \end{document}

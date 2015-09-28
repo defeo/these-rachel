@@ -6,10 +6,10 @@ these.pdf: these.tex these.cls hyphenations.sty bibliothese.bib these.bst
 these.tex: these.lyx these.layout 
 	lyx -e latex these.lyx
 
-annexe.pdf: annexe.tex annexe-data.tex
+annexe.pdf: annexe.tex annexe-decors.tex annexe-objets.tex annexe-monnaies.tex
 	pdflatex annexe.tex
 
-annexe-data.tex: bdd-decors.csv annexe.py
+annexe-decors.tex annexe-objets.tex annexe-monnaies.tex: bdd-*.csv annexe.py
 	./annexe.py
 
 .PHONY: all
