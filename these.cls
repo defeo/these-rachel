@@ -9,12 +9,7 @@
 \LoadClass{memoir}
 
 %% Fonts
-%\RequirePackage[T1]{fontenc}
-%\RequirePackage{textcomp}
-%\renewcommand{\rmdefault}{pplx}
-%\renewcommand{\sfdefault}{uop}  % Warning: Optima is not in texlive !
 \RequirePackage[final,tracking=true]{microtype}
-%\RequirePackage{xcolor}
 
 \RequirePackage{etoolbox}
 \AtBeginEnvironment{quotation}{\small}
@@ -36,3 +31,21 @@
 \makeevenfoot{these}{\thepage}{}{}
 \makeoddfoot{these}{}{}{\thepage}
 \pagestyle{these}
+
+%% Divisions style
+\setsecnumdepth{subsection}
+\renewcommand*{\beforepartskip}{\cleardoublepage\null\vfil}
+\renewcommand*{\afterpartskip}{\vfil\newpage\setcounter{chapter}{0}\null\newpage}
+
+\makechapterstyle{these}{
+  \chapterstyle{default}
+  \chapterstyle{article}%
+  \renewcommand*{\thechapter}{\Roman{chapter}}
+  \renewcommand*{\printchapternum}{% center number/title
+    \centering\chapnumfont \thechapter\space\space}%
+  \renewcommand*{\printchapternonum}{\centering}
+  \renewcommand*{\clearforchapter}{}% no new page
+}
+\chapterstyle{these}
+
+\renewcommand*{\thesubsection}{\thesection{}.\Alph{subsection}}
