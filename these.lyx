@@ -229,7 +229,7 @@ que d'une génération fait pousser au poète autant de lamentations de deuil
 Iliade
 \emph default
  chante la disparition de cette génération, après laquelle il n'y aura plus
- de véritables héros en Grèce: Néoptolème, fils d'Achille, qui viole les
+ de véritables héros en Grèce: Néoptolème, fils d'Achille, qui bafoue les
  lois sacrées en violant Cassandre et en tuant Priam au pied de l'autel
  d'Athéna, et encourt la colère de celle-ci, Oreste, fils d'Agamemnon, qui
  en vengeant le meurtre de son père s'attire les foudres des Érynies et
@@ -1009,8 +1009,8 @@ Pindare ne se contente pas de se référer au mythe: il cite nommément Homère,
 \begin_inset Quotes fld
 \end_inset
 
-Réfléchissez aussi sur cette maxime d'Homère: ''Un bon messager apporte
- toujours à une cause un grand relief.''
+Réfléchissez aussi sur cette maxime d'Homère: "Un bon messager apporte toujours
+ à une cause un grand relief."
 \begin_inset Quotes frd
 \end_inset
 
@@ -1175,7 +1175,7 @@ status collapsed
 \emph on
 Iliade
 \emph default
-, chant VIII, v.
+, VIII, v.
  63-64.
 \end_layout
 
@@ -1261,7 +1261,8 @@ Lorsqu'Aphrodite oblige Hélène à se laisser séduire à nouveau par Pâris,
 \emph on
 Iliade
 \emph default
-, III, 390 
+, III, v.
+ 390 
 \emph on
 sq.
 \emph default
@@ -1428,7 +1429,7 @@ er
 \end_inset
 
  siècle av.
- J.-C.: voir Crowther 1987, pp.
+ J.-C.: voir Crowther 1987, p.
  262-268; Valerius Flaccus, plus tardivement, au I
 \begin_inset script superscript
 
@@ -1764,6 +1765,9 @@ status collapsed
 \end_layout
 
 \begin_layout Quotation
+\begin_inset Quotes fld
+\end_inset
+
 SOCRATE - Je me ménagerai un jour le loisir de t'entendre : pour le présent,
  je te prie seulement de me dire si tu n'es habile que dans l'intelligence
  d'Homère, ou si tu l'es aussi dans celle d'Hésiode et d'Archiloque.
@@ -1783,6 +1787,10 @@ Ion
 , 531a.
 \end_layout
 
+\end_inset
+
+
+\begin_inset Quotes frd
 \end_inset
 
 
@@ -19769,6 +19777,20 @@ que est signifiante aux yeux du maître comme du visiteur, signifiante dans
  le cadre d’une culture et d’un ensemble de références personnelles appartenant
  à la fois au commanditaire du décor et à ses contemporains, et que nous
  ne comprenons pas forcément.
+ Ces pièces constituaient parfois de véritables musées privés --
+\begin_inset space ~
+\end_inset
+
+K.
+ Schefold emploie à juste titre le mot de 
+\begin_inset Quotes fld
+\end_inset
+
+pinacothèque
+\begin_inset Quotes frd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -22021,6 +22043,42 @@ Lettres
 \end_inset
 
 .
+ Certains possédaient des gemmes sculptées pour représenter des divinités
+ ou des scènes mythologiques, y compris homériques
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Voir sur celles-ci l'étude de S.
+ Toso: Toso 2006, p.
+ 249-251.
+\end_layout
+
+\end_inset
+
+.
+ Les statues étaient soumises à des modes, ainsi qu'en témoignent le grand
+ nombre de copies des types de Polyclète, Lysippe, Praxitèle ou d'autres
+ sculpteurs qui pouvaient circuler dans tout l'Empire: les personnages d'Homère
+ n'échappaient pas à cette règle, ainsi qu'en témoignent les nombreuses
+ copies du groupe du Pasquino
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+On a parfois voulu faire de Diomède un objet de cette mode, à la fin de
+ la République et à l'époque d'Auguste.
+ Si le héros est en effet présent sur un certain nombre de gemmes et d'intailles
+, il est cependant pour ainsi dire absent de la peinture et les statues
+ qui sont censées le représenter, des nus héroïques portant un baudrier,
+ sont au mieux d'identification douteuse, comme le Diomède de Cumes conservé
+ au musée de Naples (144978) ou le buste qui se trouve à l'Antiquarium du
+ Palatin (12462).
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -22299,9 +22357,10 @@ kalathos
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename base-de-donnees/sculptures-objets/hoby.jpg
 	width 50text%
@@ -22312,6 +22371,7 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Caption
 
 \begin_layout Plain Layout
@@ -23070,7 +23130,33 @@ turma Alexandri
 \emph default
  (les statues équestres, sculptées par Lysippe, des vingt-quatre compagnons
  d’Alexandre morts à la bataille du Granique), et la statue en bronze de
- Cornélie, mère des Gracques.
+ Cornélie, mère des Gracques; au III
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ s., Philostrate décrira ce genre de collection rassemblée sous un portique
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Dans les 
+\emph on
+Imagines
+\emph default
+: parmi les tableaux à thème homérique décrits par Philostrate, Memnon,
+ Cassandre à la mort d'Agamemnon, la mort d'Ajax le Locrien, le duel entre
+ le Scamandre et Héphaïstos, la mort d'Antiloque, pleuré par les Achéens;
+ Philostrate le Jeune évoque également un Achille à Skyros.
+\end_layout
+
+\end_inset
+
+.
  Pour prendre un autre exemple plus au centre de Rome, le forum d’Auguste
  était décoré d’une série de statues de personnages importants de l’histoire
  de Rome, parmi lesquels, dans les exèdres, les groupes monumentaux de Romulus
@@ -26542,25 +26628,35 @@ et périra le serpent
  (v.
  24).
  On a fait toutes sortes d'hypothèses sur l'identité de cet enfant, allant
- jusqu'à en faire le Messie d'une religion révélée; mais Virgile ne le présente
- en rien comme un sauveur.
- L'enfant (fils de Pollion né en -40 ou autre) est le témoin de cette renaissanc
-e, qu'on peut donc aisément placer du temps de Virgile et d'Auguste
+ jusqu'à en faire un sauveur mystique d'une religion orientale, ou parfois
+ Auguste lui-même
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Pour un rappel de ces théories, voir Carcopino 1930, p.
+ 17-23.
+\end_layout
+
+\end_inset
+
+; mais Virgile ne le présente en rien comme un sauveur.
+ L'enfant (dont J? Carcopino lui-même fait le fils de Pollion né en -40
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
 Carcopino 1930, p.
- 23 et p.
- 191.
+ 187-191.
 \end_layout
 
 \end_inset
 
-, renaissance et paix amplement méritées après des siècles de guerre que
- Virgile lie explicitement à l'ascendance troyenne du peuple romain, à commencer
- par le parjure de Laomédon auprès de Poséidon et d'Apollon, qu'il estime
- suffisamment vengé
+) est le témoin de cette renaissance, qu'on peut donc aisément placer du
+ temps de Virgile et d'Auguste, renaissance et paix amplement méritées après
+ des siècles de guerre que Virgile lie explicitement à l'ascendance troyenne
+ du peuple romain, à commencer par le parjure de Laomédon auprès de Poséidon
+ et d'Apollon, qu'il estime suffisamment vengé
 \begin_inset Foot
 status collapsed
 
@@ -38966,7 +39062,13 @@ Ces liens privilégiés avec Rome et la maison impériale elle-même ne pouvaien
  manquer de susciter, là aussi, des ambitions, et peut-être la volonté de
  marquer son adhésion avec le régime en place afin d'améliorer son entregent
  à Pompéi même.
- C'est ainsi que selon D.
+ C'est ainsi que l'histoire de Romulus et Rémus figurait dans un grand tableau
+ peint au mur du triclinium 
+\emph on
+R
+\emph default
+ de la maison de M.
+ Fabius Secundus (V, 4, 13) ou que selon D.
  Esposito
 \begin_inset Foot
 status collapsed
