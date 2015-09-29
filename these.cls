@@ -11,8 +11,10 @@
 %% Fonts
 \RequirePackage[final,tracking=true]{microtype}
 
-\RequirePackage{etoolbox}
-\AtBeginEnvironment{quotation}{\small}
+%\RequirePackage{etoolbox}
+%\AtBeginEnvironment{quotation}{\small}
+\let\quotetemp\quotation
+\def\quotation{\quotetemp\small}
 
 %% Others
 \RequirePackage[francais]{babel}
