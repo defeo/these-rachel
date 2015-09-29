@@ -5,7 +5,6 @@
 \textclass these
 \begin_preamble
 \usepackage{hyphenations}
-\usepackage[authoryear]{natbib}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -40979,11 +40978,9 @@ Urbs
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-btprint "btPrintAll"
-bibfiles "bibliothese"
-options "bibtotoc,these"
+\begin_inset CommandInset include
+LatexCommand input
+filename "bibliography.tex"
 
 \end_inset
 

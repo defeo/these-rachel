@@ -65,9 +65,12 @@
 \renewcommand\cftpartaftersnum{.}
 \renewcommand{\cftchapterleader}{\hfill}
 %\renewcommand\partnumberlinebox[2]{#2}
-\nobibintoc % LyX fix
 
 %% Bibliography
+\RequirePackage[authoryear]{natbib}
+\RequirePackage{multibib}
+\newcites{antiques,modernes}{Auteurs antiques,Auteurs modernes}
+\renewcommand{\@memb@bchap}{\section*{\bibname}\prebibhook}
 \renewcommand{\prebibhook}{\small}
 
 %% Helping pagination 

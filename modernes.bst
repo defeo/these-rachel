@@ -1,4 +1,4 @@
-%% THESE.BST   Version 0.1   2015-09-27
+%% MODERNES.BST   Version 0.1   2015-09-27
 %% Derived from dinat.bst
 %% (c) Luca De Feo  github: @defeo
 %%------------------------------------------------------------------------------
@@ -1897,7 +1897,7 @@ FUNCTION {begin.bib}
   "\begin{thebibliography}{" label.count int.to.str$ * "}" *
   write$ 
   newline$
-  "% this bibliography was produced with the style these.bst v0.1"
+  "% this bibliography was produced with the style modernes.bst v0.1"
   write$ 
   newline$
   "\makeatletter"
