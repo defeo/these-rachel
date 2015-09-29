@@ -16,7 +16,8 @@
 
 %% Others
 \RequirePackage[francais]{babel}
-
+\RequirePackage[hidelinks]{hyperref}
+\RequirePackage{bookmark}
 
 %%%%%%%%%%%%%% Style
 % \settypeblocksize{*}{31pc}{1.75}
@@ -35,21 +36,40 @@
 %% Divisions style
 \setsecnumdepth{subsection}
 \renewcommand*{\beforepartskip}{\cleardoublepage\null\vfil}
-\renewcommand*{\afterpartskip}{\vfil\newpage\setcounter{chapter}{0}\null\newpage}
+\renewcommand*{\afterpartskip}{\vfil\newpage%
+  \setcounter{chapter}{0}%
+  \renewcommand{\theHchapter}{\thepart.\thechapter}%
+  \null\newpage}
 
 \makechapterstyle{these}{
   \chapterstyle{default}
-  \chapterstyle{article}%
+  \chapterstyle{article}%  
+  \settowidth{\chapindent}{\chapnumfont 999}
   \renewcommand*{\thechapter}{\Roman{chapter}}
-  \renewcommand*{\printchapternum}{% center number/title
-    \chapnumfont \thechapter\space\space}%
-  \renewcommand*{\printchapternonum}{\centering}
+  \renewcommand*{\printchapternum}{\@hangfrom{\chapnumfont \thechapter.\quad}}
+  \renewcommand*{\printchapternonum}{}
   \renewcommand*{\clearforchapter}{}% no new page
 }
 \chapterstyle{these}
 
+\renewcommand*{\thepart}{\arabic{part}}
 \setsecheadstyle{\bfseries\large}
 \renewcommand*{\thesection}{\arabic{section}}
 \setsubsecheadstyle{\bfseries\normalsize}
 \renewcommand*{\thesubsection}{\Alph{subsection}}
+\setsecnumformat{\csname the#1\endcsname.\quad}
 
+
+%% TOC style
+\renewcommand*{\cftpartname}{Partie }
+\renewcommand\cftpartaftersnum{.}
+\renewcommand{\cftchapterleader}{\hfill}
+%\renewcommand\partnumberlinebox[2]{#2}
+\nobibintoc % LyX fix
+
+%% Bibliography
+\renewcommand{\prebibhook}{\small}
+
+%% Helping pagination 
+%\raggedbottom
+\midsloppy
