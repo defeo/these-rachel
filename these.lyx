@@ -3863,27 +3863,26 @@ Contre Ctésiphon
 \begin_inset Quotes fld
 \end_inset
 
-C'est d'ici que jadis le vaillant Ménesthée  
-\end_layout
+C'est d'ici que jadis le vaillant Ménesthée
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Verse
-Suivit aux champs Troyens les braves fils d'Atrée.  
-\end_layout
+Suivit aux champs Troyens les braves fils d'Atrée.
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Verse
-Si l'on en croit Homère, il était au combat  
-\end_layout
+Si l'on en croit Homère, il était au combat
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Verse
 Habile capitaine, intrépide soldat.
- 
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Verse
-La science guerrière, et l'ardeur du courage,  
-\end_layout
+La science guerrière, et l'ardeur du courage,
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Verse
 Du peuple Athénien fut toujours le partage.
 \begin_inset Quotes frd
 \end_inset
@@ -10088,8 +10087,12 @@ Typologie iconographique des héros homériques à Rome
 
 \begin_layout Standard
 Les héros homériques ne connaissent pas tous à Rome la même faveur.
- S’il n’est a priori pas étonnant que les héros principaux des deux livres
- d’Homère, Achille pour l’
+ S’il n’est 
+\emph on
+a priori
+\emph default
+ pas étonnant que les héros principaux des deux livres d’Homère, Achille
+ pour l’
 \emph on
 Iliade
 \emph default
@@ -10342,7 +10345,7 @@ Iliade
  il commande.
  Quant à l’autre décor représentant Achille qui envoie Briséis à Agamemnon,
  il fait lui aussi partie d’un ensemble cohérent illustrant les débuts de
- la Guerre de Troie.
+ la guerre de Troie.
  Le visiteur qui pénètre dans l’
 \emph on
 atrium
@@ -10408,7 +10411,7 @@ Achille tirant l'épée contre Agamemnon: maison des Dioscures et maison d'Apoll
 
 \begin_layout Standard
 Nous avons donc affaire, dans les deux cas, à un ensemble cohérent illustrant
- les débuts de la Guerre de Troie.
+ les débuts de la guerre de Troie.
  Achille n’est pas ici qu’une illustration de guerrier, il est pensé dans
  son contexte littéraire –-
 \begin_inset space ~
@@ -10419,10 +10422,10 @@ ou historique
 \end_inset
 
 --, dont les actions sont le facteur de déclenchement d’une série d’événements
- influant sur le déroulement de la Guerre de Troie.
+ influant sur le déroulement de la guerre de Troie.
  Enfin, la mosaïque représentant Achille tirant l’épée contre Agamemnon
  fait elle aussi partie d’un ensemble, cette fois centré sur la figure d’Achille
- elle-même: le mur extérieur du 
+ lui-même: le mur extérieur du 
 \emph on
 cubiculum
 \emph default
@@ -10511,8 +10514,8 @@ Le combat contre Hector
 
 \begin_layout Standard
 Le décor de la maison du laraire d’Achille (I, 6, 4, annexes p.
- 12) est totalement différent des peintures que nous venons d’étudier, à
- la fois dans l’interprétation du sujet et dans la réalisation artistique.
+ 12) est très différent des peintures que nous venons d’étudier, à la fois
+ dans l’interprétation du sujet et dans la réalisation artistique.
  Il s’agit en fait d’une frise de stuc sur fond bleu représentant le combat
  entre Achille et Hector, sous un plafond en voûte dont les caissons à teinte
  dominante rouge montrent des motifs animaux, végétaux, des Amours.
@@ -10635,19 +10638,30 @@ Pesando - Guidobaldi 2006, p.
 \end_inset
 
 .
- On a retrouvé une scène identique sur un tondo de marbre
+ On a retrouvé une scène identique sur un 
+\emph on
+tondo
+\emph default
+ de marbre
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Ercolano, deposito archeologico, Inv.
+Ercolano, 
+\emph on
+Deposito archeologico
+\emph default
+, Inv.
  2219/77515.
 \end_layout
 
 \end_inset
 
-, trouvé en 1960 à l'extrémité nord du cardo III et provenant peut-être
- de la basilique Nonienne.
+, trouvé en 1960 à l'extrémité nord du 
+\emph on
+cardo
+\emph default
+ III et provenant peut-être de la basilique Nonienne.
 \end_layout
 
 \begin_layout Standard
@@ -10769,7 +10783,7 @@ Cela est vrai aussi dans le monde romain, où des statues imitant le Doryphore
 \end_inset
 
 On se plut aussi à représenter des figures nues tenant une lance, sur le
- modèle des éphèbes des gymnases; on les appelle Achilléennes.
+ modèle des éphèbes des gymnases; on les appelle achilléennes.
  L’usage grec est de ne rien voiler, au contraire l’usage romain et militaire
  est de mettre une cuirasse [aux statues]
 \begin_inset Quotes frd
@@ -10787,7 +10801,7 @@ Pline, XXXIV, 10.
 
 .
  La phrase de Pline ne suffit évidemment pas à prétendre que toute statue
- imitant le Doryphore représente Achille; l'épithète 
+ imitant le Doryphore représente Achille; l'adjectif 
 \begin_inset Quotes fld
 \end_inset
 
@@ -10820,7 +10834,16 @@ status collapsed
 
 \begin_layout Plain Layout
 Il existe d'autres versions de ce groupe statuaire, généralement datées
- aux alentours du Ier s.
+ aux alentours du I
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+er
+\end_layout
+
+\end_inset
+
+ s.
  av.
  J.-C., celle du Parione à Rome (qui donne son nom aux autres) et celle de
  Florence étant les plus connues; on les interprète généralement comme représent
@@ -10929,7 +10952,7 @@ Ibid.
 \end_inset
 
 .
- Sur les dix-sept décors concernant Achille retrouvés à Pompéi, six le représent
+ Sur les dix-huit décors concernant Achille retrouvés à Pompéi, six le représent
 ent à Skyros et trois avec Chiron, ce qui signifie que la moitié des décors
  concernent la période de sa vie qui précède sa prise des armes et son existence
  de combattant au pied de Troie.
@@ -11217,9 +11240,10 @@ Mosaïque d'Achille à Skyros, maison d'Apollon (VI, 7, 23, annexes p.
 \end_layout
 
 \begin_layout Standard
-La position est la même dans ces deux détails tirés des peintures de la
- Maison d'Apollon et de la Maison d'Achille, curieusement placés en abyme
- sur les boucliers au centre de décors représentant Achille à Skyros.
+La position est la même dans deux détails tirés des peintures de la Maison
+ d'Apollon et de la Maison d'Achille, où Achille enfant et Chiron sont curieusem
+ent placés en abyme sur les boucliers au centre de décors représentant Achille
+ à Skyros.
  Dans la mégalographie de la mort d’Adonis en revanche, la représentation
  est différente: Achille se tient sur la droite du centaure et s’appuie
  sur son épaule.
@@ -11570,7 +11594,7 @@ Il ne faut pas manquer de se pencher sur un thème particulier des aventures
  d’Ulysse, ne serait-ce que pour son importance iconographique: celui des
  retrouvailles avec Pénélope.
  Il ne s’agit pas ici de simplement représenter encore un couple mythologique
- identifiable au moyen d’ attributs physiques.
+ identifiable au moyen d’attributs physiques.
  Pénélope est une figure importante de la mythologie grecque, en ce qu’elle
  ne commet aucun crime, il ne lui arrive rien ou presque, si ce n’est qu’on
  veut l’épouser.
@@ -11590,13 +11614,13 @@ Il ne faut pas manquer de se pencher sur un thème particulier des aventures
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
 	filename base-de-donnees/images-partieI/penelope.jpg
-	width 80text%
+	width 100text%
 
 \end_inset
 
@@ -11628,12 +11652,12 @@ Retrouvailles d'Ulysse et Pénélope: maison des cinq Squelettes (VI, 10,
 \end_layout
 
 \begin_layout Standard
-Dans ces deux peintures pompéiennes, Pénélope reçoit un traitement stylistique
- différent mais la même posture et les mêmes caractéristiques physiques:
- sagement vêtue d’une longue robe et coiffée d’un chignon, au contraire
- d’une Hélène qu’on trouve constamment dévêtue, debout, elle domine de sa
- taille Ulysse assis et le considère avec le poing sous le menton, signe
- de réflexion ou d'émotion
+Dans les deux peintures pompéiennes où elle est présente, Pénélope reçoit
+ un traitement stylistique différent mais la même posture et les mêmes caractéri
+stiques physiques: sagement vêtue d’une longue robe et coiffée d’un chignon,
+ au contraire d’une Hélène qu’on trouve constamment dévêtue, debout, elle
+ domine de sa taille Ulysse assis et le considère avec le poing sous le
+ menton, signe de réflexion ou d'émotion
 \begin_inset Foot
 status collapsed
 
@@ -11760,7 +11784,7 @@ tions artistiques est peut-être tout simplement l’incroyable multiplicité
  Contrairement à Hercule avec sa peau de lion et son arc, ou à d’autres
  héros, toujours porteurs d’une cuirasse et d’un armement lourd, le paradoxe
  proposé par Ulysse est qu’il n’est pas reconnaissable à un seul attribut
- (si ce n’est éventuellement le bonnet phrygien, qu’il ne porte pas toujours),
+ (si ce n’est éventuellement le bonnet conique, qu’il ne porte pas toujours),
  mais justement à la multiplicité des situations, chacune s’identifiant
  aux yeux du spectateur de l’œuvre par des caractéristiques liées au récit:
  Ulysse n’est pas une image figée, il est un héros continuellement ancré
@@ -11807,7 +11831,7 @@ acculturation
  à l’origine de peintures telles que celles de deuxième style qui décorent
  une maison de l’Esquilin et mettent en scène les aventures d’Ulysse sur
  la côte italienne avec pour fond des décors qui ressemblent fort aux paysages
- de la baie de Naples.
+ de la baie de Naples (annexes p.).
  Les raisons de la popularité d’Ulysse sont donc multiples.
  Héros sage et persévérant, il est pour tous ceux qui entreprennent un voyage
  ou qui tout simplement affrontent l’existence un modèle à suivre.
@@ -11832,13 +11856,17 @@ Ulysse et les grottes
 Le cas d’Ulysse dans les décors romains offre une particularité en ce qu’il
  lui arrive d’être représenté dans des mises en scène grandeur nature.
  Nous ne parlons pas ici de simples motifs statuaires, mais de réelles reproduct
-ions in situ, dans un décor approprié, des épisodes de l’
+ions 
+\emph on
+in situ
+\emph default
+, dans un décor approprié, des épisodes de l’
 \emph on
 Odyssée
 \emph default
 , et plus particulièrement celui de la rencontre avec Polyphème.
  Le goût des Anciens pour les grottes en tant qu'écrin d’un épisode mythologique
- n’est pas récent: Henri Lavagne
+ n’est pas une invention romaine: Henri Lavagne
 \begin_inset Foot
 status collapsed
 
