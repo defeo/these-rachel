@@ -117,8 +117,8 @@ FUNCTION {push.isbn}      { "ISBN" }
 FUNCTION {push.issn}      { "ISSN" }
 FUNCTION {push.kap}       { "Kap." }
 FUNCTION {push.nr}        { "Nr." }
-FUNCTION {push.sn}        { "S" }
-FUNCTION {push.s}         { "S." }
+FUNCTION {push.sn}        { "p." }
+FUNCTION {push.s}         { "pp." }
 FUNCTION {push.siehe}     { "Siehe" }
 FUNCTION {push.ua}        { "et al." }
 FUNCTION {push.und}       { "et" }
