@@ -72,6 +72,22 @@ LatexCommand tableofcontents
 
 \end_layout
 
+\begin_layout Chapter*
+Remerciements
+\end_layout
+
+\begin_layout Standard
+Blabla de remerciement
+\end_layout
+
+\begin_layout Chapter*
+Introduction
+\end_layout
+
+\begin_layout Standard
+Blabla d'introduction.
+\end_layout
+
 \begin_layout Part
 D'Homère à Rome - cheminements et transformations des sources
 \end_layout
@@ -27802,8 +27818,8 @@ Coinage of the Roman Republic Online
  une de -82, montrant Ulysse avec Argos; les onze monnaies sont émises par
  les Mamilii.
  Il ne semble pas qu'aucune autre famille ait utilisé de type comportant
- ce personnage, qui servait donc bel et bien de signature, identifiée par
- tous, aux magistrats monétaires de la famille.
+ ce personnage, qui servait donc bel et bien de signature identifiée par
+ tous aux magistrats monétaires de la famille.
  La gens Mamilia semble perdre en importance par la suite.
  Ulysse a donc bien constitué pour la famille Mamilia un motif de fierté
  légitime.
@@ -27896,7 +27912,11 @@ gens
 \emph default
  dont on est issu: c'est elle qui donne droit aux prérogatives religieuses,
  politiques; on est élu consul parce qu'on est noble, on est chargé du culte
- de Jupiter parce que les ancêtres de la famille l'étaient.
+ de Jupiter parce que les ancêtres de la famille l'étaient; les 
+\emph on
+homines novi
+\emph default
+ (Cicéron, Marius) sont rares.
  Dans ces conditions, il n'est pas étonnant de voir ceux qui occupent le
  devant de la scène chercher à rehausser le prestige familial.
  À partir de la guerre civile, le phénomène s'accentue, et ceux des hommes
@@ -28120,16 +28140,18 @@ princeps
  Jeune, et celui de sa sœur Aemilia Lepida avec Domitius Ahenobarbus, et
  père de L.
  Aemilius Paullus, époux de Julia, la petite-fille d'Auguste.
- Si la construction de la première basilique remonte au milieu du II
-\begin_inset script superscript
+ Si la construction de la première basilique remonte donc à -179
+\begin_inset Foot
+status collapsed
 
 \begin_layout Plain Layout
-e
+Ou en tout cas sa reconstruction comme Basilica Paulli, succédant à la basilique
+ Fulvia.
 \end_layout
 
 \end_inset
 
- s., et la première restauration à l'époque syllanienne, il n'y a cependant
+, et la première restauration à l'époque syllanienne, il n'y a cependant
  pas de consensus sur la datation des décors: lors de la construction, de
  la restauration de -78, de celle augustéenne après l'incendie de 14, ou
  plus tardivement (il y eut des restaurations sous Tibère, Néron, Trajan).
@@ -28265,8 +28287,12 @@ princeps
  République: la basilique Aemilia, c'est-à-dire, de toutes les basiliques
  du vieux forum, la plus proche à la fois du Sénat et de la Via Sacra, ce
  qui devait lui conférer un caractère d'autorité politique autant que religieuse
-, et des nouveaux fora construits par César et Auguste, ce qui renforcera
- encore la puissance des Aemilii et leur place dans la nouvelle donne politique.
+, et des nouveaux 
+\emph on
+fora
+\emph default
+ construits par César et Auguste, ce qui renforcera encore la puissance
+ des Aemilii et leur place dans la nouvelle donne politique.
 \end_layout
 
 \begin_layout Paragraph
@@ -28299,7 +28325,7 @@ Ainsi, la famille Annia, en revendiquant pour ancêtre Anna Perenna (monnaies
  ou des compagnons d’Énée: les Memmii, par exemple, se réclamaient de Mnesthée,
  descendant d'Assaracus; les Cloelii, noble famille albaine, s'inventèrent
  également un Clolius, s'il faut en croire Festus; les Geganii et les Sergii
- de Gyas et Sergestus, compagnons d’Énée chez Virgile, et les Nautii de
+ de Gyas et Sergestous, compagnons d’Énée chez Virgile, et les Nautii de
  Nautès, qui aurait reçu le Palladium des mains de Diomède
 \begin_inset Foot
 status collapsed
@@ -28933,9 +28959,9 @@ dilectus Iulo
 ) (v.
  568-569).
  L'intention est ici évidente: rehausser le prestige de la famille maternelle
- d'Auguste, d'origine plébéienne et jusqu'alors assez obscure dans les instituti
-ons de la République, et ancrer dans un passé mythologique l'alliance des
- Atii et des Iulii, qui culmine ainsi parfaitement dans la personne du 
+ d'Auguste, d'origine plébéienne et jusqu'alors assez obscure dans l'histoire
+ de la République, et ancrer dans un passé mythologique l'alliance des Atii
+ et des Iulii, qui culmine ainsi parfaitement dans la personne du 
 \emph on
 princeps
 \emph default
@@ -29441,8 +29467,23 @@ ad Att.
  Les Troyens sont tout à coup bien présents dans la vie publique romaine,
  au travers de leurs ancêtres supposés, et c'est leur opinion qui fait et
  défait le pouvoir, quand leurs derniers représentants siègent au Sénat.
- La même idée est employée ailleurs d'une façon légèrement différente: (Att.
- VII, 1) 
+ La même idée est employée ailleurs d'une façon légèrement différente
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Ad.
+ Att.
+
+\emph default
+ VII, 1.
+\end_layout
+
+\end_inset
+
+: 
 \begin_inset Quotes fld
 \end_inset
 
@@ -30091,14 +30132,13 @@ Si les théâtres ne sont véritablement devenus un élément du paysage urbain
 \emph on
 forum
 \emph default
-, et plus encore le 
+ et plus encore le 
 \emph on
 comitium
 \emph default
-, cet espace circulaire similaire au théâtre dans sa forme, sont le lieu
- par essence où les hommes politiques et les citoyens vont se mettre en
- scène, s'interpeller, se donner la réplique, se construire un personnage
- public.
+ sont le lieu par essence où les hommes politiques et les citoyens vont
+ se mettre en scène, s'interpeller, se donner la réplique, se construire
+ un personnage public.
  Le thème de la vie comme théâtre, populaire à Rome et dans les cités vésuvienne
 s, abondamment cité par les poètes, par Cicéron, ou encore par Auguste mourant,
  ne pouvait manquer de susciter l'identification des politiciens aux personnages
@@ -30745,13 +30785,13 @@ Varron (
 \emph on
 De lingua latina
 \emph default
-, V, 62) donne à Victrix l'étymologie 
+, V, 62) lie le nom de Vénus Victrix au mot 
 \begin_inset Quotes fld
 \end_inset
 
 
 \emph on
-uincere
+uincire
 \emph default
 
 \begin_inset Quotes frd
@@ -31026,8 +31066,8 @@ Guerres Puniques
 
 \end_inset
 
-; Octavien évoquant devant Atia aux funérailles de César les mots d'Achille
- à Thétis au sujet de la mort de Patrocle
+; Octavien évoquant devant Atia à la cérémonie commémorant les funérailles
+ de César les mots d'Achille à Thétis au sujet de la mort de Patrocle
 \begin_inset Foot
 status collapsed
 
@@ -32265,8 +32305,8 @@ Par exemple RRC 477/1a.
 
 \end_inset
 
-, indique la filiation revendiquée avec Énée, car Sextus Pompée se veut
- pieux, et en fait un thème de propagande.
+, indique une référence très claire à Énée, car Sextus Pompée se veut lui
+ aussi pieux à l'égard de son père, et en fait un thème de propagande.
  L’image de Neptune casqué sur le phare de Messine, quant à elle, met en
  scène Pompée Magnus, en rappelant la tradition pompéienne de victoire navale
  et en faisant de Sextus le fils de Neptune.
@@ -34872,7 +34912,7 @@ I, v.
 .
  Aussi ce manque de piété apparent est-il finalement expliqué et racheté,
  comme la cruauté d'Octavien dans les guerres civiles et les proscriptions
- est effacée par l'apparence d'un destin plus important en tant qu'Auguste
+ est apparemment effacée par un destin plus important en tant qu'Auguste
 \begin_inset Foot
 status collapsed
 
@@ -35052,7 +35092,7 @@ ement.
  promise à Turnus, et c'est le fruit de leur union, Silvius, qui régnera
  sur Lavinium, plutôt que Iule, fils d’Énée né d'un précédent mariage; de
  la même façon, Auguste épouse Livie, alors qu'elle était déjà mariée à
- Claudius Nero, et c'est sur ses fils, Drusus et Tibère, que l'on compte
+ Claudius Nero, et c'est sur ses fils, Tibère et Drusus, que l'on compte
  pour assurer la continuité dynastique, plutôt que sur Julia, fille unique
  née d'un précédent mariage (les deux fils de celle-ci, Lucius et Caius,
  dont le second était à peine né au moment de la mort de Virgile et le second
@@ -35068,7 +35108,7 @@ Iliade
 , elle devait également rappeler aux Romains la guerre civile qui venait
  de se terminer, assurant ainsi une continuité épique entre Homère et le
  temps présent, tout en excluant les éléments les plus traumatisants de
- l'Histoire récente: une reine orientale, oui, mais que l'on abandonne pour
+ l'histoire récente: une reine orientale, oui, mais que l'on abandonne pour
  satisfaire à la piété et aux impératifs de la patrie; des batailles, oui,
  mais pas de proscriptions.
  Virgile réécrit l'Histoire pour donner au peuple romain un héros troyen
@@ -35081,7 +35121,7 @@ Iliade
 \emph on
 Iliade
 \emph default
- comme dans l'Histoire récente et assure la continuité temporelle: Énée
+ comme dans l'histoire récente et assure la continuité temporelle: Énée
  contre Turnus, c'est Achille contre Hector, c'est aussi Octavien contre
  Antoine, quoique avec des moyens militaires différents
 \begin_inset Foot
@@ -35223,7 +35263,7 @@ In fine
  ainsi que l'étaient Achille ou Ajax, qui recevaient un culte dans leurs
  
 \emph on
-héroôns
+héroa
 \emph default
  troyens.
  Virgile invoque la future divinité à plusieurs reprises, comme dans les
@@ -35317,8 +35357,8 @@ Géorgique
 \emph on
 Géorgiques
 \emph default
- prend d'ailleurs prétexte d'une invocation aux Muses pour évoquer le futur
- culte rendu à Auguste divinisé: 
+ prend d'ailleurs prétexte d'une invocation aux Muses pour évoquer le culte
+ que le poète compte rendre plus tard à Auguste divinisé: 
 \begin_inset Quotes fld
 \end_inset
 
@@ -35415,7 +35455,7 @@ Auguste, Énée, et l'imagerie troyenne
 \begin_layout Standard
 En 33, lors de la procession funéraire de Drusus, tout comme on l'avait
  fait en 19 pour celle de Germanicus, on promena les images des illustres
- ancêtres du régime: celles d’Énée, des rois albains, de Romulus, d'Attus
+ ancêtres de la dynastie: celles d’Énée, des rois albains, de Romulus, d'Attus
  Clausus et des Claudii célèbres
 \begin_inset Foot
 status collapsed
@@ -35431,9 +35471,10 @@ Annales
 \end_inset
 
 .
- L'idée de l'origine troyenne du régime était alors acquise; le texte de
- Virgile était tenu, sinon pour être une œuvre d'historien, du moins pour
- s'appuyer sur des événements qui étaient maintenant considérés comme officiels.
+ L'idée de l'origine troyenne de la famille julienne était alors acquise;
+ le texte de Virgile était tenu, sinon pour être une œuvre d'historien,
+ du moins pour s'appuyer sur des événements qui étaient maintenant considérés
+ comme officiels.
  Les Romains croyaient-ils véritablement à l'histoire officielle des Iulii?
  Il est permis de se le demander; Auguste avait du moins tout fait pour
  attacher l'image d’Énée à celle de sa personne.
@@ -35551,7 +35592,11 @@ Augustus
 \emph default
 , et c'est Énée qui prévaut; Romulus reste cependant présent dans l'idéologie
  du régime, toujours en vis-à-vis d’Énée dont il n'est que le complément,
- ainsi dans les représentations de l'Ara Pacis ou du forum d'Auguste
+ ainsi dans les représentations de l'
+\emph on
+Ara Pacis
+\emph default
+ ou du forum d'Auguste
 \begin_inset Foot
 status collapsed
 
@@ -35801,7 +35846,7 @@ Aeneas Latinus Rex Regnavit
 \end_inset
 
  (FA1197) a été conservée, et qui a été copiée de nombreuses fois dans l'Empire,
- en particulier sur le forum de Merida
+ en particulier sur l'une des places publiques de Merida
 \begin_inset Foot
 status collapsed
 
@@ -35849,8 +35894,8 @@ gens Augusta
 \end_layout
 
 \begin_layout Standard
-Les divins géniteurs d’Énée et de Romulus, Vénus et Mars, sont représentés
- au fronton du temple, reproduisant ce parallélisme
+Les divins géniteurs d’Énée et de Romulus, Vénus et Mars, sont présents
+ dans le temple, reproduisant ce parallélisme
 \begin_inset Foot
 status collapsed
 
@@ -35915,9 +35960,9 @@ Atnally Conlin 1997, p.
 \end_inset
 
 , montrait, pour les deux reliefs visibles dans la partie supérieure lorsque
- l'on fait face au monument représentent, à gauche, Romulus et Rémus tétant
- la louve sous la surveillance de Mars, et à droite, Énée sacrifiant la
- truie sur le site de la future Lavinium en présence des Pénates.
+ l'on fait face au monument représentent, à gauche, sans doute l'histoire
+ de Romulus et Rémus, dont a survécu une partie de Mars, et à droite, Énée
+ sacrifiant la truie sur le site de la future Lavinium en présence des Pénates.
  L'iconographie est ici très différente de celle du forum d'Auguste, puisque
  Romulus est représenté en nourrisson inoffensif, et non en chef de guerre
  victorieux, et Énée en sacrifiant, la tête couverte à la romaine, plutôt
@@ -35934,7 +35979,7 @@ Mars d'un côté, les dieux à qui Énée sacrifie de l'autre
 
 --, dieux dont le principal serviteur et messager est le grand pontife,
  Auguste lui-même, représenté au milieu du relief sud, dans la procession
- de dédicace de l'autel.
+ de -13, au moment où fut décidé le monument.
  L'idée de la paix au sein d'un âge d'or florissant est accentuée par la
  frise de l'étage inférieur, composée d'acanthe, végétal apollinien
 \begin_inset Foot
@@ -36252,11 +36297,12 @@ Felix
 \begin_layout Standard
 Apollon n'est certes pas le seul dieu à intervenir dans la vie du fondateur
  du nouveau régime.
- Il avait fait construire ou reconstruire divers temples: le temple de Vénus
- Genetrix, qu'il fait terminer sur le forum de son père adoptif, le temple
- de Mars Ultor, sur son propre forum, le temple d'Apollon Palatin, mais
- aussi un temple de Vesta et un temple de Cybèle, toujours sur le Palatin,
- ou encore un temple de Jupiter Feretrius sur le Capitole.
+ Il avait fait construire ou reconstruire plus de quatre-vingt temples:
+ entre autres, le temple de Vénus Genetrix, qu'il fait terminer sur le forum
+ de son père adoptif, le temple de Mars Ultor, sur son propre forum, le
+ temple d'Apollon Palatin, mais aussi un temple de Vesta et un temple de
+ Cybèle, toujours sur le Palatin, ou encore un temple de Jupiter Feretrius
+ sur le Capitole.
  Le temple de Mars, comme celui d'Apollon Palatin, semble avoir revêtu une
  importance singulière: le Sénat devait y délibérer sur les guerres et les
  triomphes, c'était le point de départ des magistrats se rendant en province
@@ -36716,7 +36762,7 @@ e
  s'assimiler, il avait conservé, à la différence de sa sœur Artémis/Diane,
  son nom grec.
  Le premier temple à lui avoir été consacré fut, en -433, celui qui se trouvait
- près du cirque Flaminius, en dehors des murs de Rome, pour solliciter l'aide
+ sur le Champ de Mars, en dehors des murs de Rome, pour solliciter l'aide
  du dieu guérisseur contre une épidémie
 \begin_inset Foot
 status collapsed
@@ -36808,8 +36854,8 @@ Le temple d'Apollon Palatin supplanta le temple d'Apollon Sosien en termes
 princeps
 \emph default
  une importance personnelle.
- De la même façon que Jules César divinisé était honoré sur le forum en
- compagnie de Mars et Vénus, Octavius, le père de l'empereur, était associé
+ De la même façon que Jules César divinisé était honoré sur le nouveau forum
+ en compagnie de Mars et Vénus, Octavius, le père de l'empereur, était associé
  à Apollon et Diane sur le Palatin, sous la forme d'un quadrige attribué
  par Pline à Lysias et placé au sommet d'un arc commémoratif
 \begin_inset Foot
@@ -36895,10 +36941,8 @@ Properce, II, 31.
 \begin_layout Standard
 Parmi les éléments de décor, les Danaïdes du portique sont celles qui ont
  fait couler le plus d'encre.
- Si l'on considère que les canéphores en marbre noir, aujourd'hui exposées
- à l'antiquarium du Palatin, en font très vraisemblablement partie, leur
- fonction reste incertaine: élément de décor placé dans des niches, ou éléments
- architectoniques servant à soutenir le second ordre du portique
+ Leur fonction reste incertaine: élément de décor placé dans des niches,
+ ou éléments architectoniques servant à soutenir le second ordre du portique
 \begin_inset Foot
 status collapsed
 
@@ -37015,9 +37059,9 @@ Sauron 1993, p.
 
 .
  Les mêmes thématiques se retrouvent sur les lastres en terre cuite qui
- décoraient le temple, et dont certains représentent des Canéphores à l'aspect
- similaire aux statues supposées être celles des Danaïdes, et qui figurent
- également la lutte entre Hercule et Apollon pour le trépied delphique
+ décoraient le temple, dont certains représentent des Canéphores -- symbole
+ de piété --, et qui figurent également la lutte entre Hercule et Apollon
+ pour le trépied delphique
 \begin_inset Foot
 status collapsed
 
@@ -37046,13 +37090,18 @@ Plutarque, Vie d'Antoine, III ,3; Zanker 2007, p.
 \end_inset
 
 .
- Cléopâtre est elle aussi présente sur certaines de ces plaques de terre
- cuite, encadrée par des sphinx.
+ Une divinité égyptienne est elle aussi présente sur certaines de ces plaques
+ de terre cuite, encadrée par des sphinx, rappelant la guerre récente contre
+ l'Égypte.
  Il est donc logique de penser que les Danaïdes étaient elles aussi présentes
  pour symboliser, d'une certaine façon, l'impiété punie par les dieux.
  Le meurtre de leurs cinquante cousins participe de cette définition étendue
- que les Romains accordaient au concept de pietas : le respect envers les
- dieux, mais également le respect envers les membres de la famille.
+ que les Romains accordaient au concept de 
+\emph on
+pietas
+\emph default
+ : le respect envers les dieux, mais également le respect envers les membres
+ de la famille.
  L'assassinat collectif d'une branche aussi nombreuse du clan familial,
  qui plus est rapprochée par les liens du mariage, s'apparente ici à une
  guerre civile --
@@ -37151,7 +37200,7 @@ Visite laurigero sacrata Palatia Phoebo / Ille Paraetonicas mersit in alta
 \end_inset
 
 .
- Auguste décréta d'ailleurs pour l'occasion de la dédicace du temple les
+ Auguste organisa d'ailleurs pour l'occasion de la dédicace du temple les
  jeux quinquennaux décrétés après Actium, qui auraient donc dû se tenir
  l'année suivante
 \begin_inset Foot
@@ -37241,8 +37290,11 @@ VII, 7, 6.
  un incendie.
  Nikopolis, fondée par Auguste pour commémorer la victoire, se trouve sur
  la rive opposée.
- Il existait apparemment des Actia, concours en l'honneur d'Apollon Actien,
- remis en vigueur par Auguste.
+ Il existait apparemment dans la partie orientale de l'Empire des 
+\emph on
+Actia
+\emph default
+, concours en l'honneur d'Apollon Actien, remis en vigueur par Auguste.
  Apollon est par ailleurs également honoré à Leucade, sur un promontoire
  voisin de celui d'Actium.
  Le nouveau régime, par la voix de Virgile, ne manqua pas de rattacher le
@@ -37466,7 +37518,7 @@ Vénus est honorée par Pompée ensuite, et enfin par César, et comme nous
  l'avons déjà mentionné, doublement liée à la légende troyenne: avec l'épiclèse
  de Victrix, forme sous laquelle l'honorait Pompée au sommet des gradins
  de son théâtre, elle était non seulement victorieuse à la bataille, mais,
- si l'on suit la théorie des trois genres de théologie de Varron, elle rappelait
+ d'après la théorie des trois genres de théologie de Varron, elle rappelait
  également, sur le plan mythique, sa victoire dans le Jugement de Pâris
 \begin_inset Foot
 status collapsed
@@ -37835,7 +37887,7 @@ comprendre par là, sans doute, Rhéa Silvia, dont la position de Vestale
 \end_layout
 
 \begin_layout Paragraph
-Un Panthéon hérité d'Homère
+Le Panthéon d'Homère revivifié
 \end_layout
 
 \begin_layout Standard
@@ -38593,10 +38645,11 @@ Iliade
  et qui est celui qui l'assure de l'avenir glorieux réservé à sa lignée.
  Cybèle et Vesta évoquent la fuite d'Énée, et la fondation d'une nouvelle
  cité, prolongement de la Troie disparue.
- Jupiter, quoique honoré par la construction d'un nouveau temple sous l'épithète
- de Jupiter Feretrius, reste en retrait dans cette nouvelle configuration,
- et n'est que rarement crédité par les poètes d'un geste particulier en
- faveur d'Auguste, de la même façon qu'il était, dans l'
+ Jupiter, quoique honoré par la reconstruction de son temple de Jupiter
+ Feretrius -- celui auquel on portait les dépouilles opimes --, reste en
+ retrait dans cette nouvelle configuration, et n'est que rarement crédité
+ par les poètes d'un geste particulier en faveur d'Auguste, de la même façon
+ qu'il était, dans l'
 \emph on
 Iliade
 \emph default
