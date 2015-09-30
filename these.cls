@@ -15,6 +15,8 @@
 %\AtBeginEnvironment{quotation}{\small}
 \let\quotetemp\quotation
 \def\quotation{\quotetemp\small}
+\let\versetemp\verse
+\def\verse{\versetemp\small}
 
 %% Others
 \RequirePackage[francais]{babel}
