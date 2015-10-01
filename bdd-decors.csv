@@ -19,7 +19,7 @@ dp17,"I, 10, 4",Maison du Ménandre,Mort de Laocoon,Peinture,4e style,Ala 4,sud,
 dp18,"I, 11, 6-7",Maison de la Vénus en bikini,Jugement de Pâris,Peinture,4e style,Triclinium 10,nord,,en place,Pompei Pitture e Mosaici
 dp19,"II, 2, 2",Maison de D. Octavius Quarto,Jeux funéraires de Patrocle (frise),Peinture,4e style,Oecus h,Est-sud-nord,,en place,Pompei Pitture e Mosaici
 dp20,"III, 4, 4",Maison de Pinarius Cerialis,Iphigénie en Tauride,Peinture,4e style,cubiculum a,nord,Peintre d'Io,en place,Pompei Pitture e Mosaici
-dp21,"V, 1, 18",Maison des Epigrammes,Homère sur un trône,Peinture,2e style final,exèdre y,nord,,en place,
+dp21,"V, 1, 18",Maison des Epigrammes,Homère sur un trône,Peinture,2e style final,exèdre y,nord,,en place,Pompei Pitture e Mosaici
 dp22,"V, 1, 23-26",Maison de Caecilius Jucundus,Iphigénie en Tauride,Peinture,3e style,tablinum i,nord,Peintre de Caecilius Jucundus,MN111439,R. Deyts
 dp23,"V, 1, 23-26",Maison de Caecilius Jucundus,Jugement de Pâris,Peinture,3e style,triclinium o,nord,Peintre d'Adonis blessé,en place,Pompei Pitture e Mosaici
 dp24,"V, 2, 14",boutique,Embarquement de Chryséis,Peinture,4e style,Arrière-boutique,,peintre d'Iphigénie,MN119690,Pompei Pitture e Mosaici
@@ -45,12 +45,12 @@ dp43,"VI, 9, 6-7",Maison des Dioscures,Colère d'Achille contre Agamemnon,Peintu
 dp44,"VI, 9, 6-7",Maison des Dioscures,"Thétis sur un cheval marin, avec l'armure d'Achille",Peinture,4e style,Oecus 43,nord,,en place,Pompei Pitture e Mosaici
 dp45,"VI, 10, 2",Maison des Cinq Squelettes,"Prophétie de Cassandre (Priam, Hector, Pâris)",Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN8999,Pompei Pitture e Mosaici
 dp46,"VI, 10, 2",Maison des Cinq Squelettes,"Reconnaissance d'Ulysse (Pénélope, Euryclée)",Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN9107,Pompei Pitture e Mosaici
-dp47,"VI, 10, 2",Maison des Cinq Squelettes,Pâris et Hélène,Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN9002,
+dp47,"VI, 10, 2",Maison des Cinq Squelettes,Pâris et Hélène,Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN9002,Pompei Pitture e Mosaici
 dp48,"VI, 11, 8-10",Maison du Labyrinthe,Pâris et Hélène,Peinture,4e style,Cubiculum 29,nord,Peintre de Méléagre,"en place, en bonne partie détruite",Pompei Pitture e Mosaici
 dp49,"VI, 14, 28-33",Maison de Laocoon,Mort de Laocoon,Peinture,3e style phase finale,atrium a,sud,,MN111210,R. Deyts
 dp50,"VI, 14, 28-33",Maison de Laocoon,"Polyphème, Énée et ses marins",Peinture,3e style ,tablinum k,nord,,MN111211,Pompei Pitture e Mosaici
-dp51,"VI, 15, 1",Maison des Vettii,Sacrifice in absentia d'Iphigénie,Peinture,4e style,salle q,"est, prédelle",,en place,
-dp52,"VI, 15, 1",Maison des Vettii,Iphigénie en Tauride,Peinture,4e style,salle q,"ouest, prédelle",,en place,
+dp51,"VI, 15, 1",Maison des Vettii,Sacrifice in absentia d'Iphigénie,Peinture,4e style,salle q,"est, prédelle",,en place,Pompei Pitture e Mosaici
+dp52,"VI, 15, 1",Maison des Vettii,Iphigénie en Tauride,Peinture,4e style,salle q,"ouest, prédelle",,en place,Pompei Pitture e Mosaici
 dp54,"VI, 16, 7-38",Maison des Amours dorés,"Phénix, Achille, Pâris et Polyxène",Peinture,3e style tardif,atrium B,nord,,MN20559,Pompei Pitture e Mosaici
 dp55,"VI, 16, 7-38",Maison des Amours dorés,Pâris sur l'Ida,Peinture,3e style tardif,atrium B,sud,,disparue,Pompei Pitture e Mosaici
 dp56,"VI, 16, 7-38",Maison des Amours dorés,Pâris et Hélène,Peinture,3e style tardif,tablinum E,ouest,Peintre de Jason,en place,R. Deyts
@@ -68,12 +68,12 @@ dp67,"VIII, 4, 4",Maison d'Holconius Rufus ou des Postumii,Jugement de Pâris,Pe
 dp68,"VIII, 4, 4",Maison d'Holconius Rufus ou des Postumii,Achille à Skyros,Peinture,4e style,Triclinium 33,est,,disparue,Pompei Pitture e Mosaici
 dp69,"IX, 1, 7",Maison de Paccius Alexander,Thétis dans la forge d'Héphaïstos,Peinture,4e style,triclinium e,nord,,MN9529,R. Deyts
 dp70,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,Achille à Skyros,Peinture,4e style,pièce U,nord,Peintre des quatre divinités,MN116085,Pompei Pitture e Mosaici
-dp71,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,"Thétis sur un cheval marin, apportant son armure à Achille",Peinture,4e style,pièce U,ouest,Peintre des quatre divinités,en place,
-dp72,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,Thétis dans la forge d'Héphaïstos,Peinture,4e style,pièce U,est,Peintre des quatre divinités,en place,
+dp71,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,"Thétis sur un cheval marin, apportant son armure à Achille",Peinture,4e style,pièce U,ouest,Peintre des quatre divinités,en place,Pompei Pitture e Mosaici
+dp72,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,Thétis dans la forge d'Héphaïstos,Peinture,4e style,pièce U,est,Peintre des quatre divinités,en place,Pompei Pitture e Mosaici
 dp73,"IX, 5, 18",Maison de Jason,Pâris et Hélène,Peinture,3e style,cubiculum e,nord,Peintre de Jason,MN114320,R. Deyts
 dp74,"IX, 5, 18",Maison de Jason,"Phénix, Achille, Pâris et Polyxène",Peinture,3e style,triclinium f,sud,,MN111471,R. Deyts
 dp75,"IX, 7, 16",Maison du Cheval de Troie,Cheval de Troie,Peinture,3e style,chambre a,ouest,,MN120176,R. Deyts
-dp76,"IX, 8, 3-7",Maison du Centenaire,Iphigénie en Tauride,Peinture,4e style,Triclinium 41,sud,Peintre d'Adonis blessé,en place,
+dp76,"IX, 8, 3-7",Maison du Centenaire,Iphigénie en Tauride,Peinture,4e style,Triclinium 41,sud,Peintre d'Adonis blessé,en place,Pompei Pitture e Mosaici
 dp77,"IX, 13, 1-3",Maison de Julius Polybius,Pâris et Aphrodite,Peinture,4e style,Pièce A',sud,,"en place, en bonne partie détruite",Pompei Pitture e Mosaici
 dp78,"IX, 13, 5",Fullonica di Ullulitremulus,"Énée fuyant Troie, Romulus",Peinture,période impériale,mur extérieur,/,Peintre des quatre divinités,disparue,Pompei Pitture e Mosaici
 dp79,inconnue,inconnu,Pâris sur l'Ida,Peinture,inconnue,inconnue,inconnue,,MANN9508,R. Deyts
@@ -85,17 +85,17 @@ ds84,,"Villa Arianna, Stabies",Cheval de Troie,Peinture,10-37,atrium,inconnue,,M
 dh85,"Ins. or. I, 2","Maison du relief de Télèphe, Herculanum",Télèphe et Achille,Relief sculpté,Époque augustéenne,Diaeta 17,nord,,MANN286787,R. Deyts
 dh86,Ins. VII,"«Basilique» / Augusteum, Herculanum",Achille et Chiron,Peinture,4e style,exèdre,inconnue,,MANN9109,Wikimedia Commons
 dh87,"Ins. or. II, 4",Palestre d'Herculanum,Achille et Antiloque?,Peinture,4e style,inconnue,inconnue,,MANN9020,R. Deyts
-dr88,,"Domus de la via Graziosa, Esquilin, Rome",Fresque odysséenne,Peinture,,,,,"Musée National Romain, Palazzo Massimo, inv. 261833",
-dr89,,"Colombarium des Statilii, Rome","Frise troyenne, origines de Rome",Peinture,Dernier tiers -Ier s.,,,,,
-dr90,,"Ara Pacis Augustae, Rome",Énée sacrifiant,Relief sculpté,-13,,,,,
-dr91,,Hypogée de la Porte Majeure,Iphigénie et Calchas,Stuc ,,,,,,
-dr92,,Hypogée de la Porte Majeure,Achille et Chiron,Stuc,,,,,,
-dr93,,Hypogée de la Porte Majeure,Pâris et Hélène,Stuc,,,,,,
-dr94,,Hypogée de la Porte Majeure,Achille et prisonnier troyen,Stuc,,,,,,
-dr95,,Hypogée de la Porte Majeure,Ulysse ou initié (stuc du Saut de Sappho),Stuc,,,,,,
-dr96,,"Domus Transitoria, Rome",Scènes iliadiques ,Peinture,,,,,,
-dr97,,"Domus Aurea, Rome",Achille à Skyros,Mosaïque,64-68,Salle 119,voûte,,en place,
-dr98,,"Domus Aurea, Rome",Hector et Andromaque,Peinture,64-68,Salle 129,voûte,Fabullus?,en place,
-dr99,,"Domus Aurea, Rome",Pâris et Hélène,Peinture,64-68,Salle 129,voûte,Fabullus?,en place,
-dr100,,"Domus Aurea, Rome",Ulysse et Polyphème,Mosaïque,64-68,Nymphée 45,voûte,,en place,
-dr101,,"Domus Aurea, Rome",Ganymède,Peinture,64-68,Salle de la voûte dorée 81,voûte,Fabullus?,disparue,
+dr88,,"Domus de la via Graziosa, Esquilin, Rome",Fresque odysséenne,Peinture,Milieu Ier s. av. J.-C,,,,"Musée National Romain, Palazzo Massimo, inv. 261833",R. Deyts
+dr89,,"Colombarium des Statilii, Rome","Frise troyenne, origines de Rome",Peinture,Dernier tiers -Ier s.,,,,"Musée National Romain, Palazzo Massimo",R. Deyts
+dr90,,"Ara Pacis Augustae, Rome",Énée sacrifiant,Relief sculpté,-13,,,,Musée de l'Ara Pacis,R. Deyts
+dr91,,Hypogée de la Porte Majeure,Iphigénie et Calchas,Stuc ,Ier s. ap. J.C.,,,,en place,Bendinelli 1927
+dr92,,Hypogée de la Porte Majeure,Achille et Chiron,Stuc,Ier s. ap. J.C.,,,,en place,Bendinelli 1927
+dr93,,Hypogée de la Porte Majeure,Pâris et Hélène,Stuc,Ier s. ap. J.C.,,,,en place,Bendinelli 1927
+dr94,,Hypogée de la Porte Majeure,Achille et prisonnier troyen,Stuc,Ier s. ap. J.C.,,,,en place,Bendinelli 1927
+dr95,,Hypogée de la Porte Majeure,Ulysse ou initié (stuc du Saut de Sappho),Stuc,Ier s. ap. J.C.,,,,en place,Sauron 2009b
+dr96,,"Domus Transitoria, Rome",Scènes iliadiques ,Peinture,Néron,,,,Antiquarium du Palatin,R. Deyts
+dr97,,"Domus Aurea, Rome",Achille à Skyros,Mosaïque,64-68,Salle 119,voûte,,en place,Segala 1999
+dr98,,"Domus Aurea, Rome",Hector et Andromaque,Peinture,64-68,Salle 129,voûte,Fabullus?,en place,Segala 1999
+dr99,,"Domus Aurea, Rome",Pâris et Hélène,Peinture,64-68,Salle 129,voûte,Fabullus?,en place,Segala 1999
+dr100,,"Domus Aurea, Rome",Ulysse et Polyphème,Mosaïque,64-68,Nymphée 45,voûte,,en place,Segala 1999
+dr101,,"Domus Aurea, Rome",Ganymède,Peinture,64-68,Salle de la voûte dorée 81,voûte,Fabullus?,disparue,Segala 1999 (dessin François de Hollande 1536)
