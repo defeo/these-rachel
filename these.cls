@@ -11,13 +11,6 @@
 %% Fonts
 \RequirePackage[final,tracking=true]{microtype}
 
-%\RequirePackage{etoolbox}
-%\AtBeginEnvironment{quotation}{\small}
-\let\quotetemp\quotation
-\def\quotation{\quotetemp\small}
-\let\versetemp\verse
-\def\verse{\versetemp\small}
-
 %% Others
 \RequirePackage[francais]{babel}
 \RequirePackage[hidelinks]{hyperref}
@@ -37,13 +30,24 @@
 \makeoddfoot{these}{}{}{\thepage}
 \pagestyle{these}
 
+%% Small fonts
+\let\quotetemp\quotation
+\def\quotation{\quotetemp\small}
+\let\versetemp\verse
+\def\verse{\versetemp\small}
+
+%% Figure captions
+\RequirePackage[font=small]{caption}
+\counterwithout{figure}{chapter}
+
 %% Divisions style
 \setsecnumdepth{subsection}
 \renewcommand*{\beforepartskip}{\cleardoublepage\null\vfil}
 \renewcommand*{\afterpartskip}{\vfil\newpage%
-  \setcounter{chapter}{0}%
-  \renewcommand{\theHchapter}{\thepart.\thechapter}%
+  %\setcounter{chapter}{0}%
+  %\renewcommand{\theHchapter}{\thepart.\thechapter}%
   \null\newpage}
+\counterwithin*{chapter}{part}
 
 \makechapterstyle{these}{
   \chapterstyle{default}
@@ -65,6 +69,7 @@
 
 
 %% TOC style
+\renewcommand{\cftchapterbreak}{\addpenalty{-1000}} 
 \renewcommand*{\cftpartname}{Partie }
 \renewcommand\cftpartaftersnum{.}
 \renewcommand{\cftchapterleader}{\hfill}
