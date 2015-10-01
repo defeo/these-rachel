@@ -63,6 +63,22 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter*
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Paragraph*
 Remerciements
 \end_layout
@@ -227,15 +243,23 @@ De Feo
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
 \end_inset
 
 
+\begin_inset Newpage clearpage
+\end_inset
+
+
 \end_layout
 
-\begin_layout Section*
+\begin_layout Chapter
 Introduction
 \end_layout
 
@@ -846,6 +870,22 @@ Iliade
  homériques aux yeux de ceux qui les mettent en scène, quelle est leur significa
 tion pour un Romain de l’époque de Scipion, de Cicéron ou d’Auguste.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter*
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Part
@@ -42843,7 +42883,23 @@ Urbs
  à ses origines troyennes.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+backmatter
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
 Conclusion
 \end_layout
 
