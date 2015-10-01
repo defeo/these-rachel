@@ -63,6 +63,169 @@
 
 \begin_body
 
+\begin_layout Paragraph*
+Remerciements
+\end_layout
+
+\begin_layout Standard
+Je souhaite remercier vivement M.
+ Gilles 
+\shape smallcaps
+Sauron
+\shape default
+, qui fut mon professeur et mon directeur de recherche tout au long de mes
+ années de master et de doctorat, et dont l'érudition et les conseils précieux
+ m'ont permis non seulement de mener à bien ce travail de recherche, mais
+ aussi et surtout de m'instruire et de m'enrichir.
+ Je lui suis extrêmement reconnaissante d'avoir bien voulu me guider dans
+ mes premiers pas dans l'univers de la recherche et de m'avoir marqué sa
+ confiance à de nombreuses reprises.
+ 
+\end_layout
+
+\begin_layout Standard
+Je voudrais remercier aussi Mme Hélène 
+\shape smallcaps
+Dessales
+\shape default
+, qui fut ma tutrice à l'École Normale Supérieure, et qui me fit découvrir
+ l'archéologie et me permit de devenir l'élève de M.
+ Sauron; Mme Nathalie 
+\shape smallcaps
+de Chaisemartin
+\shape default
+, qui me permit en me confiant le TD de son cours d'archéologie romaine
+ de découvrir le monde de l'enseignement; ainsi que Mme Martine 
+\shape smallcaps
+Joly
+\shape default
+, pour sa gentillesse et sa présence attentive dans les rencontres de notre
+ école doctorale.
+ Mes plus vifs remerciements, également, à Mme Claude 
+\shape smallcaps
+Pouzadoux
+\shape default
+ et à M.
+ Guilhem 
+\shape smallcaps
+Chapelin
+\shape default
+, qui me reçurent aimablement au Centre de Recherches Jean Bérard.
+ De même, je remercie Mme Agnès 
+\shape smallcaps
+Rouveret
+\shape default
+, M.
+ Renaud 
+\shape smallcaps
+Robert
+\shape default
+, M.
+ Anton 
+\shape smallcaps
+Powell
+\shape default
+ et M.
+ François 
+\shape smallcaps
+Baratte
+\shape default
+ pour avoir accepté de faire partie du jury de cette thèse.
+\end_layout
+
+\begin_layout Standard
+Je tiens également à remercier tous mes professeurs, qui partagèrent avec
+ mes condisciples et moi-même un peu de leur savoir, m'apprirent la rigueur
+ et entretinrent mon intérêt pour les études antiques: M.
+ François 
+\shape smallcaps
+Hinard
+\shape default
+, M.
+ Jean-Paul 
+\shape smallcaps
+Thuiller
+\shape default
+, M.
+ Jean 
+\shape smallcaps
+Trinquier
+\shape default
+, Mme Mathilde 
+\shape smallcaps
+Mahé-Simon
+\shape default
+, M.
+ Marwan 
+\shape smallcaps
+Rashed
+\shape default
+, M.
+ Jean-Marc 
+\shape smallcaps
+Vergé-Borderolle
+\shape default
+, Mme Françoise 
+\shape smallcaps
+Barguillet
+\shape default
+, M.
+ Éric 
+\shape smallcaps
+Bonhomme
+\shape default
+ et tant d'autres.
+\end_layout
+
+\begin_layout Standard
+Merci aussi à mes camarades doctorants, Florine 
+\shape smallcaps
+Menec
+\shape default
+, Valentina 
+\shape smallcaps
+Torrisi
+\shape default
+, Morgane 
+\shape smallcaps
+Andrieu
+\shape default
+, Alexia 
+\shape smallcaps
+Maquinay
+\shape default
+, Caroline 
+\shape smallcaps
+Leblond
+\shape default
+, Filipe 
+\shape smallcaps
+Ferreira
+\shape default
+, et bien d'autres, pour leur présence amicale au cours des séminaires de
+ notre école doctorale, et pour la compréhension mutuelle qui y prévalait
+ entre apprentis chercheurs.
+\end_layout
+
+\begin_layout Standard
+Enfin, je remercie mes parents, Christine 
+\shape smallcaps
+Tramutolo
+\shape default
+ et Pierre 
+\shape smallcaps
+Deyts
+\shape default
+, pour leur relecture minutieuse de cet ouvrage, ainsi que mon compagnon,
+ Luca 
+\shape smallcaps
+De Feo
+\shape default
+, pour son soutien au quotidien, pour son aide précieuse dans la genèse
+ informatique de cette thèse, et pour avoir grandement contribué à sa mise
+ en forme.
+\end_layout
+
 \begin_layout Standard
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
@@ -72,20 +235,617 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Chapter*
-Remerciements
-\end_layout
-
-\begin_layout Standard
-Blabla de remerciement
-\end_layout
-
-\begin_layout Chapter*
+\begin_layout Section*
 Introduction
 \end_layout
 
+\begin_layout Quotation
+\begin_inset Quotes fld
+\end_inset
+
+Homère est le poète, et Rome la ville par excellence
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Quintilien, VIII, 5.
+\end_layout
+
+\end_inset
+
+.
+\begin_inset Quotes frd
+\end_inset
+
+ 
+\end_layout
+
 \begin_layout Standard
-Blabla d'introduction.
+L'
+\emph on
+Iliade
+\emph default
+ et l'
+\emph on
+Odyssée
+\emph default
+ sont aujourd'hui considérés comme des monuments fondateurs de la littérature
+ occidentale; du temps de Cicéron, ils l'étaient déjà.
+ On sait la révérence que les Grecs de l'Antiquité avaient pour Homère,
+ premier et modèle de tous les poètes, au point que ses écrits étaient tenus,
+ si l'on peut dire, pour parole d'évangile, c'est-à-dire comme une source
+ de connaissance pour ce qui touchait au mythe et au sacré, en dehors même
+ de leur valeur littéraire.
+ La mort d'Agamemnon, d'Achille ou d'Ulysse, les héros homériques par excellence
+, signent la fin de l'âge des héros: les derniers personnages de la mythologie,
+ leurs enfants, s'entretuent dans les tragédies d'Euripide, signant la déchéance
+ d'un monde que les Grecs considéraient comme un âge perdu, celui où les
+ dieux et les héros marchaient sur terre avec les hommes.
+ Homère est un mythe.
+ L'existence du personnage elle-même, aède aveugle, à la fois semi divin
+ et semi devin, a très tôt été controversée: nombre de cités se disputaient
+ l'honneur de l'avoir vu naître, de la même façon que certaines gardaient
+ jalousement le tombeau d'Ulysse ou de Ménélas.
+ On ne s'accordait pas même, jusqu'à l'époque d'Aristote, sur le nom des
+ œuvres qui faisaient véritablement partie des écrits du maître: seules
+ l'
+\emph on
+Iliade
+\emph default
+ et l'
+\emph on
+Odyssée
+\emph default
+ résistèrent à l'examen.
+ On a tendance à voir aujourd'hui dans ces derniers des compilations de
+ textes d'époques diverses, dans lesquels les différents dialectes helléniques
+ se mêlent.
+ Homère, souvent honoré au point que l'on sculptait son apothéose, représente
+ pour le citoyen grec l'image idéale de l'aède plus qu'un individu en particulie
+r: il est celui par la bouche de qui parlent les Muses.
+ 
+\end_layout
+
+\begin_layout Standard
+On a parfois tendance à oublier, toutefois, à quel point les Romains suivirent
+ cette façon de voir.
+ Ce n'est pas seulement par goût du trophée que les généraux qui firent
+ plier l'Achaïe, la Macédoine, l'Asie Mineure et la Grande Grèce --
+\begin_inset space ~
+\end_inset
+
+les Scipio Asiaticus, les Aemilius Paullus, les Scylla, les Mummius
+\begin_inset space ~
+\end_inset
+
+-- entassèrent dans leurs villas les trophées arrachés aux cités helléniques,
+ les statues et les tableaux pris dans les temples, mais par un véritable
+ sentiment d'admiration: en même temps que les mythes et les dieux grecs,
+ les Romains adoptèrent toute une vaste culture, qu'ils intégrèrent et firent
+ leur.
+ La peinture, la sculpture, les vases précieux d'Athènes ou de Corinthe,
+ mais aussi les écrits de Platon ou d'Aristote, l'épopée et la tragédie
+ enfin, firent leur entrée à Rome par la porte triomphale, dans les coffres
+ des vainqueurs.
+ Il ne faut pas y voir la curiosité légèrement teintée de mépris que l'on
+ adopte parfois à l'égard des vaincus: la culture grecque avait droit à
+ toute la révérence des nouveaux maîtres du monde.
+ C'est cette nouveauté, ce paradoxe qu'il faut lire tout au long de la présente
+ étude: l'empire qu'un auteur grec eut sur les Romains.
+ 
+\end_layout
+
+\begin_layout Standard
+Les récits homériques sont une matière vivante: récités à l'oral tout d'abord,
+ mis par écrit tardivement, augmentés de tout un corpus de textes épiques
+ qui les complètent et leur répondent, ils ont vu se détacher et évoluer
+ leurs personnages et leurs thèmes dans les écrits des philosophes classiques
+ et des poètes hellénistiques, puis des écrivains romains.
+ Dans les trois derniers siècles de la République romaine, en même temps
+ que se développait une littérature propre à la langue latine, commençait
+ l’importation des œuvres littéraires et artistiques helléniques par les
+ conquérants romains, qui, en même temps qu'elle diffusait largement cette
+ culture, accélérait le syncrétisme des deux religions.
+ Le processus était ancien, et remontait au moins à l'époque de la domination
+ des Tarquins, avec l'acculturation des dieux et des mythes grecs sous forme
+ étrusque; dès le V
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ s.
+ av.
+ J.-C., l'acculturation réussie d'un dieu majeur du panthéon, Apollon, qui
+ conserva même son nom grec, montrait que les Romains n'étaient pas hostiles
+ à ce qui venait d'Achaïe.
+ Cependant, le phénomène s'accélèra entre le III
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ et le II
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ s., avec l'arrivée d'une foule de lettrés grecs, parmi lesquels Livius Andronicu
+s ou Polybe, mais également de livres grecs, comme ceux rapportés par Paul-Emile
+ de Pella.
+ Après les dieux grecs, les Romains s'approprient les héros grecs, leurs
+ tragédies et leurs épopées.
+ Homère comme Euripide auront à Rome un succès jamais démenti.
+ Toutefois, il serait bien sûr réducteur de donner une datation aussi tardive
+ à la découverte par les Romains de l'
+\emph on
+Iliade
+\emph default
+ et de l'
+\emph on
+Odyssée
+\emph default
+: le bassin méditerranéen tout entier, des colonies fondées par les cités
+ helléniques dès le VIII
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ s.
+ av.
+ J.-C.
+ en Grande Grèce aux centres commerciaux étrusques, baignait dans cette
+ culture.
+ Les Romains, à leur suite, adoptèrent les légendes grecques aussi bien
+ comme matière à une croyance religieuse que comme sujet de création artistique.
+ Entre le I
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+er
+\end_layout
+
+\end_inset
+
+ s.
+ avant et le I
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+er
+\end_layout
+
+\end_inset
+
+ s.
+ après J.-C., les productions des poètes, Catulle, Virgile, Ovide, comme les
+ peintures pompéiennes ou les monnaies émises par les grandes familles de
+ la République nous brossent le portrait d'une Rome tout entière plongée
+ dans Homère.
+ La difficulté est ici de savoir de quelle manière ces mythes se sont transmis.
+ De l'Énée de l'
+\emph on
+Iliade
+\emph default
+ à celui d'Auguste, des Pâris et Hélène homériques à ceux de Pompéi, les
+ cheminements sont complexes: le mouvement des textes, la diffusion d'une
+ culture, le voyage des mythes ne sont pas aisément retraçables en archéologie.
+ L'ajout par les Romains d'épisodes comme l'
+\emph on
+Énéide
+\emph default
+ ou la relocalisation géographique de certains mythes ou personnages comme
+ le Cyclope et Circé ajoutent une donnée supplémentaire au poème, dans la
+ mesure où des mythes ancrés dans des régions de la péninsule éloignées
+ de Rome implique nécessairement la participation de populations locales,
+ par la suite disparues ou intégrées dans l'Empire, à leur élaboration et
+ à leur évolution.
+ La présence dans la cargaison du navire naufragé d’Anticythère de plusieurs
+ statues représentant Ulysse ou Achille, qui devaient être acheminées jusqu’à
+ la péninsule italique, ainsi que la production florissante des ateliers
+ néo-attiques indiquent la croissance soudaine d'une mode pour les personnages
+ d'Homère dans la fin de la République; mais Homère était connu et apprécié
+ bien auparavant, ainsi qu'en témoignent les pièces de Naevius ou de Livius
+ Andronicus.
+ La transmission ne va pas sans transformations: l'Ulysse connu par les
+ fragments des premiers tragiques latins a encore un visage bien grec, loin
+ de celui qu'il aura dans les décors de Sperlonga; l'Achille d'Homère n'est
+ pas identique à celui qui est représenté dans les 
+\emph on
+atria
+\emph default
+ pompéiens.
+ C'est cette évolution que nous essayerons de comprendre et de retracer
+ dans les premiers chapitres de cette étude, jusqu'à l'établissement, pour
+ les héros d'Homère, d'un visage bien romain.
+ Ainsi, par exemple, des peintures représentant Pâris et Hélène à Pompéi:
+ il apparaît de façon évidente dans les représentations romaines de ces
+ deux personnages qu'ils ne sont pas affligés de la réputation tout à fait
+ ambiguë qui est la leur dans la culture classique: dans le texte d'origine,
+ quoiqu'ils soient généralement excusés au nom de l'amour et de la puissance
+ de Vénus, ils sont décrits comme un héros lâche et favori de Vénus plutôt
+ que d'Arès et comme une femme traîtresse à son mari et à sa cité, tous
+ deux considérés comme responsables de ce que les Anciens tenaient pour
+ la plus grande de toutes les guerres.
+ Rien de tout cela en Italie: constituant un sujet de prédilection pour
+ la décoration des maisons romaines, toujours représentés sous un jour favorable
+, de façon 
+\begin_inset Quotes fld
+\end_inset
+
+galante
+\begin_inset Quotes frd
+\end_inset
+
+ et proprement ovidienne, il semble qu'ils aient reçu chez les Romains une
+ connotation différente de celle qu'elle pouvait être, sans même parler
+ d'Homère, pour un Euripide ou un Isocrate.
+ 
+\end_layout
+
+\begin_layout Standard
+A la fin de la République, les épopées d'Homère sont considérées par les
+ érudits comme le plus grand monument littéraire produit jusqu’alors.
+ Nous disons 
+\begin_inset Quotes fld
+\end_inset
+
+littéraire
+\begin_inset Quotes frd
+\end_inset
+
+, parce qu’entre leur mise par écrit par Pisistrate ou l'un de ses contemporains
+ et leur arrivée de l'autre côté de la mer Tyrrhénienne, l’
+\emph on
+Iliade
+\emph default
+ et l’
+\emph on
+Odyssée
+\emph default
+ perdirent rapidement de leur oralité pour devenir un texte dont la transmission
+ se faisait non plus par la déclamation dans les occasions publiques ou
+ privées, mais par l’écriture et par l’apprentissage scolaire.
+ On sait depuis longtemps, et en particulier par les études de H.
+ I.
+ Marrou, qu'Homère faisait partie de la culture scolaire aussi bien à Rome
+ qu’en Grèce, et que la transmission du texte homérique était systématique
+ pour quiconque recevait une instruction littéraire.
+ C’est de là que vient la connaissance romaine d’Homère, de là que procède
+ ce goût pour l’
+\emph on
+Iliade
+\emph default
+ et l’
+\emph on
+Odyssée
+\emph default
+, d’un fonds culturel commun transmis de génération en génération comme
+ un héritage, et la vie intellectuelle, de l'art oratoire à la philosophie,
+ ne se conçoit pas sans ces références, au point qu'Horace, dans son Épître
+ II, 2, démontre à son correspondant que tout précepte utile à la philosophie
+ se retrouve dans Homère.
+ On ne peut que s'étonner de constater cette prépondérance.
+ Homère se rencontre aussi bien dans les lettres de Cicéron que dans les
+ œuvres d'art décrites par Pline sous les portiques de Rome; en visitant
+ les riches maisons pompéiennes, à la fin de l'époque julio-claudienne,
+ on rencontrait régulièrement Achille ou Énée dans les décors de III
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ et de IV
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ style; les objets de collection, gemmes, tablettes, statues, qu'ils soient
+ d'ailleurs de production grecque ou romaine, font encore d'Homère un sujet
+ de choix.
+ Il s'agit ici de questionner ces choix: Vitruve le montre dans son 
+\emph on
+De Architectura
+\emph default
+, le maître de maison doit soigneusement penser le décor de sa demeure en
+ accord avec son statut
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+De Architectura
+\emph default
+, VI, 5.
+\end_layout
+
+\end_inset
+
+.
+ Mais Vitruve
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Id.
+\emph default
+, VII, 5.
+\end_layout
+
+\end_inset
+
+ mentionne également, comme unique exemple des épisodes mythologiques que
+ l'on est susceptible de peindre au mur de sa demeure, 
+\begin_inset Quotes fld
+\end_inset
+
+les guerres de Troie ou les voyages d'Ulysse
+\begin_inset Quotes frd
+\end_inset
+
+.
+ La mise en œuvre scénographique de ce type de décors est donc à mettre
+ en rapport avec le contexte architectural et l’espace sociologique: le
+ cadre physique (pièce de la maison ou bien édifice public) et socio-culturel
+ influe sur le choix de ces représentations ainsi que sur le sens qui leur
+ est donné, selon le regard que la foule est amenée à porter sur eux.
+ Les héros homériques sont-ils de simples figures culturelles et littéraires,
+ de simples objets de modes décoratives? À quel point, au contraire, sont-ils
+ chargés, aux yeux des Romains, d’une signification politique, historique,
+ sociale, temporelle enfin et bien romaine? 
+\end_layout
+
+\begin_layout Standard
+Les représentations de ces personnages connaissent un succès croissant en
+ Italie à partir de la deuxième moitié du I
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+er
+\end_layout
+
+\end_inset
+
+ siècle avant J.-C., surtout dans le cadre de la propagande liée aux guerres
+ civiles, et sont dans leur plein essor au début du principat, dans les
+ grands décors impériaux, dont le plus connu est la grotte de Sperlonga;
+ c'est pourquoi nous bornerons cette étude aux dernières décennies de la
+ République et aux premiers temps de l'établissement du nouveau régime,
+ sous les julio-claudiens.
+ Le texte de Virgile et, dans une moindre mesure, ceux d'Ovide nous livrent
+ ici une clé pour comprendre l'intérêt lié aux textes d'Homère dans le contexte
+ politique de la fin de la République et de la naissance du principat: c'est
+ celui de la filiation revendiquée avec Troie, par Rome tout d'abord, lorsque
+ celle-ci cherche à établir sa domination sur le bassin méditerranéen, et
+ en particulier sur les régions de culture grecque, puis par les julio-claudiens
+, qui prétendaient descendre de Iule.
+ Le fait d'étudier des modèles artistiques et culturels, grecs à l'origine,
+ mais replacés en contexte romain, ne peut que soulever une interrogation
+ sur la signification des ces modèles en rapport avec le contexte historique
+ et politique dans lequel ils sont reproduits.
+ Virgile fait d'Énée le père de la race romaine, Hygin établit une filiation
+ tout entière de l'Italie à Ulysse, et les historiens se disputent pour
+ savoir si, oui ou non, Rome est une nouvelle Troie, pérennité assurée par
+ la transmission du Palladium troyen.
+ Derrière ces interrogations ou ces prétentions, selon le cas, il faut sans
+ doute voir la main des 
+\emph on
+imperatores
+\emph default
+, dont le pouvoir croissant à la fin de la République ne manque pas de s'étendre
+ aux arts; les princes julio-claudiens, à leur tour, ne manqueront pas de
+ prendre les poètes et les artistes sous leur protection, à commencer par
+ Auguste par l'entremise de Mécène et de Messalla; il faut ici se demander
+ quelles sont les motivations sous-jacentes à utiliser Homère en politique,
+ et de quelle efficacité ce moyen pouvait être sur le peuple romain.
+ 
+\end_layout
+
+\begin_layout Standard
+La notion de culture homérique est, par essence, floue et difficile à délimiter.
+ Comme nous l'avons dit plus haut, l'existence réelle d'un Homère est au
+ mieux hypothétique, et la vulgate constituée des deux textes canoniques
+ ainsi que des épopées dites du cycle homérique a été définie et classifiée
+ comme telle par les grammairiens de l'Antiquité; les textes d'Homère, de
+ plus, ont été étendus, amplifiés, continués par un si grand nombre d'auteurs,
+ jusqu'à la fin de l'Antiquité, que l'on peut se demander jusqu'à quel point
+ ses personnages lui appartiennent encore.
+ Les Anciens ne se posaient pas de telles questions: les récits de la prise
+ de Troie, de la mort de Laocoon au viol de Cassandre en passant par l'entrée
+ du Cheval de Troie dans la ville et la mort d'Achille sous la flèche de
+ Pâris, faisaient tous partie d'un même cycle et gagnaient par leur corrélation
+ force et cohérence.
+ Les textes du cycle, ainsi que leurs continuations, comme les tragédies
+ d'Euripide, sont doués d'une véritable intertextualité: si Homère commence
+ son récit, 
+\emph on
+stricto sensu
+\emph default
+, à la colère d'Achille, le texte fourmille de renvois à des événements
+ précédents, comme à l'éducation de ce héros sous la férule de Chiron et
+ de Phénix, et l'
+\emph on
+Odyssée
+\emph default
+ contient maintes mentions d'événements de la fin de la guerre de Troie.
+ Aussi paraît-il pertinent d'inclure dans ce qu'on appellera 
+\begin_inset Quotes fld
+\end_inset
+
+culture homérique
+\begin_inset Quotes frd
+\end_inset
+
+ l'ensemble de la geste du cycle troyen.
+ Toutefois, l'ensemble de la mythologie grecque est faite de ces renvois
+ d'un mythe à l'autre, et les délimitations sont difficiles à placer: ainsi
+ d'Agamemnon, fils d'Atrée, qui était le frère de Pitthée, grand-père maternel
+ de Thésée; Héraklès vint chercher aux Enfers ce dernier, retenu prisonnier
+ pour avoir voulu enlever Perséphone après avoir enlevé Hélène; Héraklès,
+ par la suite, ravagea Troie dans une première expédition militaire, menée
+ pour punir Laomédon de son second parjure après le sauvetage d'Hésione,
+ et donna le trône au jeune Podarcès, qui prit le nom de Priam.
+ Faut-il en conclure, de leurs rapports avec Agamemnon, Hélène et Priam,
+ que Thésée et Héraklès sont des personnages homériques? Nous avons voulu
+ ne pas pousser si loin les limites de notre raisonnement; mais il a parfois
+ fallu trancher certaines difficultés: ainsi du devenir des enfants d'Agamemnon,
+ Oreste et Iphigénie, héros de tragédie plutôt que d'épopée.
+ Nous avons choisi de laisser de côté Oreste, absent du texte homérique.
+ Le cas d'Iphigénie est plus ambigu: présente à Aulis
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Iphigénie est mentionnée au chant IX de l'
+\emph on
+Iliade
+\emph default
+ sous le nom d'Iphianassa, mais Homère ne semble pas connaître la légende
+ de son sacrifice, puisqu'Agamemnon propose sa main à Achille.
+ L'histoire est rapportée dans les 
+\emph on
+Chants Cypriens
+\emph default
+.
+\end_layout
+
+\end_inset
+
+, elle est la condition nécessaire, par son sacrifice, pour que les Grecs
+ arrivent à Troie et que la guerre commence.
+ Il nous a donc paru utile d'inclure les représentations de son passage
+ en Tauride, quoique relevant davantage de l'invention d'Euripide que d'une
+ tradition homérique, comme une conséquence directe de ces événements.
+ Le cas de Polyphème est également ambigu: personnage de l'Odyssée, il est
+ également évoqué dans la poésie idyllique comme le soupirant de Galatée,
+ événement qui n'entretient aucun rapport avec sa rencontre avec Ulysse :
+ nous avons donc choisi de ne mentionner cet épisode que dans l'unique cas
+ où Ulysse est également présent dans la scène
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Maison du prêtre Amandus, I, 7, 7.
+\end_layout
+
+\end_inset
+
+.
+ À la différence d’Hercule, érigé en dieu du Panthéon romain à part entière
+ par sa divinisation après sa mort et grâce à son exploit sur le site de
+ la future Rome contre le brigand Cacus, les personnages d’Homère ne font
+ pas l'objet d'un culte religieux: ils sont des objets littéraires, objets
+ de connaissance plus que de croyance, mais d’une connaissance qui, grâce
+ à la renommée de l’œuvre homérique, traverse les époques et les frontières.
+ La guerre de Troie et les errances d’Ulysse se démarquent des autres légendes
+ grecques, justement parce qu’elles sont les seules à avoir fait l’objet
+ d’un récit figé dans sa forme dès l’époque archaïque, et considéré dès
+ le temps de Pisistrate comme un monument de la civilisation.
+ Chez Homère et ses continuateurs, rares sont les héros à être d’ascendance
+ divine à la première génération comme Achille ou Hélène.
+ La plupart de ses personnages n’ont d’ailleurs qu’un rôle secondaire dans
+ le récit, par exemple Memnon ou Sarpédon, qui n’ont d’importance narrative
+ que par leur mort sous les coups respectifs d’Achille et de Patrocle.
+ Pourtant, Homère accorde des qualifications héroïques à la presque totalité
+ des autres personnages, du moins à tous ceux qui sont engagés physiquement
+ dans la bataille, du moment qu’il s’agit de chefs de guerre: ne comptent
+ pas les simples soldats dont il n’est d’ailleurs presque jamais fait mention
+ dans le texte, ni les valets, s'ils ne sont hérauts ou cochers.
+ Homère place son épopée dans un temps mythique où tous les personnages
+ importants, c’est-à-dire presque tous ceux qui ont un nom dans le récit,
+ chefs de guerre et fils de roi, descendent à un degré plus ou moins important
+ d’une divinité.
+ Ainsi de Priam, descendant à la sixième génération de Zeus, et par extension
+ tous ses enfants; de même Ulysse, arrière-petit-fils d’Hermès.
+ La définition du 
+\begin_inset Quotes fld
+\end_inset
+
+héros
+\begin_inset Quotes frd
+\end_inset
+
+ chez Homère se rapproche ainsi du 
+\begin_inset Quotes fld
+\end_inset
+
+héros
+\begin_inset Quotes frd
+\end_inset
+
+ au sens narratif et moderne du terme: le héros homérique, quoique sa valeur
+ lui soit nécessairement donnée par son ascendance, se caractérise par ses
+ exploits et par son influence sur le cours du récit.
+ Les Romains reprendront et amplifieront cette façon de voir: à Rome, on
+ n'a pas pour Achille ou Ulysse cette distance respectueuse qu'on aurait
+ à l'égard d'un dieu; les guerriers de l'
+\emph on
+Iliade
+\emph default
+, mais aussi les femmes --
+\begin_inset space ~
+\end_inset
+
+Cassandre, Hélène, Pénélope
+\begin_inset space ~
+\end_inset
+
+-- sont un objet d'érudition littéraire et, en même temps, participent du
+ quotidien.
+ Dans une Rome où l'on peut croiser l'
+\emph on
+Hélène
+\emph default
+ de Zeuxis sous le portique de Philippe, 
+\emph on
+Énée
+\emph default
+ sur le forum d'Auguste, 
+\emph on
+Laocoon
+\emph default
+ dans la demeure de Titus, 
+\emph on
+Achille à Skyros
+\emph default
+ dans l'
+\emph on
+atrium
+\emph default
+ de son voisin, où Cicéron cite l'
+\emph on
+Iliade
+\emph default
+ dans ses discours publics et où Ulysse apparaît sur la menue monnaie, la
+ proximité quotidienne des héros d'Homère nous invite à nous demander quelles
+ sont les particularités de ces thèmes, de ces symboles portés par les héros
+ homériques aux yeux de ceux qui les mettent en scène, quelle est leur significa
+tion pour un Romain de l’époque de Scipion, de Cicéron ou d’Auguste.
+ 
 \end_layout
 
 \begin_layout Part
@@ -6323,13 +7083,14 @@ Aurélius Victor, IX, 3; IX, 4.
 \end_layout
 
 \begin_layout Standard
-G.
+P.
+ Somella et, à sa suite, G.
  Drury-Moyaers
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Drury-Moyaers 1981.
+Somella 1972, Giuliani et Somella 1977, Drury-Moyaers 1981.
 \end_layout
 
 \end_inset
@@ -11900,7 +12661,7 @@ Toutefois il s’agit dans ces cas précis de reproductions du cadre d’un myth
  à partir du début du principat toute une série de nymphées et de grottes
  agrémentés de décors reprenant la thématique des voyages d’Ulysse et du
  Cyclope: ainsi de la villa de Tibère à Sperlonga et du nymphée de la Pointe
- Epitaffio à Baies, entre autres.
+ Epitaffio à Baies (annexes p.)po, entre autres.
  Ce motif sera également repris ultérieurement par Néron à la Domus Aurea
  et par Domitien à Castel Gandolfo; il devait y en avoir également un exemplaire
  à la villa Hadriana (dont quelques vestiges sont visibles dans la salle
@@ -11949,8 +12710,8 @@ Lavagne 1988, p.
 \end_inset
 
 .
- Dans le cas de ces grottes agrémentées d’un décor, Lavagne parle également
- du 
+ Dans le cas de ces grottes agrémentées d’un décor, H.
+ Lavagne parle également du 
 \begin_inset Quotes fld
 \end_inset
 
@@ -13072,7 +13833,11 @@ ns du Jugement, tandis que Pâris, qui n’est ici qu’un regard porté sur les
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 colonia Cornelia Veneria Pompeiana
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -13112,13 +13877,13 @@ Cassandre
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
 	filename base-de-donnees/images-partieI/cassandre.jpg
-	width 80text%
+	width 100text%
 
 \end_inset
 
@@ -13462,9 +14227,9 @@ status collapsed
 \begin_layout Plain Layout
 G.
  Sauron (Sauron 2000-2, p.
- 64-71) a proposé une interprétatioon de ce détail d'Iphigénie emportée
- par les Grecs comme une référence au texte de Lucrèce, pour contredire
- ce dernier, puisqu'ici la déesse répond à la prière de l'héroïne.
+ 64-71) a proposé une interprétation de ce détail d'Iphigénie emportée par
+ les Grecs comme une référence au texte de Lucrèce, pour contredire ce dernier,
+ puisqu'ici la déesse répond à la prière de l'héroïne.
 \end_layout
 
 \end_inset
@@ -13521,13 +14286,13 @@ Ne faut-il pas, de même, dissimuler bien des choses dans un discours, soit
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
 	filename base-de-donnees/images-partieI/iphigenie.jpg
-	width 80text%
+	width 100text%
 
 \end_inset
 
@@ -14118,7 +14883,7 @@ annexes p.
 status collapsed
 
 \begin_layout Plain Layout
-maison de Méléagre, péristyle; maison des Dioscures (VI, 9, 6-7), 
+Maison de Méléagre, péristyle; maison des Dioscures (VI, 9, 6-7), 
 \emph on
 oecus
 \emph default
@@ -14156,13 +14921,16 @@ triclinium
  avoir ce motif; malgré le fait que Thétis soit ici tantôt renvoyée à son
  rôle de mère (comme dans la maison des Uboni où la troisième image, celle
  d'Achille à Skyros, sous-entend le rôle de Thétis, ou encore dans la maison
- des Dioscures où le tablinum est consacré au mythe d'Achille), tantôt à
- celui de déesse marine (comme dans la maison de Méléagre où la même paroi
- comportait également des Néréides chevauchant des monstres marins sur la
- plinthe, ainsi qu'un cadre représentant Didon abandonnée, avec le navire
- d'Énée en fond), elle n'est jamais placée dans des pièces réservées aux
- femmes ou liées à l'eau, mais plutôt dans des pièces d'apparat ou de réception
- --
+ des Dioscures où le 
+\emph on
+tablinum
+\emph default
+ est consacré au mythe d'Achille), tantôt à celui de déesse marine (comme
+ dans la maison de Méléagre où la même paroi comportait également des Néréides
+ chevauchant des monstres marins sur la plinthe, ainsi qu'un cadre représentant
+ Didon abandonnée, avec le navire d'Énée en fond), elle n'est jamais placée
+ dans des pièces réservées aux femmes ou liées à l'eau, mais plutôt dans
+ des pièces d'apparat ou de réception --
 \begin_inset space ~
 \end_inset
 
@@ -14257,7 +15025,8 @@ Boutique V, 2, 14, maison du Poète Tragique (VI, 8, 3-5): annexes p.
 status collapsed
 
 \begin_layout Plain Layout
-Schefold 1972; 
+Schefold 1972, p.
+ 210; 
 \emph on
 Pompei, Pitture e mosaici
 \emph default
@@ -14399,8 +15168,11 @@ Scylla
  palais impérial.
  Les deux Laocoon de Pompéi sont cependant différents en ce qu'ils sont
  plus réalistes: loin de la nudité héroïque de la statue du Vatican, ils
- arborent leur robe de prêtre; le décor laisse voir la trapeza sacrée renversée
- à terre
+ arborent leur robe de prêtre; le décor laisse voir la 
+\emph on
+trapeza
+\emph default
+ sacrée renversée à terre
 \begin_inset Foot
 status collapsed
 
@@ -14411,7 +15183,7 @@ Cadario 2007, p.
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard
@@ -14477,6 +15249,23 @@ Hécube
  Troie.
  La réplique de la maison des Amours Dorés n'a conservé que les pieds des
  personnages, identifiés par des inscriptions.
+ K.
+ Schefold a plutôt identifié le personnage féminin (qui n'est pas accompagné
+ d'une inscription) comme Penthésilée, en raison du bouclier visible à ses
+ côtés dans la version de la maison de Jason (et non dans celle des Amours
+ Dorés; mais en ce cas, la présence de Pâris, dont l'identité n'est pas
+ douteuse, ne s'explique guère
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Schefold 1972, p.
+ 149.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -14830,8 +15619,18 @@ Marrou 1948, p.
 \end_inset
 
 .
- Ainsi en était-on passé, dès le IIe s., à un système d'enseignement où grec
- et latin étaient conjoints
+ Ainsi en était-on passé, dès le II
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ s.
+ av.
+ J.-C., à un système d'enseignement où grec et latin étaient conjoints
 \begin_inset Foot
 status collapsed
 
@@ -14968,6 +15767,9 @@ Ulysses
 \begin_layout Standard
 Enfin, passons aux études supérieures, et puisque le texte homérique est
  bon à tout, cherchons-y le modèle d'une éducation rhétorique: 
+\end_layout
+
+\begin_layout Quotation
 \begin_inset Quotes fld
 \end_inset
 
@@ -15015,7 +15817,11 @@ Id.
 \end_inset
 
 .
- Cicéron se livre au même type de considérations et prend lui aussi Homère
+ 
+\end_layout
+
+\begin_layout Standard
+Cicéron se livre au même type de considérations et prend lui aussi Homère
  comme exemple d'éloquence: 
 \begin_inset Quotes fld
 \end_inset
@@ -16679,7 +17485,7 @@ et c'est fort sagement qu'on fait commencer la lecture par Homère et Virgile,
 status collapsed
 
 \begin_layout Plain Layout
-Quintilien, Livre I, Chap VIII.
+Quintilien, I, VIII.
 \end_layout
 
 \end_inset
@@ -17243,6 +18049,9 @@ in extenso
  à supprimer beaucoup de l’épître) les passages contenant des citations
  d’Homère.
  
+\end_layout
+
+\begin_layout Quotation
 \begin_inset Quotes fld
 \end_inset
 
@@ -17327,7 +18136,7 @@ Odyssée
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quotation
 Et c’est lui, malgré tout, qui vient aussi me consoler; mon âme déjà consumée,
  on veut encore l’enflammer de la passion de la gloire avec ces paroles:
  
@@ -17360,7 +18169,7 @@ Iliade
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quotation
 (…) Le vieux Précilius cite ce vers [d’Euripide] avec prédilection et affirme
  qu’on peut très bien regarder 
 \end_layout
@@ -17389,7 +18198,7 @@ Odyssée
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quotation
 et néanmoins 
 \end_layout
 
@@ -17613,10 +18422,7 @@ Ad Att
  se sentait particulièrement proche d’Ulysse, à qui il se compare à plusieurs
  reprises dans la 
 \emph on
-Correspondance
-\emph default
-\SpecialChar \ldots{}
-
+Correspondance.
 \end_layout
 
 \begin_layout Standard
@@ -17802,7 +18608,11 @@ jeté sur son éponge
 status collapsed
 
 \begin_layout Plain Layout
-Suétone, Auguste, 85.
+Suétone, 
+\emph on
+Auguste
+\emph default
+, 85.
 \end_layout
 
 \end_inset
@@ -17829,7 +18639,11 @@ status collapsed
 Iliade
 \emph default
 , III, v.
- 40; Suétone, Auguste, LXV.
+ 40; Suétone, 
+\emph on
+Auguste
+\emph default
+, LXV.
 \end_layout
 
 \end_inset
@@ -17865,7 +18679,11 @@ status collapsed
 Iliade
 \emph default
 , X, v.
- 246-47; Suétone, vie de Tibère, XXI.
+ 246-47; Suétone, 
+\emph on
+Tibère
+\emph default
+, XXI.
 \end_layout
 
 \end_inset
@@ -17949,7 +18767,11 @@ Par ailleurs, si Tibère était réellement un autre Ulysse, sans doute ce
 status collapsed
 
 \begin_layout Plain Layout
-Suétone, Caligula, XXIII.
+Suétone, 
+\emph on
+Caligula
+\emph default
+, XXIII.
 \end_layout
 
 \end_inset
@@ -18087,7 +18909,11 @@ Apocoloquintose
 status collapsed
 
 \begin_layout Plain Layout
-Suétone, Claude, XLIII.
+Suétone, 
+\emph on
+Claude
+\emph default
+, XLIII.
 \end_layout
 
 \end_inset
@@ -18130,7 +18956,11 @@ Néron fut élevé par son beau-père dans cet esprit et dut à son tour plaider
 status collapsed
 
 \begin_layout Plain Layout
-Suétone, Néron, VII; Tacite, XII, 58.
+Suétone, 
+\emph on
+Néron
+\emph default
+, VII; Tacite, XII, 58.
 \end_layout
 
 \end_inset
@@ -18511,7 +19341,11 @@ théories physiques d'Homère
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Livre II, Anaxagore, 11.
+Diogène Laërce, 
+\emph on
+Anaxagore
+\emph default
+, 11.
 \end_layout
 
 \end_inset
@@ -18534,7 +19368,11 @@ Sur Homère
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Démocrite, 48.
+Diogène Laërce, 
+\emph on
+Démocrite
+\emph default
+, 48.
 \end_layout
 
 \end_inset
@@ -18549,7 +19387,11 @@ Xénophane de Colophon, lui même auteur de vers
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Xénophane de Colophon, 18.
+Diogène Laërce, 
+\emph on
+Xénophane de Colophon
+\emph default
+, 18.
 \end_layout
 
 \end_inset
@@ -18565,7 +19407,11 @@ Diogène Laërce, Xénophane de Colophon, 18.
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Héraclite, 1.
+Diogène Laërce, 
+\emph on
+Héraclite
+\emph default
+, 1.
 \end_layout
 
 \end_inset
@@ -18613,7 +19459,11 @@ s.
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Aristote, XXVI.
+Diogène Laërce, 
+\emph on
+Aristote
+\emph default
+, XXVI.
 \end_layout
 
 \end_inset
@@ -18623,7 +19473,11 @@ Diogène Laërce, Aristote, XXVI.
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Zénon de Citium, 57.
+Diogène Laërce, 
+\emph on
+Zénon de Citium
+\emph default
+, 57.
 \end_layout
 
 \end_inset
@@ -18651,7 +19505,11 @@ e serait Homère lui-même, lui qui n'affirme rien, ne définit rien et exprime
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Pyrrhon, 70.
+Diogène Laërce, 
+\emph on
+Pyrrhon
+\emph default
+, 70.
 \end_layout
 
 \end_inset
@@ -18695,7 +19553,11 @@ Iliade
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Timon de Phlionthe, 113.
+Diogène Laërce, 
+\emph on
+Timon de Phlionthe
+\emph default
+, 113.
 \end_layout
 
 \end_inset
@@ -18715,7 +19577,7 @@ d'être toujours le plus valeureux et supérieur aux autres
 status collapsed
 
 \begin_layout Plain Layout
-Strabon, 11, 1, 6.
+Strabon, XI, 1, 6.
 \end_layout
 
 \end_inset
@@ -18805,7 +19667,7 @@ habitus
 
 \begin_layout Standard
 Sénèque est sans doute le meilleur témoin de ce recours constant des philosophes
- à Homère, dont il se fait d'ailleurs le contempteur, ainsi qu'il l'écrit
+ à Homère dont il se fait d'ailleurs le contempteur, ainsi qu'il l'écrit
  à Lucilius: 
 \end_layout
 
@@ -19420,7 +20282,7 @@ Nekyia
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -19541,7 +20403,11 @@ en punition de ce qu'ils avaient dit l'un et l'autre sur le compte des dieux
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Pythagore, 21.
+Diogène Laërce, 
+\emph on
+Pythagore
+\emph default
+, 21.
 \end_layout
 
 \end_inset
@@ -19562,7 +20428,11 @@ status collapsed
 \emph on
 Ibid.
 \emph default
-, 4; Porphyre, Vie de Plotin, 26.
+, 4; Porphyre, 
+\emph on
+Vie de Plotin
+\emph default
+, 26.
 \end_layout
 
 \end_inset
@@ -19847,7 +20717,11 @@ status collapsed
 Carcopino 1927, p.
  371 
 \emph on
-sq.
+sq.; 
+\emph default
+mais J.
+ Carcopino est ensuite revenu cette position en préférant y voir Phaon,
+ Carcopino 1956.
 \end_layout
 
 \end_inset
@@ -20190,7 +21064,11 @@ ienne.
 status collapsed
 
 \begin_layout Plain Layout
-Diogène Laërce, Pythagore, 11.
+Diogène Laërce, 
+\emph on
+Pythagore
+\emph default
+, 11.
 \end_layout
 
 \end_inset
@@ -20428,7 +21306,11 @@ status collapsed
 
 \begin_layout Plain Layout
 Platner & Ashby 1929, p.
- 330-331; Lexicon Topographicon Urbis Romae, s.
+ 330-331; 
+\emph on
+Lexicon Topographicon Urbis Romae
+\emph default
+, s.
  v.
  
 \begin_inset Quotes fld
@@ -20496,8 +21378,9 @@ Odyssée
  rentrant dans les eaux et en ressortant chaque matin sous la direction
  d'Apollon/Pythagore, elle était bien placée pour présider au mythe pythagoricie
 n de la migration des âmes.
- La cithare que porte le personnage évoque également, dans l'interprétation
- pythagoricienne du décor, les Sirènes --
+ La cithare que porte Sappho ainsi que le décor maritime évoquent également
+ à l'esprit du spectateur, dans l'interprétation pythagoricienne du décor,
+ l'idée des Sirènes --
 \begin_inset space ~
 \end_inset
 
@@ -20511,7 +21394,7 @@ Odyssée
  des sphères sous la conduite d'Apollon, divinités astronomiques elles aussi,
  porteuses de lumière et d'harmonie.
  Sappho, musicienne humaine, rappelle alors la théorie de la musique des
- sphères, comme le faisait tout musicien pour les Pythagoricien (Achille
+ sphères, comme le faisait tout musicien pour les Pythagoriciens (Achille
  par exemple, ainsi que nous l'avons vu).
  
 \end_layout
@@ -20530,7 +21413,7 @@ e que Sappho, que l'on veuille reconnaître dans le personnage nu sur son
  rocher Ulysse ou bien un aspirant pythagoricien, ou bien les deux à la
  fois, il nous semble que celui qui voyait Sappho sur cette image, en suivant
  du regard le bras tendu d'Apollon, devait également y voir, en surimpression,
- une divinité porteuse d'harmonie et de lumière.
+ une divinité porteuse d'harmonie, de lumière et de renaissance.
 \end_layout
 
 \begin_layout Chapter
@@ -20718,6 +21601,34 @@ pinacothèque
 \begin_inset Quotes frd
 \end_inset
 
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Comme dans la maison du Poète Tragique (VI, 8, 3-5): K.
+ Schefold a vu dans le tableau du sacrifice d'Iphigénie une tentative d'imiter
+ l'art archaïque, notamment par la raideur et le manque de profondeur du
+ personnage principal, et dans les tableaux du départ de Chryséis et de
+ celui de Briséis, des copies d'œuvres du III
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ s.
+ av.
+ J.-C.
+ et d'environ -330, respectivement.
+ Voir Schefold 1972, p.
+ 50.
+\end_layout
+
+\end_inset
+
 .
 \end_layout
 
@@ -20833,8 +21744,19 @@ des épisodes empruntés à la mythologie, ou les guerres de Troie, ou les
 
 , dans de grands paysages comme ceux des fresques odysséennes de la maison
  de l'Esquilin, que nous avons déjà mentionnée dans cette étude.
- La fresque en question, longue d'une vingtaine de mètres, devait représenter
- toute l'Odyssée
+ La fresque en question, longue d'une vingtaine de mètres et qui se situait
+ en hauteur de la paroi
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Gallina 1962, p.
+ 15.
+\end_layout
+
+\end_inset
+
+, devait représenter toute l'Odyssée
 \begin_inset Foot
 status collapsed
 
@@ -20853,7 +21775,7 @@ sq.
 \end_inset
 
  et illustrait les préceptes de Vitruve.
- On peut d'ailleurs la rapprocher des peintures du colobarium de Statilius
+ On peut d'ailleurs la rapprocher des peintures du colombarium de Statilius
  Taurus près de la Porte Majeure à Rome, où étaient figurés la fondation
  de Lavinium, le Numicius personnifié, une scène d'armistice, une Victoire
  couronnant Énée, le Tibre et l'abandon de Romulus et Rémus
@@ -22260,14 +23182,6 @@ IX, 5, 18,
 triclinium
 \emph default
  f.
- K.
- Schefold a plutôt identifié le personnage féminin (qui n'est pas accompagné
- d'une inscription) comme Penthésilée, en raison du bouclier visible à ses
- côtés dans la version de la maison de Jason (et non dans celle des Amours
- Dorés; mais en ce cas, la présence de Pâris, dont l'identité n'est pas
- douteuse, ne s'explique guère.
- (Schefold 1972, p.
- 149).
 \end_layout
 
 \end_inset
@@ -33910,7 +34824,7 @@ VI, 2, 3.
 
 .
  Par ailleurs, nous avons déjà mentionné, dans la première partie de cette
- étude, les travaux de G.
+ étude, la synthèse de G.
  Drury-Moyaers
 \begin_inset Foot
 status collapsed
@@ -33921,8 +34835,19 @@ Drury-Moyaers 1981.
 
 \end_inset
 
- sur la présence d’Énée en territoire latin, à Lavinium, à une époque bien
- antérieure à la construction du régime augustéen.
+ sur les travaux de P.
+ Somella
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Somella 1972, Giuliani et Somella 1977.
+\end_layout
+
+\end_inset
+
+ à propos de la présence d’Énée en territoire latin, à Lavinium, à une époque
+ bien antérieure à la construction du régime augustéen.
  Il est en tout cas établi que la ville constituait sous l'Empire une sorte
  de lieu sacré de la légende énéenne, ainsi qu'en atteste Valère Maxime
  en racontant que le héros avait lui-même placé à Lavinium les Pénates de
@@ -41916,6 +42841,221 @@ Minerva - Palladion
 Urbs
 \emph default
  à ses origines troyennes.
+\end_layout
+
+\begin_layout Section*
+Conclusion
+\end_layout
+
+\begin_layout Standard
+Si les Romains ont su insérer dans leur culture religieuse nombre de mythes
+ grecs en leur donnant une certaine latinité dans la forme, le fond de ces
+ légendes est le plus souvent resté identique à lui-même.
+ Le cas des héros homériques est différent: après les évolutions et les
+ synthèses survenues au fil des siècles, chez les Alexandrins et en Italie,
+ les Romains se les sont tout à fait appropriés.
+ Ulysse n'erre plus seulement à la poursuite d’un foyer réel ou symbolique,
+ il devient un guide de 
+\emph on
+virtus
+\emph default
+ dont les qualités humaines assurent le salut; Achille n'est plus seulement
+ le héros grec par excellence, entièrement voué à ses exploits et à sa gloire,
+ il montre aux jeunes Romains l'exemple d'une éducation complète; Pâris
+ et Hélène ne sont plus des traîtres, cause d'innombrables morts, ils sont
+ les modèles de l'amour légendaire chanté par Ovide dans les 
+\emph on
+Héroïdes
+\emph default
+; Cassandre, Laocoon, Priam, ne sont plus seulement des figures de tragédie,
+ mais ceux dont le sacrifice permet qu'un plus grand bien arrive, la naissance
+ de Rome dans les flammes de Troie.
+ La filiation avec l’antique Ilion par le biais de l’exode mythique d’Énée
+ donne à Rome une généalogie noble et fait revivre un temps mythique qui,
+ au temps des guerres civiles et du bouleversement des valeurs, permet à
+ chaque Romain de retrouver à la fois une certaine fierté nationale et,
+ du point de vue des
+\emph on
+ imperatores
+\emph default
+, la cohésion de l’État derrière une généalogie commune.
+ Parler d'Homère, à Rome, aux I
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ers
+\end_layout
+
+\end_inset
+
+ siècles avant et après J.-C., c'est parler une langue commune: du simple
+ citoyen de province aux grands de l'Empire, cette culture partagée se retrouve
+ à tous les niveaux, dans la culture scolaire, érudite ou philosophique
+ des uns, dans le goût pour l'art des autres, dans la fierté d'une fondation
+ mythique pour tous.
+ Les héros homériques ont donc ce statut paradoxal, dans une société où
+ l’image d’un dieu sait exprimer plus de choses qu’un long discours, d’être
+ à la fois omniprésents dans le paysage domestique et urbain, et l’apanage
+ d’un petit nombre; symbole familial ou image de marque, ils sont manipulés
+ par l’élite qui en fait ses porte-étendard en politique ou pour rehausser
+ son prestige social, et pourtant ils font partie d’un paysage visuel qui
+ s’offre à tous sans distinction.
+ S'il est vrai que ce sont surtout les classes régnantes et les citoyens
+ les plus riches qui se plaisent à cette culture, et que l’image du héros
+ homérique apparaît donc comme une marque de distinction sociale, Achille
+ veillant sur l’
+\emph on
+atrium
+\emph default
+ des riches Pompéiens aux yeux desquels son image tutélaire est signe de
+ puissance sociale, de richesse, tout autant que de goût artistique, Homère
+ s'immisce même dans la vie quotidienne, et, à Rome, la multiplication des
+ œuvres d'arts dans les maisons, des statues dans les temples et sous les
+ portiques, peut à bon droit laisser penser que les promesses du régime
+ augustéen sont tenues: l'âge d'or est de retour, et les citoyens de Rome,
+ de nouveau, marchent parmi les héros.
+\end_layout
+
+\begin_layout Standard
+La fortune d'Homère ne s'arrête pas à la mort du dernier des julio-claudiens.
+ Loin dans l'Empire, on trouve des représentations de ses héros de l'Hispanie,
+ avec la mosaïque du sacrifice d'Iphigénie à Emporiae, à Zeugma avec les
+ représentations d'Achille à Skyros dans la maison de Théonoé et celle du
+ Télétè; on continuera à s'intéresser à l'héritage troyen sous les dynasties
+ suivantes, Flaviens
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes fld
+\end_inset
+
+Hâte-toi de naître, héritier promis au Troyen Iule, authentique rejeton
+ des dieux
+\begin_inset Quotes frd
+\end_inset
+
+, dit Martial au fils à naître de Domitien (
+\emph on
+Épigrammes
+\emph default
+ VI, III).
+\end_layout
+
+\end_inset
+
+ comme Antonins
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Hadrien orna sa villa de Tivoli de nombreuses sculptures à thème homérique.
+\end_layout
+
+\end_inset
+
+.
+ Les nouvelles variations littéraires sur ce thème ne manquent pas: l'Achilléide
+ de Stace, en particulier, fige dès la fin du I
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+er
+\end_layout
+
+\end_inset
+
+ s.
+ après J.-C.
+ le héros en son visage définitif; Silius Italicus trouve dans la haine
+ de Didon pour Énée les raisons des guerres puniques; Quintus de Smyrne
+ rédige la suite d'Homère, les 
+\emph on
+Posthomerica
+\emph default
+, en grec; à la toute fin de l'Antiquité, le roman latin trouve encore à
+ puiser à ces sources, avec la traduction latine des 
+\emph on
+Ephemeris belli Troiani
+\emph default
+, dont le 
+\begin_inset Quotes fld
+\end_inset
+
+traducteur
+\begin_inset Quotes frd
+\end_inset
+
+ au IV
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ s.
+ prétend avoir retrouvé le texte dans la tombe de Dictys de Crète au milieu
+ du I
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+er
+\end_layout
+
+\end_inset
+
+ s.
+ après J.-C., et les 
+\emph on
+Acta Diurna Belli Troiani
+\emph default
+, censément rédigés par un Darès le Phrygien, participant à la guerre de
+ Troie, et dont le narrateur --
+\begin_inset space ~
+\end_inset
+
+au VI
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ siècle
+\begin_inset space ~
+\end_inset
+
+-- se fait passer pour Cornelius Nepos écrivant à Salluste pour lui en donner
+ la traduction, qui inspireront le Roman de Troie vers 1165.
+ Si Properce vante à l'occasion Virgile et 
+\begin_inset Quotes fld
+\end_inset
+
+les écrits du voluptueux Catulle, par lesquels Lesbie est plus connue qu'Hélène
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Élégies
+\emph default
+, II, 34, v.
+ 87-88.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes frd
+\end_inset
+
+, il sait être de mauvaise foi: Homère reste dans la culture romaine, et
+ ce jusqu'à la fin de l'Antiquité, un point d'ancrage incontournable.
 \end_layout
 
 \begin_layout Standard
