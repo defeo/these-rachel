@@ -108,6 +108,7 @@
     
 
 %% Helping pagination 
-%\raggedbottom
 \midsloppy
-\widowpenalty=20000
+\sloppybottom
+\clubpenalty=8000
+\widowpenalty=8000
