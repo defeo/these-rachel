@@ -116,7 +116,11 @@ Dessales
 \shape default
 , qui fut ma tutrice à l'École Normale Supérieure, et qui me fit découvrir
  l'archéologie et me permit de devenir l'élève de M.
- Sauron; Mme Nathalie 
+ 
+\shape smallcaps
+Sauron
+\shape default
+; Mme Nathalie 
 \shape smallcaps
 de Chaisemartin
 \shape default
@@ -348,7 +352,7 @@ On a parfois tendance à oublier, toutefois, à quel point les Romains suivirent
 \begin_inset space ~
 \end_inset
 
-les Scipio Asiaticus, les Aemilius Paullus, les Scylla, les Mummius
+les Scipio Asiaticus, les Aemilius Paullus, les Sylla, les Mummius
 \begin_inset space ~
 \end_inset
 
@@ -899,7 +903,7 @@ mainmatter*
 \end_layout
 
 \begin_layout Part
-D'Homère à Rome - cheminements et transformations des sources
+D'Homère à Rome: cheminements et transformations des sources
 \end_layout
 
 \begin_layout Chapter
@@ -16667,7 +16671,6 @@ Ibid.
 arma virumque cano
 \emph default
 \SpecialChar \ldots{}
-
  laisse soupçonner des élèves sur le chemin de l'école, reprenant la phrase
  qui leur venait le plus facilement en tête, car le plus souvent apprise.
  Les graffiti tirés des 
@@ -17853,11 +17856,11 @@ Belle application de ces vers d'Homère
 \end_layout
 
 \begin_layout Verse
-Un jour d'automne où Zeus, contre l'homme irrité, 
+"Un jour d'automne où Zeus, contre l'homme irrité, 
 \end_layout
 
 \begin_layout Verse
-Se venge en déchaînant les torrents de la pluie 
+Se venge en déchaînant les torrents de la pluie" 
 \end_layout
 
 \begin_layout Quotation
@@ -17865,11 +17868,11 @@ Cela coïncide, en effet, avec l'absolution de Gabinius:
 \end_layout
 
 \begin_layout Verse
-Contre l'homme qui rend des sentences boiteuses, 
+"Contre l'homme qui rend des sentences boiteuses, 
 \end_layout
 
 \begin_layout Verse
-Chassant de l'agora la Justice, au mépris Du châtiment divin
+Chassant de l'agora la Justice, au mépris du châtiment divin"
 \begin_inset Quotes frd
 \end_inset
 
@@ -18155,7 +18158,7 @@ Ce dernier (\SpecialChar \ldots{}
 \end_layout
 
 \begin_layout Verse
-Mais, au fond de mon cœur, je refusais toujours
+"Mais, au fond de mon cœur, je refusais toujours
 \begin_inset Foot
 status collapsed
 
@@ -18175,8 +18178,7 @@ Odyssée
 
 \end_inset
 
-.
- 
+." 
 \end_layout
 
 \begin_layout Verse
@@ -18184,12 +18186,12 @@ Car je prêtais l'oreille aux clameurs de nos seigneurs:
 \end_layout
 
 \begin_layout Verse
-Sois vaillant pour qu'un jour quelque arrière-neveu 
+"Sois vaillant pour qu'un jour quelque arrière-neveu 
 \end_layout
 
 \begin_layout Verse
-Parle aussi bien de toi\SpecialChar \ldots{}
-
+Parle aussi bien de toi (\SpecialChar \ldots{}
+)
 \begin_inset Foot
 status collapsed
 
@@ -18204,11 +18206,11 @@ Odyssée
 
 \end_inset
 
- 
+"
 \end_layout
 
 \begin_layout Verse
-Il disait; la douleur enveloppait ce cœur 
+"Il disait; la douleur enveloppait ce cœur 
 \end_layout
 
 \begin_layout Verse
@@ -18228,7 +18230,7 @@ Odyssée
 \end_inset
 
 (\SpecialChar \ldots{}
-).
+)".
  
 \end_layout
 
@@ -18239,7 +18241,7 @@ Et c'est lui, malgré tout, qui vient aussi me consoler; mon âme déjà consum�
 \end_layout
 
 \begin_layout Verse
-Non! Je ne mourrai pas sans lutte ni sans gloire, 
+"Non! Je ne mourrai pas sans lutte ni sans gloire, 
 \end_layout
 
 \begin_layout Verse
@@ -18263,7 +18265,7 @@ Iliade
 
 \end_inset
 
- 
+"
 \end_layout
 
 \begin_layout Quotation
@@ -18273,7 +18275,7 @@ Iliade
 \end_layout
 
 \begin_layout Verse
-Tout à la fois devant et derrière soi
+"Tout à la fois devant et derrière soi
 \begin_inset Foot
 status collapsed
 
@@ -18293,7 +18295,7 @@ Odyssée
 
 \end_inset
 
- 
+" 
 \end_layout
 
 \begin_layout Quotation
@@ -18301,7 +18303,7 @@ et néanmoins
 \end_layout
 
 \begin_layout Verse
-En tout temps exceller et surpasser les autres
+"En tout temps exceller et surpasser les autres
 \begin_inset Foot
 status collapsed
 
@@ -18317,7 +18319,7 @@ Iliade
 
 \end_inset
 
-
+"
 \begin_inset Quotes frd
 \end_inset
 
@@ -20401,7 +20403,7 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
-
+ Canthare d'argent d'époque julio-claudienne: Ulysse aux Enfers.
 \end_layout
 
 \end_inset
@@ -24152,9 +24154,10 @@ Inv.
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename base-de-donnees/sculptures-objets/kalathos-napoli-apotheose.jpg
 	width 50text%
@@ -24417,7 +24420,7 @@ er
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -25019,9 +25022,21 @@ Pour que le butin soit rendu au domaine public
 \begin_inset Quotes frd
 \end_inset
 
-, et Quintus Métellus Macedonicus avait édifié dans les années -140 le tout
- premier portique destiné à recevoir des œuvres d'art, autour du temple
- de Jupiter Stator et de Junon Regina.
+, et Quintus Metellus Macedonicus avait édifié dans les années 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{-140}
+\end_layout
+
+\end_inset
+
+ le tout premier portique destiné à recevoir des œuvres d'art, autour du
+ temple de Jupiter Stator et de Junon Regina.
  Le complexe de Pompée au champ de Mars comprenait non seulement le temple
  de Venus Victrix et le théâtre attenant, mais également un quadriportique
  qui faisait figure de véritable musée avec ses nombreuses statues choisies
@@ -25185,9 +25200,9 @@ les conquérants emportaient dans leurs bagages statues en métal et tableaux,
 
 (\SpecialChar \ldots{}
 ) A Lanuvium, (\SpecialChar \ldots{}
-) Atalante et Hélène ont été peintes nues côte à côte
- par un unique artiste: toutes deux sont d'une parfaite beauté, mais dans
- la première on reconnaît une vierge (\SpecialChar \ldots{}
+) Atalante et Hélène ont été peintes nues côte à côte par
+ un unique artiste: toutes deux sont d'une parfaite beauté, mais dans la
+ première on reconnaît une vierge (\SpecialChar \ldots{}
 ).
  L'empereur Caligula, qui en était épris, essaya de les détacher (\SpecialChar \ldots{}
 )
@@ -25761,8 +25776,11 @@ Coarelli 1997b
 \emph on
 suovetaurile
 \emph default
-) à Mars en présence du flamen Martialis ainsi que des Romains probablement
- en train d'achever la clôture du 
+) à Mars en présence du 
+\emph on
+flamen Martialis
+\emph default
+ ainsi que des Romains probablement en train d'achever la clôture du 
 \emph on
 lustrum
 \emph default
@@ -25886,10 +25904,14 @@ status collapsed
 \begin_layout Standard
 Suétone
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Auguste, XLIII.
+
+\emph on
+Auguste
+\emph default
+, XLIII.
 \end_layout
 
 \end_inset
@@ -26309,7 +26331,11 @@ danser
 \begin_inset Quotes fld
 \end_inset
 
+
+\emph on
 saltaret
+\emph default
+
 \begin_inset Quotes frd
 \end_inset
 
@@ -26715,8 +26741,8 @@ Briséis entraînée par les hérauts // les nombreuses filles de Lycomède,
  Ulysse à la porte, Diomède et sa trompette, puis le fils de Pélée se révèle.
  (\SpecialChar \ldots{}
 ) (et si nécessaire) Achille à Troie, tuant\SpecialChar \ldots{}
-
- faisant peur, traînant le corps d'Hector et sautant.
+ faisant peur, traînant le
+ corps d'Hector et sautant.
 \begin_inset Quotes frd
 \end_inset
 
@@ -28758,11 +28784,7 @@ ent un roi pour ancêtre: Calpurnii et Aemilii (descendants de deux fils
  de Numa), Tullii, Marcii.
  D'autres rattachaient leur lignée au héros grec favori des Romains, Hercule,
  à l'exemple des illustres Fabii qui prétendaient descendre d'Hercule et
- d'Évandre --
-\begin_inset space ~
-\end_inset
-
-deux héros, un grec et un latin, valant mieux qu'un seul.
+ d'Évandre, deux héros valant mieux qu'un seul.
  Les familles Potitia et Pinaria étaient elles aussi liées à Hercule via
  un culte héréditaire qu'il était censé leur avoir confié lui-même, et même
  si elles n'en descendaient pas officiellement, le héros leur donnait un
@@ -39348,7 +39370,6 @@ Or sus! Troyens, dompteurs de cavales
 \end_inset
 
 \SpecialChar \ldots{}
-
  Au chant VII, il décide conjointement avec Athéna le duel d'Hector et d'Ajax
  (v.
  19-34).
@@ -41005,8 +41026,8 @@ Satyricon
  C', etc, des scènes d'éducation ou d'initiation, incarnées par Cupidon
  et Vénus, Achille et Chiron, peut-être Polyphème et Galatée, une déesse
  et un héros, Marsyas et Olympos, Minerve et Rome, Endymion, Orphée\SpecialChar \ldots{}
- En
- F, Hippolyte lisait la lettre de Phèdre, celle-ci au milieu de ses servantes,
+ En F,
+ Hippolyte lisait la lettre de Phèdre, celle-ci au milieu de ses servantes,
  en G, Vulcain surprenait Arès et Vénus
 \begin_inset Foot
 status collapsed
@@ -43554,8 +43575,7 @@ r sur cette présence, et à analyser le rôle joué par ces personnages de
 \series bold
 Mots clef:
 \series default
- Homère, guerre civile, julio-claudiens, littérature, art romain,
- politique.
+ Homère, guerre civile, julio-claudiens, littérature, art romain, politique.
 \end_layout
 
 \begin_layout Standard
