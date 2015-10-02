@@ -43359,8 +43359,10 @@ r sur cette présence, et à analyser le rôle joué par ces personnages de
 \begin_layout Abstract
 
 \series bold
-Mots clef: Homère, guerre civile, julio-claudiens, littérature, art romain,
- politique
+Mots clef:
+\series default
+ Homère, guerre civile, julio-claudiens, littérature, art romain,
+ politique.
 \end_layout
 
 \begin_layout Standard
@@ -43417,7 +43419,9 @@ l reference in Rome.
 \begin_layout Abstract
 
 \series bold
-Keywords: Homer, civil war, Julio-Claudians, literature, roman art, politics
+Keywords:
+\series default
+ Homer, civil war, Julio-Claudians, literature, roman art, politics.
 \end_layout
 
 \begin_layout Standard

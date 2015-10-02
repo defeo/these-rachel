@@ -99,7 +99,8 @@
   \ifx \back@cover@layout \undefined%
   \else \back@cover@layout \fi%
 }
-\newcommand{\fourthcover}{\cleartoevenpage\pagestyle{empty}\setlength{\parindent}{0pt}}
+\newcommand{\fourthcover}{\pagestyle{empty}\cleartoevenpage\setlength{\parindent}{0pt}
+}
 
 %% Abstract
 \renewcommand{\abstract}{\textbf{\large\thetitle}\framed\abstractname\par\medskip\small}
