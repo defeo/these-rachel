@@ -2951,10 +2951,10 @@ De façon plus ostensible encore, les grands auteurs dramatiques, Eschyle,
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="4">
 <features islongtable="true" longtabularalignment="center">
-<column alignment="center" valignment="top" width="15text%">
-<column alignment="center" valignment="top" width="30text%">
-<column alignment="center" valignment="top" width="30text%">
-<column alignment="center" valignment="top" width="25text%">
+<column alignment="left" valignment="top" width="15text%">
+<column alignment="left" valignment="top" width="25text%">
+<column alignment="left" valignment="top" width="25text%">
+<column alignment="left" valignment="top" width="25text%">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -3335,9 +3335,9 @@ Nombre de tragédies:
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="3">
 <features islongtable="true" longtabularalignment="center">
-<column alignment="center" valignment="top" width="20text%">
-<column alignment="center" valignment="top" width="40text%">
-<column alignment="center" valignment="top" width="40text%">
+<column alignment="left" valignment="top" width="20text%">
+<column alignment="left" valignment="top" width="35text%">
+<column alignment="left" valignment="top" width="35text%">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -16797,9 +16797,9 @@ contiquere
 <features islongtable="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="15text%">
 <column alignment="left" valignment="top" width="35text%">
-<column alignment="left" valignment="top" width="50text%">
+<column alignment="left" valignment="top" width="40text%">
 <row>
-<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -17142,9 +17142,9 @@ Arma virumqua(!) / arma vi Arma virumque // arma viru
 <features islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="top" width="15text%">
 <column alignment="left" valignment="top" width="35text%">
-<column alignment="left" valignment="top" width="50text%">
+<column alignment="left" valignment="top" width="40text%">
 <row>
-<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
