@@ -79,6 +79,17 @@ frontmatter*
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "title.tex"
+
+\end_inset
+
+
+\end_layout
+
+
 \begin_layout Paragraph*
 Remerciements
 \end_layout
@@ -43122,6 +43133,132 @@ filename "bibliography.tex"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+thirdcover
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+fourthcover
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Écrire ici.
+\end_layout
+
+\begin_layout Abstract
+
+\series bold
+Mots clef:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+selectlanguage{british}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+title{Homer in Roman culture between the end of the Republic and the end
+ of the Julio-Claudian dynasty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Write here.
+\end_layout
+
+\begin_layout Abstract
+
+\series bold
+Keywords:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape smallcaps
+Université Paris-Sorbonne
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape smallcaps
+École doctorale
+\shape default
+:
+\end_layout
+
+\begin_layout Standard
+ED 124 -- Histoire de l'art et Archéologie
+\end_layout
+
+\begin_layout Standard
+Bureau 233, Gallerie Colbert-INHA, 2 rue Vivienne, 75002 Paris
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape smallcaps
+Discipline
+\shape default
+:
+\series default
+ Archéologie
 \end_layout
 
 \end_body

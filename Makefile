@@ -1,6 +1,6 @@
 all: these.pdf annexe.pdf
 
-these.pdf: these.tex these.cls hyphenations.sty bibliography.tex bibliography-cites.tex \
+these.pdf: these.tex these.cls hyphenations.sty title.tex bibliography.tex bibliography-cites.tex \
 	modernes.bib modernes.bst antiques.bib antiques.bst
 	latexmk -f -pdf these.tex
 

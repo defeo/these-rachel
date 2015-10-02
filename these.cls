@@ -12,9 +12,10 @@
 \RequirePackage[final,tracking=true]{microtype}
 
 %% Others
-\RequirePackage[francais]{babel}
+\RequirePackage[british,francais]{babel}
 \RequirePackage[hidelinks]{hyperref}
 \RequirePackage{bookmark}
+\RequirePackage{framed}
 
 %%%%%%%%%%%%%% Style
 % \settypeblocksize{*}{31pc}{1.75}
@@ -81,6 +82,19 @@
 \newcites{antiques,modernes}{Auteurs antiques,Auteurs modernes}
 \renewcommand{\@memb@bchap}{\section*{\bibname}\prebibhook}
 \renewcommand{\prebibhook}{\small}
+
+%% To move to the third and fourth cover
+\newcommand{\thirdcover}{%
+  \cleartooddpage\pagestyle{empty}%
+  \ifx \back@cover@layout \undefined%
+  \else \back@cover@layout \fi%
+}
+\newcommand{\fourthcover}{\cleartoevenpage\pagestyle{empty}\setlength{\parindent}{0pt}}
+
+%% Abstract
+\renewcommand{\abstract}{\textbf{\large\thetitle}\framed\abstractname\par\medskip\small}
+\renewcommand{\endabstract}{\endframed}
+    
 
 %% Helping pagination 
 %\raggedbottom
