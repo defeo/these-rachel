@@ -9,8 +9,8 @@ dp7,"I, 4, 5-25",Maison du Cithariste,Priam? Latinus? Nestor?,Peinture,début 3e
 dp8,"I, 4, 5-25",Maison du Cithariste,Iphigénie en Tauride,Peinture,4e style,Exèdre 35,est,Peintre d'Achille,MN9111,Pompei Pitture e Mosaici
 dp9,"I, 6, 2",Maison du Cryptoportique,Scènes de l'Iliade et du cycle homérique,Peinture,2e style II a,Cryptoportique,toutes,,"en place, en bonne partie détruite",Pompei Pitture e Mosaici
 dp10,"I, 6, 4",Maison du Laraire d'Achille,Scènes de l'Iliade,Stuc ,4e style,Laraire,Est-sud-ouest,,en place,Pompei Pitture e Mosaici
-dp11,"I, 7, 7",Maison du prêtre Amandus,Pâris et Hélène (+ Aphrodite),Peinture,3e style,cubiculum c,sud,,en place,Pompei Pitture e Mosaici
-dp12,"I, 7, 7",Maison du prêtre Amandus,"Galatée et Polyphème, navire d'Ulysse",Peinture,4e style,triclinium b,sud,peintre de Boscotrecase,en place,Pompei Pitture e Mosaici
+dp11,"I, 7, 7",Maison du prêtre Amandus,Pâris et Hélène (+ Aphrodite),Peinture,3e style phase II b finale,cubiculum c,sud,,en place,Pompei Pitture e Mosaici
+dp12,"I, 7, 7",Maison du prêtre Amandus,"Galatée et Polyphème, navire d'Ulysse",Peinture,3e style phase II b finale,triclinium b,sud,peintre de Boscotrecase,en place,Pompei Pitture e Mosaici
 dp13,"I, 7, 11",Maison de l'Éphèbe ou de P. Cornelius Tages ,Retrouvailles de Ménélas et Hélène,Peinture,4e style,Triclinium 17,ouest,,en place,Pompei Pitture e Mosaici
 dp14,"I, 8, 17",Maison des Quatre Styles,Jugement de Pâris,Peinture,3e style final,Tablinum 9 qui serait peut-être un triclinium,sud,,en place,Pompei Pitture e Mosaici
 dp15,"I, 10, 4",Maison du Ménandre,Le Cheval de Troie,Peinture,4e style,Ala 4,est,Peintre d'Iphigénie,en place,R. Deyts
@@ -20,7 +20,7 @@ dp18,"I, 11, 6-7",Maison de la Vénus en bikini,Jugement de Pâris,Peinture,4e s
 dp19,"II, 2, 2",Maison de D. Octavius Quarto,Jeux funéraires de Patrocle (frise),Peinture,4e style,Oecus h,Est-sud-nord,,en place,Pompei Pitture e Mosaici
 dp20,"III, 4, 4",Maison de Pinarius Cerialis,Iphigénie en Tauride,Peinture,4e style,cubiculum a,nord,Peintre d'Io,en place,Pompei Pitture e Mosaici
 dp21,"V, 1, 18",Maison des Epigrammes,Homère sur un trône,Peinture,2e style final,exèdre y,nord,,en place,Pompei Pitture e Mosaici
-dp22,"V, 1, 23-26",Maison de Caecilius Jucundus,Iphigénie en Tauride,Peinture,3e style,tablinum i,nord,Peintre de Caecilius Jucundus,MN111439,R. Deyts
+dp22,"V, 1, 23-26",Maison de Caecilius Jucundus,Iphigénie en Tauride,Peinture,3e style phase II b finale,tablinum i,nord,Peintre de Caecilius Jucundus,MN111439,R. Deyts
 dp23,"V, 1, 23-26",Maison de Caecilius Jucundus,Jugement de Pâris,Peinture,3e style,triclinium o,nord,Peintre d'Adonis blessé,en place,Pompei Pitture e Mosaici
 dp24,"V, 2, 14",boutique,Embarquement de Chryséis,Peinture,4e style,Arrière-boutique,,peintre d'Iphigénie,MN119690,Pompei Pitture e Mosaici
 dp25,"V, 2, 14",boutique,"Ulysse tire l'épée, Circé",Peinture,4e style,Arrière-boutique,,peintre d'Iphigénie,MN119689,Pompei Pitture e Mosaici
@@ -47,12 +47,12 @@ dp45,"VI, 10, 2",Maison des Cinq Squelettes,"Prophétie de Cassandre (Priam, Hec
 dp46,"VI, 10, 2",Maison des Cinq Squelettes,"Reconnaissance d'Ulysse (Pénélope, Euryclée)",Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN9107,Pompei Pitture e Mosaici
 dp47,"VI, 10, 2",Maison des Cinq Squelettes,Pâris et Hélène,Peinture,"3e style, dernière phase",Triclinium 6,inconnue,Peintre des Cinq Squelettes,MN9002,Pompei Pitture e Mosaici
 dp48,"VI, 11, 8-10",Maison du Labyrinthe,Pâris et Hélène,Peinture,4e style,Cubiculum 29,nord,Peintre de Méléagre,"en place, en bonne partie détruite",Pompei Pitture e Mosaici
-dp49,"VI, 14, 28-33",Maison de Laocoon,Mort de Laocoon,Peinture,3e style phase finale,atrium a,sud,,MN111210,R. Deyts
-dp50,"VI, 14, 28-33",Maison de Laocoon,"Polyphème, Énée et ses marins",Peinture,3e style ,tablinum k,nord,,MN111211,Pompei Pitture e Mosaici
+dp49,"VI, 14, 28-33",Maison de Laocoon,Mort de Laocoon,Peinture,3e style phase II b finale,atrium a,sud,,MN111210,R. Deyts
+dp50,"VI, 14, 28-33",Maison de Laocoon,"Polyphème, Énée et ses marins",Peinture,3e style phase II b finale,tablinum k,nord,,MN111211,Pompei Pitture e Mosaici
 dp51,"VI, 15, 1",Maison des Vettii,Sacrifice in absentia d'Iphigénie,Peinture,4e style,salle q,"est, prédelle",,en place,Pompei Pitture e Mosaici
 dp52,"VI, 15, 1",Maison des Vettii,Iphigénie en Tauride,Peinture,4e style,salle q,"ouest, prédelle",,en place,Pompei Pitture e Mosaici
-dp54,"VI, 16, 7-38",Maison des Amours dorés,"Phénix, Achille, Pâris et Polyxène",Peinture,3e style tardif,atrium B,nord,,MN20559,Pompei Pitture e Mosaici
-dp55,"VI, 16, 7-38",Maison des Amours dorés,Pâris sur l'Ida,Peinture,3e style tardif,atrium B,sud,,disparue,Pompei Pitture e Mosaici
+dp54,"VI, 16, 7-38",Maison des Amours dorés,"Phénix, Achille, Pâris et Polyxène",Peinture,3e style phase II b finale,atrium B,nord,,MN20559,Pompei Pitture e Mosaici
+dp55,"VI, 16, 7-38",Maison des Amours dorés,Pâris sur l'Ida,Peinture,3e style phase II b finale,atrium B,sud,,disparue,Pompei Pitture e Mosaici
 dp56,"VI, 16, 7-38",Maison des Amours dorés,Pâris et Hélène,Peinture,3e style tardif,tablinum E,ouest,Peintre de Jason,en place,R. Deyts
 dp57,"VI, 16, 7-38",Maison des Amours dorés,"Achille, Briséis et Patrocle",Peinture,3e style tardif,exèdre G,sud,,en place,R. Deyts
 dp58,"VI, 16, 7-38",Maison des Amours dorés,Thétis dans la forge d'Héphaïstos,Peinture,3e style tardif,exèdre G,nord,peintre d'Io,en place,R. Deyts
@@ -71,9 +71,9 @@ dp70,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,Achille à Skyros,Peintur
 dp71,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,"Thétis sur un cheval marin, apportant son armure à Achille",Peinture,4e style,pièce U,ouest,Peintre des quatre divinités,en place,Pompei Pitture e Mosaici
 dp72,"IX, 5, 1-3",Maison des Uboni ou Maison d'Achille,Thétis dans la forge d'Héphaïstos,Peinture,4e style,pièce U,est,Peintre des quatre divinités,en place,Pompei Pitture e Mosaici
 dp73,"IX, 5, 18",Maison de Jason,Pâris et Hélène,Peinture,3e style,cubiculum e,nord,Peintre de Jason,MN114320,R. Deyts
-dp74,"IX, 5, 18",Maison de Jason,"Phénix, Achille, Pâris et Polyxène",Peinture,3e style,triclinium f,sud,,MN111471,R. Deyts
+dp74,"IX, 5, 18",Maison de Jason,"Phénix, Achille, Pâris et Polyxène",Peinture,3e style phase Ib,triclinium f,sud,,MN111471,R. Deyts
 dp75,"IX, 7, 16",Maison du Cheval de Troie,Cheval de Troie,Peinture,3e style,chambre a,ouest,,MN120176,R. Deyts
-dp76,"IX, 8, 3-7",Maison du Centenaire,Iphigénie en Tauride,Peinture,4e style,Triclinium 41,sud,Peintre d'Adonis blessé,en place,Pompei Pitture e Mosaici
+dp76,"IX, 8, 3-7",Maison du Centenaire,Iphigénie en Tauride,Peinture,3e style phase Ib,Triclinium 41,sud,Peintre d'Adonis blessé,en place,Pompei Pitture e Mosaici
 dp77,"IX, 13, 1-3",Maison de Julius Polybius,Pâris et Aphrodite,Peinture,4e style,Pièce A',sud,,"en place, en bonne partie détruite",Pompei Pitture e Mosaici
 dp78,"IX, 13, 5",Fullonica di Ullulitremulus,"Énée fuyant Troie, Romulus",Peinture,période impériale,mur extérieur,/,Peintre des quatre divinités,disparue,Pompei Pitture e Mosaici
 dp79,inconnue,inconnu,Pâris sur l'Ida,Peinture,inconnue,inconnue,inconnue,,MANN9508,R. Deyts
