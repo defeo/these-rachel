@@ -110,3 +110,4 @@
 %% Helping pagination 
 %\raggedbottom
 \midsloppy
+\widowpenalty=20000
