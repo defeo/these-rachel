@@ -39,7 +39,9 @@
 
 %% Figure captions
 \RequirePackage[font=small]{caption}
-\counterwithout{figure}{chapter}
+\renewcommand\@memmain@floats{%
+  \counterwithout{figure}{chapter} 
+  \counterwithout{table}{chapter}}             
 
 %% Divisions style
 \setsecnumdepth{subsection}
