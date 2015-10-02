@@ -1,4 +1,4 @@
-\documentclass[14pt]{these}
+\documentclass[14pt,oldfontcommands]{these}
 
 \usepackage{mathpazo}
 \renewcommand{\familydefault}{\rmdefault}
@@ -11,7 +11,7 @@
 \usepackage{array}
 \usepackage{longtable}
 \usepackage{multirow}
-
+\usepackage{pdflscape}
 
 \makeatletter
 \define@cmdkey{bdd}[BDD]{house}{}
@@ -35,25 +35,85 @@
 \define@cmdkey{bdd}[BDD]{backInscr}{}
 \makeatother
 
+\title{Homère dans la culture romaine entre la fin de la République et
+  la fin de la dynastie julio-claudienne}
+\author{Rachel Deyts}
 
 \begin{document}
 
-\part{D\'ecors}
+\begin{titlingpage}
+  \setlength{\parindent}{0pt}
+
+  \begin{center}
+    \small
+    \null\vfill
+    \includegraphics[height=1.42in]{sorbonne}
+    \par\vspace{1\onelineskip}
+    {\Large\scshape Université Paris-Sorbonne}
+    \par\vspace{\onelineskip}
+    {\normalsize\bf\scshape École Doctorale 124}
+    \par
+    {\normalsize\bf Laboratoire de recherche Rome et ses renaissances}
+    \par\vspace{\onelineskip}
+    {\large\textsc{Thèse}}
+    \par
+    {pour obtenir le grade de}
+    \par
+    {\scshape Docteur de l'université Paris-Sorbonne}
+    \par\vspace{\onelineskip}
+    {Discipline: Archéologie}
+    \par\vspace{\onelineskip}
+    {Présentée et soutenue par:}
+    \par\smallskip
+    {\large\bf Rachel \textsc{Deyts}}
+    \par\vspace{0.5\onelineskip}
+    {le 5 décembre 2015}
+    \par
+    \begin{framed}
+      \Large\textbf{\thetitle}\\
+      -- Annexes --
+    \end{framed}
+    \par
+    {\bf Sous la direction de:}
+    \par
+    {M. Gilles \textsc{Sauron} -- Professeur, Université Paris-Sorbonne}
+    \par\vspace{\onelineskip}
+    {\bf Membres du jury:}
+    \par
+    \begin{tabular}{r >{\scshape}l @{\hspace{1em}--\hspace{1em}} l}
+      Mme Agnès & Rouveret & Professeur, Univ. Paris-Ouest-Nanterre\\
+      M. Renaud & Robert & Professeur, Univ. de Bordeaux-Montaigne\\
+      M. Anton & Powell & Professeur, Swansea University\\
+      M. François & Baratte & Professeur, Univ.  Paris-Sorbonne
+    \end{tabular}
+    \vfill
+  \end{center}
+\end{titlingpage}
+
+
+\tableofcontents*
+
+
+\part{Décors}
 \newcommand{\decor}[2][]{
-  \setkeys{bdd}{#1}
-  \centering
-  \includegraphics[width=\textwidth,height=0.7\textheight,keepaspectratio]{#2}
+  {
+    \setkeys{bdd}{#1}
+    \centering
+    \includegraphics[width=\textwidth,height=0.7\textheight,keepaspectratio]{#2}
 
-  \BDDhouse\\
-  \BDDname\\
-  \textbf{Sujet:} \BDDsubject\\
-  \textbf{Type:} \BDDtype\\ 
-  \textbf{Datation:} \BDDdate\\ 
-  \textbf{Pi\`ece, paroi:}\BDDroom, \BDDwall\\
-  \textbf{Artiste:}\BDDartist\\ 
-  \textbf{Localisation actuelle:}\BDDlocation\\
-  \textbf{Cr\'edits photographiques:} \BDDcredits
+    \vfill
+    \ifcsname BDDHouse\endcsname\BDDhouse\\\fi
+    \BDDname\\
+    \textbf{Sujet:} \BDDsubject\\
+    \textbf{Type:} \BDDtype\\ 
+    \textbf{Datation:} \BDDdate\\ 
+    \textbf{Pièce, paroi:} \BDDroom, \BDDwall\\
+    \textbf{Artiste:} \BDDartist\\ 
+    \textbf{Localisation actuelle:} \BDDlocation\\
+    \textbf{Crédits photographiques:} \BDDcredits
 
+    \vspace{2\onelineskip}
+  }
   \clearpage
 }
 \input{annexe-decors.tex}
@@ -61,18 +121,19 @@
 \subsection*{Nombres d'occurrences des héros homériques dans les décors de Pompéi
 et d'Herculanum}
 
-\begin{tabular}{|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.1\textwidth}|}
+{\small
+\begin{longtable}{|p{0.17\textwidth}|p{0.2\textwidth}*{8}{|c}|}
 \hline 
 \multicolumn{2}{|c|}{} & \multicolumn{3}{c|}{Espaces de réception} & \multicolumn{4}{c|}{Espaces privés} & \tabularnewline
 \hline 
 \hline 
-Personnage & Sujet & \emph{Atrium} et ailes & \emph{Oecus} & \emph{Tablinum} & \emph{Triclinium} & \emph{Cubiculum, Diaeta} & Jardin & Péristyle & Autres\tabularnewline
+Personnage & Sujet & \rotatebox{270}{\emph{Atrium} et ailes} & \rotatebox{270}{\emph{Oecus}} & \rotatebox{270}{\emph{Tablinum}} & \rotatebox{270}{\emph{Triclinium}} & \rotatebox{270}{\emph{Cubiculum, Diaeta}} & \rotatebox{270}{Jardin} & \rotatebox{270}{Péristyle} & \rotatebox{270}{Autres}\tabularnewline
 \hline 
-\multicolumn{2}{|c|}{\emph{Iliade} en entier} & I &  &  &  &  &  &  & I\tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{\emph{Iliade} en entier} & I &  &  &  &  &  &  & I\tabularnewline
 \hline 
-\multicolumn{2}{|c|}{Chryséis (embarquement de)} & I &  &  &  &  &  &  & I\tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{Chryséis (embarquement de)} & I &  &  &  &  &  &  & I\tabularnewline
 \hline 
-\multirow{7}{0.1\textwidth}{Achille} & et Chiron & 1 &  & 1 &  &  & 2 &  & I\tabularnewline
+\multirow{7}{0.17\textwidth}{Achille} & et Chiron & 1 &  & 1 &  &  & 2 &  & I\tabularnewline
 \cline{2-10} 
  & à Skyros & 1 &  & 1 & 2 &  & 1 & I & \tabularnewline
 \cline{2-10} 
@@ -86,13 +147,13 @@ Personnage & Sujet & \emph{Atrium} et ailes & \emph{Oecus} & \emph{Tablinum} & \
 \cline{2-10} 
  & Jeux funéraires de Patrocle &  & 1 &  &  &  &  &  & \tabularnewline
 \hline 
-\multirow{2}{0.1\textwidth}{Thétis} & dans la forge d'Héphaïstos & 3 &  & 2 & 1 &  &  &  & \tabularnewline
+\multirow{2}{0.17\textwidth}{Thétis} & dans la forge d'Héphaïstos & 3 &  & 2 & 1 &  &  &  & \tabularnewline
 \cline{2-10} 
  & apportant ses armes à Achille, sur un cheval marin &  & 1 &  & 2 &  &  & 2 & \tabularnewline
 \hline 
-\multicolumn{2}{|c|}{Jupiter et Junon (noces de)} & 1 &  &  &  &  &  &  & \tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{Jupiter et Junon (noces de)} & 1 &  &  &  &  &  &  & \tabularnewline
 \hline 
-\multirow{4}{0.1\textwidth}{Ulysse} & et le Palladion &  &  &  & 1 &  &  &  & \tabularnewline
+\multirow{4}{0.17\textwidth}{Ulysse} & et le Palladion &  &  &  & 1 &  &  &  & \tabularnewline
 \cline{2-10} 
  & et Circé & 1 &  &  &  &  &  &  & 1\tabularnewline
 \cline{2-10} 
@@ -100,21 +161,21 @@ Personnage & Sujet & \emph{Atrium} et ailes & \emph{Oecus} & \emph{Tablinum} & \
 \cline{2-10} 
  & et personnage non identifié & 1 &  &  &  &  &  &  & \tabularnewline
 \hline 
-\multirow{3}{0.1\textwidth}{Cassandre} & (viol de) & 1 & 1 &  &  &  &  &  & \tabularnewline
+\multirow{3}{0.17\textwidth}{Cassandre} & (viol de) & 1 & 1 &  &  &  &  &  & \tabularnewline
 \cline{2-10} 
  & (prophétie de) &  &  &  & 2 &  &  &  & \tabularnewline
 \cline{2-10} 
  & et le cheval de Troie & 1 &  &  &  &  &  &  & \tabularnewline
 \hline 
-\multirow{2}{0.1\textwidth}{Pâris} & (jugement de) &  &  &  & 6 & 1 &  & 1 & \tabularnewline
+\multirow{2}{0.17\textwidth}{Pâris} & (jugement de) &  &  &  & 6 & 1 &  & 1 & \tabularnewline
 \cline{2-10} 
  & et Hélène &  &  & 1 & 1 & 4 &  &  & \tabularnewline
 \hline 
-\multirow{2}{0.1\textwidth}{Hélène} & et Pâris &  &  & 1 & 1 & 4 &  &  & \tabularnewline
+\multirow{2}{0.17\textwidth}{Hélène} & et Pâris &  &  & 1 & 1 & 4 &  &  & \tabularnewline
 \cline{2-10} 
  & et Ménélas & 1 &  &  & 1 &  &  &  & \tabularnewline
 \hline 
-\multirow{4}{0.1\textwidth}{Énée} & et Didon & 1 &  &  &  &  &  & 1 & \tabularnewline
+\multirow{4}{0.17\textwidth}{Énée} & et Didon & 1 &  &  &  &  &  & 1 & \tabularnewline
 \cline{2-10} 
  & blessé &  &  &  & 1 &  &  &  & \tabularnewline
 \cline{2-10} 
@@ -124,29 +185,33 @@ Personnage & Sujet & \emph{Atrium} et ailes & \emph{Oecus} & \emph{Tablinum} & \
 \hline 
 Didon & abandonnée & 1 &  &  &  &  &  &  & \tabularnewline
 \hline 
-\multirow{2}{0.1\textwidth}{Iphigénie} & (sacrifice de) &  &  &  &  &  &  & 1 & 1\tabularnewline
+\multirow{2}{0.17\textwidth}{Iphigénie} & (sacrifice de) &  &  &  &  &  &  & 1 & 1\tabularnewline
 \cline{2-10} 
  & en Tauride & 1 &  & 1 & 1 & 1 &  &  & 1\tabularnewline
 \hline 
-\multicolumn{2}{|c|}{Cheval de Troie} & 3 &  &  &  & 1 &  &  & \tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{Cheval de Troie} & 3 &  &  &  & 1 &  &  & \tabularnewline
 \hline 
-\multicolumn{2}{|c|}{Laocoon (mort de)} & 2 &  &  &  &  &  &  & \tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{Laocoon (mort de)} & 2 &  &  &  &  &  &  & \tabularnewline
 \hline 
-\multicolumn{2}{|c|}{Apollon et Poséidon devant Troie} & 1 &  &  &  &  &  & 1 & \tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{Apollon et Poséidon devant Troie} & 1 &  &  &  &  &  & 1 & \tabularnewline
 \hline 
-\multicolumn{2}{|c|}{Ganymède} &  &  &  &  & 1 &  &  & \tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{Ganymède} &  &  &  &  & 1 &  &  & \tabularnewline
 \hline 
-\end{tabular}
+\end{longtable}
+}
+\clearpage 
+
 
 \subsection*{Œuvres à thématiques homériques regroupées par peintre, d'après le
 catalogue de L. Richardson (Richardson 2000)}
 
-\begin{longtable}{|>{\centering}p{0.2\textwidth}|>{\centering}p{0.2\textwidth}|>{\centering}p{0.3\textwidth}|>{\centering}p{0.3\textwidth}|}
+{\small
+\begin{longtable}{|>{\centering}p{0.2\textwidth}|>{\centering}p{0.2\textwidth}|>{\centering}p{0.25\textwidth}|>{\centering}p{0.25\textwidth}|}
 \hline 
 Peintre  & Maisons & Peintures à sujet homérique & Autres sujets représentés par le même peintre, dans la même maison. \tabularnewline
 \hline 
 \hline 
-\multirow{3}{0.2\textwidth}{Le « peintre de Boscotrecase » (p. 36 \emph{sq.}) } & Maison du prêtre Amandus (I, 7, 7)  & \emph{Pâris présenté à Hélène} & \emph{Galatée et Polyphème, Hercule dans le jardin des Hespérides,
+\multirow{3}{0.2\textwidth}{Le «peintre de Boscotrecase» (p. 36 \emph{sq.}) } & Maison du prêtre Amandus (I, 7, 7)  & \emph{Pâris présenté à Hélène} & \emph{Galatée et Polyphème, Hercule dans le jardin des Hespérides,
 Chute d'Icare, Persée sauvant Andromède}\tabularnewline
 \cline{2-4} 
  & Maison de Julius Polybius (IX, 13, 1-3)  & \emph{Origines de Rome } & \emph{Châtiment de Dircé}\tabularnewline
@@ -236,20 +301,26 @@ Chryséis & \tabularnewline
  & Herculanum Augusteum & Hercule découvrant Télèphe, Chiron et Achille  &  Thésée et le Minotaure, Marsyas et Olympus\tabularnewline
 \hline 
 \end{longtable}
+}
 
 \part{Objets}
 \newcommand{\objet}[2][]{
-  \setkeys{bdd}{#1}
-  \centering\noindent\includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{#2}
+  {
+    \setkeys{bdd}{#1}
+    \centering\noindent\includegraphics[width=\textwidth,height=0.5\textheight,keepaspectratio]{#2}
 
-  \noindent \textbf{D\'enomination:} \BDDname\\ 
-            \textbf{Sujet:} \BDDsubject\\ 
-            \textbf{Mat\'eriau:} \BDDmaterial\\
-            \textbf{Datation:} \BDDdate\\ 
-            \textbf{Artiste:} \BDDartist\\ 
-            \textbf{Lieu de d\'ecouverte:} \BDDdiscovery\\ 
-            \textbf{Localisation actuelle:} \BDDlocation\\ 
-            \textbf{Cr\'edits photographiques:}\BDDcredits
+    \vfill
+    \textbf{Dénomination:} \BDDname\\ 
+    \textbf{Sujet:} \BDDsubject\\ 
+    \textbf{Matériau:} \BDDmaterial\\
+    \textbf{Datation:} \BDDdate\\ 
+    \textbf{Artiste:} \BDDartist\\ 
+    \textbf{Lieu de découverte:} \BDDdiscovery\\ 
+    \textbf{Localisation actuelle:} \BDDlocation\\ 
+    \textbf{Crédits photographiques:} \BDDcredits
+
+    \vspace{2\onelineskip}
+  }
 
   \clearpage
 }
@@ -258,12 +329,13 @@ Chryséis & \tabularnewline
 \subsection*{Récapitulatif des tables iliaques et de leurs sujets, d'après l'ouvrage
 d'A. Sadurska (Sadurska 1964)}
 
-\begin{longtable}{|>{\centering}p{0.05\textwidth}|>{\centering}p{0.05\textwidth}|>{\centering}p{0.15\textwidth}|>{\centering}p{0.1\textwidth}|>{\centering}p{0.2\textwidth}|>{\centering}p{0.4\textwidth}|}
+{\small
+\begin{longtable}{|>{\centering}p{0.05\textwidth}|>{\centering}p{0.05\textwidth}|>{\centering}p{0.15\textwidth}|>{\centering}p{0.15\textwidth}|>{\centering}p{0.2\textwidth}|>{\centering}p{0.3\textwidth}|}
 \hline 
 N\textdegree{}  & Réf  & Nom  & Matériau  & Provenance  & Sujet\tabularnewline
 \hline 
 \hline 
-\multicolumn{6}{|c}{Groupe 1}\tabularnewline
+\multicolumn{6}{|c|}{Groupe 1}\tabularnewline
 \hline 
 1 & A & Tabula Iliaca Capitolina & Calcite & Près de la Via Appia & \emph{Iliade, Ilioupersis, Ethiopide, Petite Iliade}; assez complets. \tabularnewline
 \hline 
@@ -275,7 +347,7 @@ N\textdegree{}  & Réf  & Nom  & Matériau  & Provenance  & Sujet\tabularnewline
 \hline 
 5 & 0 & Table Iliaque, fragment d'un bouclier d'Achille & Palombin Rose  & Rome & Idem \tabularnewline
 \hline 
-\multicolumn{6}{|c}{Groupe 2}\tabularnewline
+\multicolumn{6}{|c|}{Groupe 2}\tabularnewline
 \hline 
 6 & B & Dessin Sarti.  &  &  & Fragment \emph{Iliade}. Disparu. \tabularnewline
 \hline 
@@ -289,7 +361,7 @@ Fragment \emph{Ilioupersis}. Disparu. \tabularnewline
 \hline 
 10 & K & Tabula Borgia & Marbre jaunâtre & Prov. inconnue & Sujet difficile à déterminer.\tabularnewline
 \hline 
-\multicolumn{6}{|c}{Groupe 3}\tabularnewline
+\multicolumn{6}{|c|}{Groupe 3}\tabularnewline
 \hline 
 11 & H & Table Odysséenne Rondanini & Palombino crème & Prov. inconnue & Hermès, Ulysse, Circé, compagnons d'Ulysse. \tabularnewline
 \hline 
@@ -303,25 +375,46 @@ Fragment \emph{Ilioupersis}. Disparu. \tabularnewline
 \hline 
 16 & Sa & Tabula Odysseaca Tomassetti & Marbre blanc  & Rome & 24 scènes de l'\emph{Odyssée }\tabularnewline
 \hline 
-\multicolumn{6}{|c}{Groupe 4 : ce groupe comporte trois tables à sujet non homérique.}\tabularnewline
+\multicolumn{6}{|c|}{Groupe 4: ce groupe comporte trois tables à sujet non homérique.}\tabularnewline
 \hline 
 \end{longtable}
+}
 
 \part{Monnaies}
 \newcommand{\monnaie}[2][]{
   \setkeys{bdd}{#1}
   
   \begin{tabular}{p{0.6\textwidth} p{0.4\textwidth}}
-    \textbf{R\'ef\'erence:} \BDDref, 
+    \textbf{Référence:} \BDDref, 
     \textbf{Valeur:} \BDDvalue, 
-    \textbf{Atelier mon\'etaire:} \BDDartist\\ 
+    \textbf{Atelier monétaire:} \BDDartist\newline
     \textbf{Magistrat:} \BDDmagistrate, 
     \textbf{Datation:} \BDDdate,
-    \textbf{Droit:} \BDDfront, \textbf{Inscription:} \BDDfrontInscr\\
-    \textbf{Revers:}\BDDback, \textbf{Inscription:} \BDDbackInscr &
+    \textbf{Droit:} \BDDfront, \textbf{Inscription:} \BDDfrontInscr\newline
+    \textbf{Revers:} \BDDback, \textbf{Inscription:} \BDDbackInscr
+    &
+    \def\empty{bdd-monnaies/.jpg}
+    \def\tmp{#2}
+    \ifx\tmp\empty\else
     \raisebox{-0.9\height}{\includegraphics[width=0.4\textwidth]{#2}}
+    \fi
   \end{tabular}
 }
 \input{annexe-monnaies.tex}
 
+\thirdcover
+\fourthcover
+
+\null\vfill
+\textsc{Université Paris-Sorbonne}
+\medskip
+
+\textbf{\textsc{École doctorale}}\textbf{:}
+
+ED 124 -- Histoire de l'art et Archéologie
+
+Bureau 233, Gallerie Colbert-INHA, 2 rue Vivienne, 75002 Paris
+\medskip
+
+\textbf{\textsc{Discipline}}\textbf{:} Archéologie
 \end{document}

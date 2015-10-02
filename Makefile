@@ -11,7 +11,7 @@ bibliography-cites.tex: antiques.bib modernes.bib bib-citeall.py
 	./bib-citeall.py
 
 annexe.pdf: annexe.tex annexe-decors.tex annexe-objets.tex annexe-monnaies.tex
-	pdflatex annexe.tex
+	latexmk -f -pdf annexe.tex
 
 annexe-decors.tex annexe-objets.tex annexe-monnaies.tex: bdd-*.csv annexe.py
 	./annexe.py
