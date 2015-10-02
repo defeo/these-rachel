@@ -26,11 +26,6 @@
 \setheaderspaces{*}{2\onelineskip}{*}
 \checkandfixthelayout
 
-\makepagestyle{these}
-\makeevenfoot{these}{\thepage}{}{}
-\makeoddfoot{these}{}{}{\thepage}
-\pagestyle{these}
-
 %% Small fonts
 \let\quotetemp\quotation
 \def\quotation{\quotetemp\small}
@@ -39,32 +34,47 @@
 
 %% Figure captions
 \RequirePackage[font=small]{caption}
-\counterwithout{figure}{chapter}
+\renewcommand\@memmain@floats{%
+  \counterwithout{figure}{chapter} 
+  \counterwithout{table}{chapter}}             
 
 %% Divisions style
 \setsecnumdepth{subsection}
-\renewcommand*{\beforepartskip}{\cleardoublepage\null\vfil}
+\renewcommand*{\beforepartskip}{\cleardoublepage\thispagestyle{quasiempty}\null\vfil}
 \renewcommand*{\afterpartskip}{\vfil\newpage%
-  %\setcounter{chapter}{0}%
-  %\renewcommand{\theHchapter}{\thepart.\thechapter}%
-  \null\newpage}
+  \thispagestyle{empty}\null\newpage}
 \counterwithin*{chapter}{part}
 
+\makepagestyle{quasiempty}
+\makeevenfoot{quasiempty}{\thepage}{}{}
+\makeoddfoot{quasiempty}{}{}{\thepage}
+\aliaspagestyle{chapter}{quasiempty}
+
+\copypagestyle{these}{quasiempty}
 \makechapterstyle{these}{
-  \chapterstyle{default}
-  \chapterstyle{article}%  
-  \settowidth{\chapindent}{\chapnumfont 999}
+  \chapterstyle{dowding}
   \renewcommand*{\thechapter}{\Roman{chapter}}
-  \renewcommand*{\printchapternum}{\@hangfrom{\chapnumfont \thechapter.\quad}}
-  \renewcommand*{\printchapternonum}{}
-  \renewcommand*{\clearforchapter}{}% no new page
+  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}%
 }
 \chapterstyle{these}
+\makepsmarks{these}{%
+  \nouppercaseheads
+  \clearplainmark{toc}
+  \clearmark{part}\clearmark{chapter}\clearmark{section}\clearmark{subsection}
+  \createmark{part}{left}{nonumber}{\partname\ }{. \ }
+  \createmark{chapter}{right}{shownumber}{\@chapapp\ }{. \ }
+}
+\makeevenhead{these}{}{\itshape\small\leftmark}{}
+\makeoddhead{these}{}{\itshape\small\rightmark}{}
+\pagestyle{these}
+
+\let\backtemp\backmatter
+\renewcommand{\backmatter}{\markboth{}{}\backtemp}
 
 \renewcommand*{\thepart}{\arabic{part}}
-\setsecheadstyle{\bfseries\large}
+\setsecheadstyle{\itshape{}\large}
 \renewcommand*{\thesection}{\arabic{section}}
-\setsubsecheadstyle{\bfseries\normalsize}
+\setsubsecheadstyle{\itshape\normalsize}
 \renewcommand*{\thesubsection}{\Alph{subsection}}
 \setsecnumformat{\csname the#1\endcsname.\quad}
 
@@ -81,15 +91,16 @@
 \RequirePackage{multibib}
 \newcites{antiques,modernes}{Auteurs antiques,Auteurs modernes}
 \renewcommand{\@memb@bchap}{\section*{\bibname}\prebibhook}
-\renewcommand{\prebibhook}{\small}
+\renewcommand{\prebibhook}{\small\markboth{Bibliographie}{\bibname}}
 
 %% To move to the third and fourth cover
 \newcommand{\thirdcover}{%
-  \cleartooddpage\pagestyle{empty}%
+  \clearpage\pagestyle{empty}\cleartooddpage%
   \ifx \back@cover@layout \undefined%
   \else \back@cover@layout \fi%
 }
-\newcommand{\fourthcover}{\cleartoevenpage\pagestyle{empty}\setlength{\parindent}{0pt}}
+\newcommand{\fourthcover}{\pagestyle{empty}\cleartoevenpage\setlength{\parindent}{0pt}
+}
 
 %% Abstract
 \renewcommand{\abstract}{\textbf{\large\thetitle}\framed\abstractname\par\medskip\small}
