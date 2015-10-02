@@ -90,12 +90,12 @@
   \end{center}
 \end{titlingpage}
 
-
+\null\vfill
 \tableofcontents*
+\vfill
 
-
-\part{Décors}
-\markright{Peintures, mosaïques, reliefs}
+\part{Décors: peintures, mosaïques, reliefs}
+\markboth{Décors}{Peintures, mosaïques, reliefs}
 \newcommand{\decor}[2][]{
   {
     \setkeys{bdd}{#1}
@@ -130,13 +130,13 @@ et d'Herculanum}
 \hline 
 Personnage & Sujet & \rotatebox{270}{\emph{Atrium} et ailes} & \rotatebox{270}{\emph{Oecus}} & \rotatebox{270}{\emph{Tablinum}} & \rotatebox{270}{\emph{Triclinium}} & \rotatebox{270}{\emph{Cubiculum, Diaeta}} & \rotatebox{270}{Jardin} & \rotatebox{270}{Péristyle} & \rotatebox{270}{Autres}\tabularnewline
 \hline 
-\multicolumn{2}{|p{0.37\textwidth}|}{\emph{Iliade} en entier} & I &  &  &  &  &  &  & I\tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{\emph{Iliade} en entier} & 1 &  &  &  &  &  &  & 1\tabularnewline
 \hline 
-\multicolumn{2}{|p{0.37\textwidth}|}{Chryséis (embarquement de)} & I &  &  &  &  &  &  & I\tabularnewline
+\multicolumn{2}{|p{0.37\textwidth}|}{Chryséis (embarquement de)} & 1 &  &  &  &  &  &  & 1\tabularnewline
 \hline 
-Achille & et Chiron & 1 &  & 1 &  &  & 2 &  & I\tabularnewline
+Achille & et Chiron & 1 &  & 1 &  &  & 2 &  & 1\tabularnewline
 \cline{2-10} 
- & à Skyros & 1 &  & 1 & 2 &  & 1 & I & \tabularnewline
+ & à Skyros & 1 &  & 1 & 2 &  & 1 & 1 & \tabularnewline
 \cline{2-10} 
  & et Briséis & 2 &  &  &  &  &  &  & \tabularnewline
 \cline{2-10} 
@@ -304,8 +304,8 @@ Chryséis & \tabularnewline
 \end{longtable}
 }
 
-\part{Objets}
-\markright{Tablettes, sculptures et toreutiques}
+\part[Objets: tablettes, sculptures et art\\toreutique]{Objets: tablettes, sculptures et art toreutique}
+\markboth{Objets}{Tablettes, sculptures et art toreutique}
 \newcommand{\objet}[2][]{
   {
     \setkeys{bdd}{#1}
@@ -386,21 +386,25 @@ Fragment \emph{Ilioupersis}. Disparu. \tabularnewline
 \newcommand{\monnaie}[2][]{
   \setkeys{bdd}{#1}
   
-  \begin{tabular}{p{0.6\textwidth} p{0.4\textwidth}}
-    \textbf{Référence:} \BDDref, 
-    \textbf{Valeur:} \BDDvalue, 
+  \begin{tabular}{>{\small}p{0.6\textwidth} p{0.4\textwidth}}
+    \textbf{Référence:} \BDDref,\newline
+    \textbf{Valeur:} \BDDvalue,\newline
     \textbf{Atelier monétaire:} \BDDartist\newline
-    \textbf{Magistrat:} \BDDmagistrate, 
-    \textbf{Datation:} \BDDdate,
-    \textbf{Droit:} \BDDfront, \textbf{Inscription:} \BDDfrontInscr\newline
-    \textbf{Revers:} \BDDback, \textbf{Inscription:} \BDDbackInscr
+    \textbf{Magistrat:} \BDDmagistrate,\newline
+    \textbf{Datation:} \BDDdate,\newline
+    \textbf{Droit:} \BDDfront,\newline
+    \textbf{Inscription:} \BDDfrontInscr\newline
+    \textbf{Revers:} \BDDback,\newline
+    \textbf{Inscription:} \BDDbackInscr
     &
     \def\empty{bdd-monnaies/.jpg}
     \def\tmp{#2}
     \ifx\tmp\empty\else
     \raisebox{-0.9\height}{\includegraphics[width=0.4\textwidth]{#2}}
-    \fi
+    \fi\\
+    \hline
   \end{tabular}
+  \bigskip
 }
 \input{annexe-monnaies.tex}
 
