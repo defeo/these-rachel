@@ -11,7 +11,7 @@ with open('annexe-decors.tex', 'w') as out:
   \decor[house={%(house)s}, name={%(name)s}, subject={%(subject)s},
             type={%(type)s}, date={%(date)s}, room={%(room)s}, wall={%(wall)s},
             artist={%(painter)s}, location={%(location)s}, credits={%(credits)s}]
-            {bdd-decors/%(num)s.jpg}
+            {images/bdd-decors/%(num)s.jpg}
 ''' % row)
 
 # Ref,Apellation,Sujet,Materiau,Datation,Sculpteur,Decouverte,Localisation,Photographie
@@ -23,7 +23,7 @@ with open('annexe-objets.tex', 'w') as out:
   \objet[name={%(Apellation)s}, subject={%(Sujet)s}, material={%(Materiau)s},
             date={%(Datation)s}, artist={%(Sculpteur)s}, discovery={%(Decouverte)s},
             location={%(Localisation)s}, credits={%(Photographie)s}]
-            {bdd-objets/%(Ref)s.jpg}
+            {images/bdd-objets/%(Ref)s.jpg}
 ''' % row)
 
 
@@ -36,5 +36,5 @@ with open('annexe-monnaies.tex', 'w') as out:
   \monnaie[ref={%(Ref)s}, value={%(Valeur)s}, artist={%(Atelier)s}, 
             magistrate={%(Magistrat)s}, date={%(Date)s}, front={%(Droit)s},
             frontInscr={%(InscrDroit)s}, back={%(Revers)s}, backInscr={%(InscrRevers)s}]
-            {bdd-monnaies/%(Num)s.jpg}
+            {images/bdd-monnaies/%(Num)s.jpg}
 ''' % row)

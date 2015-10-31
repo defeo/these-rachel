@@ -5,7 +5,7 @@ these.pdf: these.tex these.cls hyphenations.sty title.tex bibliography.tex bibli
 	latexmk -f -pdf these.tex
 
 these.tex: these.lyx these.layout 
-	lyx -e latex these.lyx
+	lyx -e pdflatex these.lyx
 
 bibliography-cites.tex: antiques.bib modernes.bib bib-citeall.py
 	./bib-citeall.py
