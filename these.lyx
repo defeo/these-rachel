@@ -11,7 +11,7 @@
 \language french
 \language_package default
 \inputencoding latin9
-\fontencoding global
+\fontencoding LGR,T1
 \font_roman palatino
 \font_sans default
 \font_typewriter default
